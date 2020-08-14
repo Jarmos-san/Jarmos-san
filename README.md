@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ** **This is work-in-progress**
 -->
 
-# Somraj Saha-[@Jarmosan](https://twitter.com/Jarmosan)
+# [Somraj Saha](https://jarmos.netlify.app)
 
 Hi there! I'm a Machine Learning(ML) Engineer specializing in Computer Vision(CV) applications. Beside, developing software applications, I also work on building a friendly & welcoming community of like-minded individuals interested in ML/CV. If you would like to be part of the community too, or have business motivations, then feel free to get in touch.
 
