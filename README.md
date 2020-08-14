@@ -42,3 +42,8 @@ Trust & professionalism is of utmost importance for me, without which I don't fi
 + Email    - [somraj.mle@gmail.com](mailto:somraj.mle@gmail.com)
 + Twitter  - https://twitter.com/Jarmosan
 + LinkedIn - https://www.linkedin.com/in/jarmos/
+
+## Or Read My Articles & Thoughts
+
++ Medium - [medium.com/@jarmos](https://medium.com/@jarmos)
++ Blog   - https://medium.com/@jarmos
