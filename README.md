@@ -46,4 +46,6 @@ Trust & professionalism is of utmost importance for me, without which I don't fi
 ## Or Read My Articles & Thoughts
 
 + Medium - [medium.com/@jarmos](https://medium.com/@jarmos)
++ Quora - [www.quora.com/profile/Somraj-Saha](https://www.quora.com/profile/Somraj-Saha-3)
 + Blog   - [jarmos.netlify.app](https://jarmos.netlify.app)
+
