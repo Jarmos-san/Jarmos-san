@@ -46,4 +46,4 @@ Trust & professionalism is of utmost importance for me, without which I don't fi
 ## Or Read My Articles & Thoughts
 
 + Medium - [medium.com/@jarmos](https://medium.com/@jarmos)
-+ Blog   - https://medium.com/@jarmos
++ Blog   - [jarmos.netlify.app](https://jarmos.netlify.app)
