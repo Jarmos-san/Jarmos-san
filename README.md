@@ -10,7 +10,7 @@
 - 🥅 2020 Goals: Contribute at least one Open Source software for the community
 
 ### Listen To Songs With Me 🎧
-[![Spotify](https://novatorem.jarmos.vercel.app/api/spotify)](https://open.spotify.com/user/jarmos-san)
+[![Not Playing Any Songs At the Moment!](https://novatorem.jarmos.vercel.app/api/spotify)](https://open.spotify.com/user/jarmos-san)
 <!--
 ### Connect with me:
 
