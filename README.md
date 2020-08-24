@@ -1,7 +1,6 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Somraj Saha - aka [Jarmos][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=Blog&style=flat-square&url=https%3A%2F%2Fjarmos.netlify.app)](https://jarmos.netlify.app) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jarmos/) [![Twitter Follow](https://img.shields.io/twitter/follow/jarmosan?color=1DA1F2&logo=twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJarmosan&screen_name=jarmosan)
 
 ## I'm a Machine Learning Consultant!
 
