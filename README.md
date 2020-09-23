@@ -56,11 +56,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1887](https://github.com//python-poetry/poetry/issues/1887) in [python-poetry/poetry](https://github.com//python-poetry/poetry)
-2. 🗣 Commented on [#3191](https://github.com//simple-icons/simple-icons/issues/3191) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
-3. ❗️ Reopened issue [#127](https://github.com//Track3/hermit/issues/127) in [Track3/hermit](https://github.com//Track3/hermit)
-4. 🗣 Commented on [#127](https://github.com//Track3/hermit/issues/127) in [Track3/hermit](https://github.com//Track3/hermit)
-5. ❌ Closed PR [#3](https://github.com//Jarmos-san/.github/pull/3) in [Jarmos-san/.github](https://github.com//Jarmos-san/.github)
+1. ❗️ Opened issue [#2830](https://github.com//git-for-windows/git/issues/2830) in [git-for-windows/git](https://github.com//git-for-windows/git)
+2. 🗣 Commented on [#1887](https://github.com//python-poetry/poetry/issues/1887) in [python-poetry/poetry](https://github.com//python-poetry/poetry)
+3. 🗣 Commented on [#1887](https://github.com//python-poetry/poetry/issues/1887) in [python-poetry/poetry](https://github.com//python-poetry/poetry)
+4. 🗣 Commented on [#3191](https://github.com//simple-icons/simple-icons/issues/3191) in [simple-icons/simple-icons](https://github.com//simple-icons/simple-icons)
+5. ❗️ Reopened issue [#127](https://github.com//Track3/hermit/issues/127) in [Track3/hermit](https://github.com//Track3/hermit)
 <!--END_SECTION:activity-->
 
 </details>
