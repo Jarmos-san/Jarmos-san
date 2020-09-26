@@ -56,11 +56,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1887](https://github.com//python-poetry/poetry/issues/1887) in [python-poetry/poetry](https://github.com//python-poetry/poetry)
-2. 🗣 Commented on [#1887](https://github.com//python-poetry/poetry/issues/1887) in [python-poetry/poetry](https://github.com//python-poetry/poetry)
-3. ❗️ Closed issue [#2830](https://github.com//git-for-windows/git/issues/2830) in [git-for-windows/git](https://github.com//git-for-windows/git)
-4. 🗣 Commented on [#2830](https://github.com//git-for-windows/git/issues/2830) in [git-for-windows/git](https://github.com//git-for-windows/git)
-5. 🗣 Commented on [#2830](https://github.com//git-for-windows/git/issues/2830) in [git-for-windows/git](https://github.com//git-for-windows/git)
+1. 🗣 Commented on [#1887](https://github.com/python-poetry/poetry/issues/1887) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+2. 🗣 Commented on [#1887](https://github.com/python-poetry/poetry/issues/1887) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
+3. ❗️ Closed issue [#2830](https://github.com/git-for-windows/git/issues/2830) in [git-for-windows/git](https://github.com/git-for-windows/git)
+4. 🗣 Commented on [#2830](https://github.com/git-for-windows/git/issues/2830) in [git-for-windows/git](https://github.com/git-for-windows/git)
+5. 🗣 Commented on [#2830](https://github.com/git-for-windows/git/issues/2830) in [git-for-windows/git](https://github.com/git-for-windows/git)
 <!--END_SECTION:activity-->
 
 </details>
