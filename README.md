@@ -10,6 +10,7 @@
 - 🥅 2020 Goals: Contribute at least one Open Source software for the community
 
 ### Listen To Songs With Me 🎧
+
 [![Not Playing Any Songs At the Moment!](https://novatorem.jarmos.vercel.app/api/spotify)](https://open.spotify.com/user/jarmos-san)
 <!--
 ### Connect with me:
@@ -54,7 +55,7 @@
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
-  
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1887](https://github.com/python-poetry/poetry/issues/1887) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
 2. 🗣 Commented on [#1887](https://github.com/python-poetry/poetry/issues/1887) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
