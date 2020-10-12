@@ -57,11 +57,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#619](https://github.com/python/devguide/pull/619) in [python/devguide](https://github.com/python/devguide)
-2. 🗣 Commented on [#371](https://github.com/python/devguide/issues/371) in [python/devguide](https://github.com/python/devguide)
-3. 🗣 Commented on [#1887](https://github.com/python-poetry/poetry/issues/1887) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-4. 🗣 Commented on [#1887](https://github.com/python-poetry/poetry/issues/1887) in [python-poetry/poetry](https://github.com/python-poetry/poetry)
-5. ❗️ Closed issue [#2830](https://github.com/git-for-windows/git/issues/2830) in [git-for-windows/git](https://github.com/git-for-windows/git)
+1. 🎉 Merged PR [#8](https://github.com/Jarmos-san/blog/pull/8) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+2. 🎉 Merged PR [#7](https://github.com/Jarmos-san/blog/pull/7) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+3. 🎉 Merged PR [#9](https://github.com/Jarmos-san/blog/pull/9) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+4. 💪 Opened PR [#619](https://github.com/python/devguide/pull/619) in [python/devguide](https://github.com/python/devguide)
+5. 🗣 Commented on [#371](https://github.com/python/devguide/issues/371) in [python/devguide](https://github.com/python/devguide)
 <!--END_SECTION:activity-->
 
 </details>
