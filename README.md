@@ -57,11 +57,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Jarmos-san/blog/pull/8) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-2. 🎉 Merged PR [#7](https://github.com/Jarmos-san/blog/pull/7) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-3. 🎉 Merged PR [#9](https://github.com/Jarmos-san/blog/pull/9) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-4. 💪 Opened PR [#619](https://github.com/python/devguide/pull/619) in [python/devguide](https://github.com/python/devguide)
-5. 🗣 Commented on [#371](https://github.com/python/devguide/issues/371) in [python/devguide](https://github.com/python/devguide)
+1. 🎉 Merged PR [#10](https://github.com/Jarmos-san/blog/pull/10) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+2. 🎉 Merged PR [#8](https://github.com/Jarmos-san/blog/pull/8) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+3. 🎉 Merged PR [#7](https://github.com/Jarmos-san/blog/pull/7) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+4. 🎉 Merged PR [#9](https://github.com/Jarmos-san/blog/pull/9) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+5. 💪 Opened PR [#619](https://github.com/python/devguide/pull/619) in [python/devguide](https://github.com/python/devguide)
 <!--END_SECTION:activity-->
 
 </details>
