@@ -42,11 +42,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why/How Should You Treat Your Open-Source Project As a Business](https://medium.com/@jarmos/why-you-should-treat-your-open-source-project-as-a-business-c95862ccbce7?source=rss-dc888a4b021e------2)
 - [Deep Learning Vs Traditional Computer Vision Techniques: Which Should You Choose?](https://medium.com/discover-computer-vision/deep-learning-vs-traditional-techniques-a-comparison-a590d66b63bd?source=rss-dc888a4b021e------2)
 - [I believe you were supposed to mention PyGitHub here? But forgot about it.](https://medium.com/@jarmos/i-believe-you-were-supposed-to-mention-pygithub-here-but-forgot-about-it-bab99ddd96c8?source=rss-dc888a4b021e------2)
 - [Unveiling Common Misconceptions of “Democratizing” Data Science/Machine Learning](https://towardsdatascience.com/unveiling-common-misconceptions-of-democratizing-data-science-machine-learning-28fcbedf2811?source=rss-dc888a4b021e------2)
 - [Submitting Your Stories to Discover Computer Vision: Some Guidelines](https://medium.com/discover-computer-vision/discover-computer-vision-submission-guidelines-27e3f686e596?source=rss-dc888a4b021e------2)
-- [The Team Behind the Keyboard at Discover Computer Vision](https://medium.com/discover-computer-vision/about-discover-computer-vision-15908db9f5f6?source=rss-dc888a4b021e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jarmos.netlify.app)
