@@ -57,11 +57,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/Jarmos-san/blog/pull/22) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-2. 🎉 Merged PR [#15](https://github.com/Jarmos-san/blog/pull/15) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-3. 🎉 Merged PR [#17](https://github.com/Jarmos-san/blog/pull/17) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-4. 🎉 Merged PR [#16](https://github.com/Jarmos-san/blog/pull/16) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-5. 🎉 Merged PR [#18](https://github.com/Jarmos-san/blog/pull/18) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+1. ❌ Closed PR [#20](https://github.com/Jarmos-san/blog/pull/20) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+2. ❌ Closed PR [#23](https://github.com/Jarmos-san/blog/pull/23) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+3. ❌ Closed PR [#24](https://github.com/Jarmos-san/blog/pull/24) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+4. 🎉 Merged PR [#22](https://github.com/Jarmos-san/blog/pull/22) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+5. 🎉 Merged PR [#15](https://github.com/Jarmos-san/blog/pull/15) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
 <!--END_SECTION:activity-->
 
 </details>
