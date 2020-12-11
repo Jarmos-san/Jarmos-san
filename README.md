@@ -73,6 +73,9 @@
 
 </details>
 
+<br />
+<br />
+
 Got questions for me? Consider asking me a public one here--[Ask Me Anything!](https://github.com/Jarmos-san/ama)
 
 [website]: https://jarmos.netlify.app
