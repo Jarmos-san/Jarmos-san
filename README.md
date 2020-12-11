@@ -49,7 +49,7 @@
 - [Unveiling Common Misconceptions of “Democratizing” Data Science/Machine Learning](https://towardsdatascience.com/unveiling-common-misconceptions-of-democratizing-data-science-machine-learning-28fcbedf2811?source=rss-dc888a4b021e------2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://jarmos.netlify.app)
+➡️ Read more of such [blog posts...](https://jarmos.netlify.app)
 
 ---
 
