@@ -1,6 +1,6 @@
 ### Hi there, I'm Somraj Saha - aka [Jarmos][website] 👋
 
-[![Website](https://img.shields.io/website?label=Website&style=flat-square&url=https%3A%2F%2Fjarmos.netlify.app&logo=netlify&color=00C7B7)](https://jarmos.netlify.app) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jarmos/) [![Quora profile](https://img.shields.io/static/v1?label=Quora&message=QnA&color=B92B27&style=flat-square&logo=quora)](https://www.quora.com/profile/Somraj-Saha-3) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Jarmos-san/ama) [![Twitter Follow](https://img.shields.io/twitter/follow/jarmosan?color=1DA1F2&logo=twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJarmosan&screen_name=jarmosan)
+[![Website](https://img.shields.io/website?label=Website&style=flat-square&url=https%3A%2F%2Fjarmos.netlify.app&logo=netlify&color=00C7B7)](https://jarmos.netlify.app) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jarmos/) [![Quora profile](https://img.shields.io/static/v1?label=Quora&message=QnA&color=B92B27&style=flat-square&logo=quora)](https://www.quora.com/profile/Somraj-Saha-3) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Jarmos-san/Jarmos-san/discussions?discussions_q=category%3AQ%26A) [![Twitter Follow](https://img.shields.io/twitter/follow/jarmosan?color=1DA1F2&logo=twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJarmosan&screen_name=jarmosan)
 
 ## I'm an ML Software Engineer!
 
@@ -76,7 +76,7 @@
 <br />
 <br />
 
-Got questions for me? Consider asking me a public one here--[Ask Me Anything!](https://github.com/Jarmos-san/ama)
+Got questions for me? Consider asking me a public one here--[Ask Me Anything!](https://github.com/Jarmos-san/Jarmos-san/discussions?discussions_q=category%3AQ%26A)
 
 [website]: https://jarmos.netlify.app
 [twitter]: https://twitter.com/jarmosan
