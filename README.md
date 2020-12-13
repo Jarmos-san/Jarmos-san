@@ -57,11 +57,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1800](https://github.com/tiangolo/fastapi/issues/1800) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
-2. 🗣 Commented on [#815](https://github.com/tiangolo/fastapi/issues/815) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
-3. ❗️ Opened issue [#35](https://github.com/Jarmos-san/blog/issues/35) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-4. 🎉 Merged PR [#34](https://github.com/Jarmos-san/blog/pull/34) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-5. 💪 Opened PR [#34](https://github.com/Jarmos-san/blog/pull/34) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+1. ❗️ Opened issue [#1593](https://github.com/rstacruz/cheatsheets/issues/1593) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
+2. 🗣 Commented on [#1800](https://github.com/tiangolo/fastapi/issues/1800) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
+3. 🗣 Commented on [#815](https://github.com/tiangolo/fastapi/issues/815) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
+4. ❗️ Opened issue [#35](https://github.com/Jarmos-san/blog/issues/35) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+5. 🎉 Merged PR [#34](https://github.com/Jarmos-san/blog/pull/34) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
 <!--END_SECTION:activity-->
 
 </details>
