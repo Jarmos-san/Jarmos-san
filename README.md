@@ -39,7 +39,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Check Out My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [ML Engineer vs Data Scientist: Whom Should You Hire?](https://towardsdatascience.com/ml-engineer-vs-data-scientist-53c047666739?source=rss-dc888a4b021e------2)
