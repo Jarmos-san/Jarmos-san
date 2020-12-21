@@ -56,9 +56,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-
+:zap: Recent Github Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1593](https://github.com/rstacruz/cheatsheets/issues/1593) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
 2. 🗣 Commented on [#1800](https://github.com/tiangolo/fastapi/issues/1800) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
@@ -67,19 +65,15 @@
 5. 🎉 Merged PR [#34](https://github.com/Jarmos-san/blog/pull/34) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
 <!--END_SECTION:activity-->
 
-</details>
+---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Jarmos's Github Stats" src="https://github-readme-stats.jarmos.vercel.app/api?username=Jarmos-san&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="Jarmos's Github Stats" src="https://github-readme-stats.jarmos.vercel.app/api?username=Jarmos-san&show_icons=true&hide_border=true" />
 
 <br />
 <br />
+<br />
 
-Got questions for me? Consider asking me a public one here--[Ask Me Anything!](https://github.com/Jarmos-san/Jarmos-san/discussions?discussions_q=category%3AQ%26A)
+Got questions for me? Consider asking me a public one here-[Ask Me Anything!](https://github.com/Jarmos-san/Jarmos-san/discussions?discussions_q=category%3AQ%26A)
 
 [website]: https://jarmos.netlify.app
 [twitter]: https://twitter.com/jarmosan
