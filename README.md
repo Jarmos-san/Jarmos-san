@@ -1,26 +1,26 @@
-### Hi there, I'm Somraj Saha - aka [Jarmos][website] 👋
+# Hi there, I'm Somraj Saha - aka [Jarmos][website] 👋
 
 [![Website](https://img.shields.io/website?label=Website&style=flat-square&url=https%3A%2F%2Fjarmos.netlify.app&logo=netlify&color=00C7B7)](https://jarmos.netlify.app) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jarmos/) [![Quora profile](https://img.shields.io/static/v1?label=Quora&message=QnA&color=B92B27&style=flat-square&logo=quora)](https://www.quora.com/profile/Somraj-Saha-3) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Jarmos-san/Jarmos-san/discussions?discussions_q=category%3AQ%26A) [![Twitter Follow](https://img.shields.io/twitter/follow/jarmosan?color=1DA1F2&logo=twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJarmosan&screen_name=jarmosan)
 
-## I'm an ML Engineer!
+## I'm an ML Engineer
 
 - 🔭 I’m currently providing services to small-scale enterprises & entrepreneurs with their ML endeavours!
 - 🌱 I’m currently learning to play the guitar as well as containerize full-scaled apps into smaller microservices using Docker.
-- 👯 I’m looking to collaborate with other Open-Source projects mantainers :wink:
+- 👯 I’m looking to collaborate with other Open-Source projects maintainers :wink:
 - 🥅 2020 Goals: Contribute at least one Open Source software for the community
 
-### Languages and Tools:
+### Languages and Tools
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](http://zsh.sourceforge.net/)
-[<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />](https://www.tensorflow.org/)
-[<img align="left" alt="Scikit-Learn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />](https://scikit-learn.org/)
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com/)
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
-[<img src="https://img.icons8.com/color/26/000000/powershell.png"/>](https://docs.microsoft.com/en-us/powershell/?view=powershell-5.1)
-[<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />](https://www.microsoft.com/en-in/windows)
+![PowerShell](https://img.shields.io/static/v1?label=Visual%20Studio%20Code&style=for-the-badge&logo=Visual%20Studio%20Code&message=1.52&color=007ACC)
+![Git](https://img.shields.io/static/v1?label=Git&style=for-the-badge&logo=git&message=2.27.0&color=F05032)
+![GitHub](https://img.shields.io/static/v1?label=GitHub&style=for-the-badge&logo=github&message=Jarmos-san&color=181717)
+![Bash](https://img.shields.io/static/v1?label=GNU%20BASh&style=for-the-badge&logo=GNU%20Bash&message=5.1&color=4EAA25)
+![TensorFlow](https://img.shields.io/static/v1?label=TensorFlow&style=for-the-badge&logo=tensorflow&message=2.4.0&color=FF6F00)
+![Scikit-Learn](https://img.shields.io/static/v1?label=Sklearn&style=for-the-badge&logo=Scikit-learn&message=0.23&color=F7931E)
+![Docker](https://img.shields.io/static/v1?label=Docker&style=for-the-badge&logo=Docker&message=19.03&color=2496ED)
+![Python](https://img.shields.io/static/v1?label=Python&style=for-the-badge&logo=Python&message=3.8.5&color=3776AB)
+![Windows](https://img.shields.io/static/v1?label=Windows&style=for-the-badge&logo=Windows&message=10&color=0078D6)
+![PowerShell](https://img.shields.io/static/v1?label=PowerShell&style=for-the-badge&logo=powershell&message=5.1&color=5391FE)
 
 ---
 
