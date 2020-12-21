@@ -49,7 +49,7 @@
 
 ---
 
-<img align="left" alt="Jarmos's Github Stats" src="https://github-readme-stats.jarmos.vercel.app/api?username=Jarmos-san&show_icons=true&hide_border=true" />
+<img align="left" alt="Jarmos's Github Stats" src="https://github-readme-stats.jarmos.vercel.app/api?username=Jarmos-san&&hide_border=true&count_private=true&theme=dark" />
 
 <br />
 <br />
