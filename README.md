@@ -22,10 +22,6 @@
 [<img src="https://img.icons8.com/color/26/000000/powershell.png"/>](https://docs.microsoft.com/en-us/powershell/?view=powershell-5.1)
 [<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />](https://www.microsoft.com/en-in/windows)
 
-
-<br />
-<br />
-
 ---
 
 ### 📕 Check Out My Latest Articles
