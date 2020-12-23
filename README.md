@@ -40,11 +40,11 @@
 
 :zap: Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2956](https://github.com/git-for-windows/git/issues/2956) in [git-for-windows/git](https://github.com/git-for-windows/git)
-2. ❗️ Opened issue [#1593](https://github.com/rstacruz/cheatsheets/issues/1593) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
-3. 🗣 Commented on [#1800](https://github.com/tiangolo/fastapi/issues/1800) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
-4. 🗣 Commented on [#815](https://github.com/tiangolo/fastapi/issues/815) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
-5. ❗️ Opened issue [#35](https://github.com/Jarmos-san/blog/issues/35) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+1. ❗️ Closed issue [#2956](https://github.com/git-for-windows/git/issues/2956) in [git-for-windows/git](https://github.com/git-for-windows/git)
+2. 🗣 Commented on [#2956](https://github.com/git-for-windows/git/issues/2956) in [git-for-windows/git](https://github.com/git-for-windows/git)
+3. ❗️ Opened issue [#2956](https://github.com/git-for-windows/git/issues/2956) in [git-for-windows/git](https://github.com/git-for-windows/git)
+4. ❗️ Opened issue [#1593](https://github.com/rstacruz/cheatsheets/issues/1593) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
+5. 🗣 Commented on [#1800](https://github.com/tiangolo/fastapi/issues/1800) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
 <!--END_SECTION:activity-->
 
 ---
