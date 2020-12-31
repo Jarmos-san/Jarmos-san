@@ -27,11 +27,11 @@
 ### 📕 Check Out My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Customizing the New Windows Terminal: A Minimalist Approach](https://medium.com/dev-genius/customizing-the-new-windows-terminal-5eaeec193630?source=rss-dc888a4b021e------2)
 - [ML Engineer vs Data Scientist: Whom Should You Hire?](https://towardsdatascience.com/ml-engineer-vs-data-scientist-53c047666739?source=rss-dc888a4b021e------2)
 - [Why/How Should You Treat Your Open-Source Project As a Business](https://medium.com/@jarmos/reasons-to-treat-your-oss-project-as-a-business-d47ccb6a9ed7?source=rss-dc888a4b021e------2)
 - [Deep Learning Vs Traditional Computer Vision Techniques: Which Should You Choose?](https://medium.com/discover-computer-vision/deep-learning-vs-traditional-techniques-a-comparison-a590d66b63bd?source=rss-dc888a4b021e------2)
 - [Unveiling Common Misconceptions of “Democratizing” Data Science/Machine Learning](https://towardsdatascience.com/unveiling-common-misconceptions-of-democratizing-data-science-machine-learning-28fcbedf2811?source=rss-dc888a4b021e------2)
-- [Submitting Your Stories to Discover Computer Vision: Some Guidelines](https://medium.com/discover-computer-vision/discover-computer-vision-submission-guidelines-27e3f686e596?source=rss-dc888a4b021e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ Read more of such [blog posts...](https://jarmos.netlify.app)
