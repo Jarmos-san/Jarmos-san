@@ -40,11 +40,11 @@
 
 :zap: Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2832](https://github.com/getpelican/pelican/issues/2832) in [getpelican/pelican](https://github.com/getpelican/pelican)
-2. ❗️ Closed issue [#2956](https://github.com/git-for-windows/git/issues/2956) in [git-for-windows/git](https://github.com/git-for-windows/git)
-3. 🗣 Commented on [#2956](https://github.com/git-for-windows/git/issues/2956) in [git-for-windows/git](https://github.com/git-for-windows/git)
-4. ❗️ Opened issue [#2956](https://github.com/git-for-windows/git/issues/2956) in [git-for-windows/git](https://github.com/git-for-windows/git)
-5. ❗️ Opened issue [#1593](https://github.com/rstacruz/cheatsheets/issues/1593) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
+1. 🎉 Merged PR [#36](https://github.com/Jarmos-san/blog/pull/36) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+2. ❗️ Opened issue [#2832](https://github.com/getpelican/pelican/issues/2832) in [getpelican/pelican](https://github.com/getpelican/pelican)
+3. ❗️ Closed issue [#2956](https://github.com/git-for-windows/git/issues/2956) in [git-for-windows/git](https://github.com/git-for-windows/git)
+4. 🗣 Commented on [#2956](https://github.com/git-for-windows/git/issues/2956) in [git-for-windows/git](https://github.com/git-for-windows/git)
+5. ❗️ Opened issue [#2956](https://github.com/git-for-windows/git/issues/2956) in [git-for-windows/git](https://github.com/git-for-windows/git)
 <!--END_SECTION:activity-->
 
 ---
