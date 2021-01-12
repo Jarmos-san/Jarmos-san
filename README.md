@@ -40,11 +40,11 @@
 
 :zap: Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Jarmos-san/Alokka/pull/2) in [Jarmos-san/Alokka](https://github.com/Jarmos-san/Alokka)
-2. ❗️ Closed issue [#32](https://github.com/Jarmos-san/blog/issues/32) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-3. 🗣 Commented on [#32](https://github.com/Jarmos-san/blog/issues/32) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-4. ❗️ Closed issue [#2832](https://github.com/getpelican/pelican/issues/2832) in [getpelican/pelican](https://github.com/getpelican/pelican)
-5. 🗣 Commented on [#2832](https://github.com/getpelican/pelican/issues/2832) in [getpelican/pelican](https://github.com/getpelican/pelican)
+1. 🗣 Commented on [#12571](https://github.com/neovim/neovim/issues/12571) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🎉 Merged PR [#2](https://github.com/Jarmos-san/Alokka/pull/2) in [Jarmos-san/Alokka](https://github.com/Jarmos-san/Alokka)
+3. ❗️ Closed issue [#32](https://github.com/Jarmos-san/blog/issues/32) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+4. 🗣 Commented on [#32](https://github.com/Jarmos-san/blog/issues/32) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+5. ❗️ Closed issue [#2832](https://github.com/getpelican/pelican/issues/2832) in [getpelican/pelican](https://github.com/getpelican/pelican)
 <!--END_SECTION:activity-->
 
 ---
