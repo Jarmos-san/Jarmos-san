@@ -40,11 +40,11 @@
 
 :zap: Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2108](https://github.com/tiangolo/fastapi/issues/2108) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
-2. 🗣 Commented on [#12571](https://github.com/neovim/neovim/issues/12571) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🎉 Merged PR [#2](https://github.com/Jarmos-san/Alokka/pull/2) in [Jarmos-san/Alokka](https://github.com/Jarmos-san/Alokka)
-4. ❗️ Closed issue [#32](https://github.com/Jarmos-san/blog/issues/32) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-5. 🗣 Commented on [#32](https://github.com/Jarmos-san/blog/issues/32) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+1. 🗣 Commented on [#145](https://github.com/JanDeDobbeleer/oh-my-posh3/issues/145) in [JanDeDobbeleer/oh-my-posh3](https://github.com/JanDeDobbeleer/oh-my-posh3)
+2. 🗣 Commented on [#2108](https://github.com/tiangolo/fastapi/issues/2108) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
+3. 🗣 Commented on [#12571](https://github.com/neovim/neovim/issues/12571) in [neovim/neovim](https://github.com/neovim/neovim)
+4. 🎉 Merged PR [#2](https://github.com/Jarmos-san/Alokka/pull/2) in [Jarmos-san/Alokka](https://github.com/Jarmos-san/Alokka)
+5. ❗️ Closed issue [#32](https://github.com/Jarmos-san/blog/issues/32) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
 <!--END_SECTION:activity-->
 
 ---
