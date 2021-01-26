@@ -49,6 +49,8 @@
 5. 🗣 Commented on [#145](https://github.com/JanDeDobbeleer/oh-my-posh3/issues/145) in [JanDeDobbeleer/oh-my-posh3](https://github.com/JanDeDobbeleer/oh-my-posh3)
 <!--END_SECTION:activity-->
 
+</br>
+
 <img align="left" alt="Jarmos's Github Stats" src="https://github-readme-stats.jarmos.vercel.app/api?username=Jarmos-san&&hide_border=true&count_private=true&theme=dark" />
 
 Got questions for me? Consider asking me a public one here-[Ask Me Anything!](https://github.com/Jarmos-san/Jarmos-san/discussions?discussions_q=category%3AQ%26A)
