@@ -11,18 +11,16 @@
 
 ### Languages and Tools
 
-![PowerShell](https://img.shields.io/static/v1?label=Visual%20Studio%20Code&style=for-the-badge&logo=Visual%20Studio%20Code&message=1.52&color=007ACC)
-![Git](https://img.shields.io/static/v1?label=Git&style=for-the-badge&logo=git&message=2.27.0&color=F05032)
-![GitHub](https://img.shields.io/static/v1?label=GitHub&style=for-the-badge&logo=github&message=Jarmos-san&color=181717)
-![Bash](https://img.shields.io/static/v1?label=GNU%20BASh&style=for-the-badge&logo=GNU%20Bash&message=5.1&color=4EAA25)
-![TensorFlow](https://img.shields.io/static/v1?label=TensorFlow&style=for-the-badge&logo=tensorflow&message=2.4.0&color=FF6F00)
-![Scikit-Learn](https://img.shields.io/static/v1?label=Sklearn&style=for-the-badge&logo=Scikit-learn&message=0.23&color=F7931E)
-![Docker](https://img.shields.io/static/v1?label=Docker&style=for-the-badge&logo=Docker&message=19.03&color=2496ED)
-![Python](https://img.shields.io/static/v1?label=Python&style=for-the-badge&logo=Python&message=3.8.5&color=3776AB)
-![Windows](https://img.shields.io/static/v1?label=Windows&style=for-the-badge&logo=Windows&message=10&color=0078D6)
-![PowerShell](https://img.shields.io/static/v1?label=PowerShell&style=for-the-badge&logo=powershell&message=5.1&color=5391FE)
+- [PowerShell](https://docs.microsoft.com/en-us/powershell/)
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/Jarmos-san)
+- [TensorFlow](https://www.tensorflow.org/)
+- [Scikit-Learn](https://scikit-learn.org/stable/)
+- [Docker](https://www.docker.com/)
+- [Python](https://python.org)
+- [Windows](https://www.microsoft.com/en-in/software-download/windows10)
 
----
+</br>
 
 ### 📕 Check Out My Latest Articles
 
@@ -36,7 +34,7 @@
 
 ➡️ Read more of such [blog posts...](https://jarmos.netlify.app)
 
----
+</br>
 
 :zap: Recent Github Activity
 <!--START_SECTION:activity-->
@@ -47,7 +45,7 @@
 5. 🗣 Commented on [#145](https://github.com/JanDeDobbeleer/oh-my-posh3/issues/145) in [JanDeDobbeleer/oh-my-posh3](https://github.com/JanDeDobbeleer/oh-my-posh3)
 <!--END_SECTION:activity-->
 
----
+</br>
 
 <img align="left" alt="Jarmos's Github Stats" src="https://github-readme-stats.jarmos.vercel.app/api?username=Jarmos-san&&hide_border=true&count_private=true&theme=dark" />
 
