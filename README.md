@@ -2,12 +2,16 @@
 
 [![Website](https://img.shields.io/website?label=Website&style=flat-square&url=https%3A%2F%2Fjarmos.netlify.app&logo=netlify&color=00C7B7)](https://jarmos.netlify.app) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jarmos/) [![Quora profile](https://img.shields.io/static/v1?label=Quora&message=QnA&color=B92B27&style=flat-square&logo=quora)](https://www.quora.com/profile/Somraj-Saha-3) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Jarmos-san/Jarmos-san/discussions?discussions_q=category%3AQ%26A) [![Twitter Follow](https://img.shields.io/twitter/follow/jarmosan?color=1DA1F2&logo=twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJarmosan&screen_name=jarmosan)
 
+</br>
+
 ## I'm an ML Engineer
 
 - 🔭 I’m currently providing services to small-scale enterprises & entrepreneurs with their ML endeavours!
 - 🌱 I’m currently learning to play the guitar as well as containerize full-scaled apps into smaller microservices using Docker.
 - 👯 I’m looking to collaborate with other Open-Source projects maintainers :wink:
 - 🥅 2020 Goals: Contribute at least one Open Source software for the community
+
+</br>
 
 ### Languages and Tools
 
@@ -44,8 +48,6 @@
 4. 🗣 Commented on [#4](https://github.com/Jarmos-san/Aurochs/issues/4) in [Jarmos-san/Aurochs](https://github.com/Jarmos-san/Aurochs)
 5. 🗣 Commented on [#145](https://github.com/JanDeDobbeleer/oh-my-posh3/issues/145) in [JanDeDobbeleer/oh-my-posh3](https://github.com/JanDeDobbeleer/oh-my-posh3)
 <!--END_SECTION:activity-->
-
-</br>
 
 <img align="left" alt="Jarmos's Github Stats" src="https://github-readme-stats.jarmos.vercel.app/api?username=Jarmos-san&&hide_border=true&count_private=true&theme=dark" />
 
