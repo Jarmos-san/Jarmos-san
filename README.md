@@ -42,11 +42,11 @@
 
 :zap: Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/Jarmos-san/blog/pull/38) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-2. 💪 Opened PR [#38](https://github.com/Jarmos-san/blog/pull/38) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-3. 🎉 Merged PR [#2](https://github.com/Jarmos-san/Aurochs/pull/2) in [Jarmos-san/Aurochs](https://github.com/Jarmos-san/Aurochs)
-4. 🗣 Commented on [#4](https://github.com/Jarmos-san/Aurochs/issues/4) in [Jarmos-san/Aurochs](https://github.com/Jarmos-san/Aurochs)
-5. 🗣 Commented on [#145](https://github.com/JanDeDobbeleer/oh-my-posh3/issues/145) in [JanDeDobbeleer/oh-my-posh3](https://github.com/JanDeDobbeleer/oh-my-posh3)
+1. ❗️ Opened issue [#210](https://github.com/adityatelange/hugo-PaperMod/issues/210) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+2. 🎉 Merged PR [#38](https://github.com/Jarmos-san/blog/pull/38) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+3. 💪 Opened PR [#38](https://github.com/Jarmos-san/blog/pull/38) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+4. 🎉 Merged PR [#2](https://github.com/Jarmos-san/Aurochs/pull/2) in [Jarmos-san/Aurochs](https://github.com/Jarmos-san/Aurochs)
+5. 🗣 Commented on [#4](https://github.com/Jarmos-san/Aurochs/issues/4) in [Jarmos-san/Aurochs](https://github.com/Jarmos-san/Aurochs)
 <!--END_SECTION:activity-->
 
 </br>
