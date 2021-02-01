@@ -42,11 +42,11 @@
 
 :zap: Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#210](https://github.com/adityatelange/hugo-PaperMod/issues/210) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
-2. 🗣 Commented on [#210](https://github.com/adityatelange/hugo-PaperMod/issues/210) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
-3. ❗️ Opened issue [#210](https://github.com/adityatelange/hugo-PaperMod/issues/210) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
-4. 🎉 Merged PR [#38](https://github.com/Jarmos-san/blog/pull/38) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-5. 💪 Opened PR [#38](https://github.com/Jarmos-san/blog/pull/38) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+1. 🎉 Merged PR [#7](https://github.com/Jarmos-san/Aurochs/pull/7) in [Jarmos-san/Aurochs](https://github.com/Jarmos-san/Aurochs)
+2. ❗️ Closed issue [#210](https://github.com/adityatelange/hugo-PaperMod/issues/210) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+3. 🗣 Commented on [#210](https://github.com/adityatelange/hugo-PaperMod/issues/210) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+4. ❗️ Opened issue [#210](https://github.com/adityatelange/hugo-PaperMod/issues/210) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+5. 🎉 Merged PR [#38](https://github.com/Jarmos-san/blog/pull/38) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
 <!--END_SECTION:activity-->
 
 </br>
