@@ -53,11 +53,13 @@
 
 <img align="left" alt="Jarmos's Github Stats" src="https://github-readme-stats.jarmos.vercel.app/api?username=Jarmos-san&&hide_border=true&count_private=true&theme=dark" />
 
-Got questions for me? Consider asking me a public one here-[Ask Me Anything!](https://github.com/Jarmos-san/Jarmos-san/discussions?discussions_q=category%3AQ%26A)
+</br>
 
-Do you find my content or other resources valuable? Then consider [purchasing a book for me](https://www.buymeacoffee.com/Jarmos) :wink:
+Got questions for me? [Ask Me Anything!](https://github.com/Jarmos-san/Jarmos-san/discussions?discussions_q=category%3AQ%26A). Do you find my content or other resources valuable? Consider [purchasing a book for me](https://www.buymeacoffee.com/Jarmos) :wink:
 
 Or, you could subscribe to my [newsletter](https://jarmos.ck.page/newsletter) & get personalized updates delivered straight to your inbox! Don't worry I won't spam you & will only share one or two emails a month.
+
+</hr>
 
 [website]: https://jarmos.netlify.app
 [twitter]: https://twitter.com/jarmosan
