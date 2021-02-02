@@ -57,6 +57,8 @@ Got questions for me? Consider asking me a public one here-[Ask Me Anything!](ht
 
 Do you find my content or other resources valuable? Then consider [purchasing a book for me](https://www.buymeacoffee.com/Jarmos) :wink:
 
+Or, you could subscribe to my [newsletter](https://jarmos.ck.page/newsletter) & get personalized updates delivered straight to your inbox! Don't worry I won't spam you & will only share one or two emails a month.
+
 [website]: https://jarmos.netlify.app
 [twitter]: https://twitter.com/jarmosan
 [instagram]: https://www.instagram.com/jarmos.san/
