@@ -42,11 +42,11 @@
 
 :zap: Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#39](https://github.com/Jarmos-san/blog/issues/39) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-2. ❗️ Opened issue [#218](https://github.com/adityatelange/hugo-PaperMod/issues/218) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
-3. ❗️ Closed issue [#35](https://github.com/Jarmos-san/blog/issues/35) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-4. 🗣 Commented on [#35](https://github.com/Jarmos-san/blog/issues/35) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-5. 🎉 Merged PR [#7](https://github.com/Jarmos-san/Aurochs/pull/7) in [Jarmos-san/Aurochs](https://github.com/Jarmos-san/Aurochs)
+1. ❗️ Closed issue [#218](https://github.com/adityatelange/hugo-PaperMod/issues/218) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+2. 🗣 Commented on [#218](https://github.com/adityatelange/hugo-PaperMod/issues/218) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+3. ❗️ Closed issue [#39](https://github.com/Jarmos-san/blog/issues/39) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+4. 🗣 Commented on [#39](https://github.com/Jarmos-san/blog/issues/39) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+5. ❗️ Opened issue [#39](https://github.com/Jarmos-san/blog/issues/39) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
 <!--END_SECTION:activity-->
 
 </br>
