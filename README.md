@@ -29,11 +29,11 @@
 ### 📕 Check Out My Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [A Standard & Complete CI/CD Pipeline for Most Python Projects](https://medium.com/dev-genius/a-standard-complete-ci-cd-pipeline-for-most-python-projects-263602a05b2f?source=rss-dc888a4b021e------2)
-- [Customizing the New Windows Terminal: A Minimalist Approach](https://medium.com/dev-genius/customizing-the-new-windows-terminal-5eaeec193630?source=rss-dc888a4b021e------2)
-- [ML Engineer vs Data Scientist: Whom Should You Hire?](https://towardsdatascience.com/ml-engineer-vs-data-scientist-53c047666739?source=rss-dc888a4b021e------2)
-- [Why/How Should You Treat Your Open-Source Project As a Business](https://medium.com/@jarmos/reasons-to-treat-your-oss-project-as-a-business-d47ccb6a9ed7?source=rss-dc888a4b021e------2)
-- [Deep Learning Vs Traditional Computer Vision Techniques: Which Should You Choose?](https://medium.com/discover-computer-vision/deep-learning-vs-traditional-techniques-a-comparison-a590d66b63bd?source=rss-dc888a4b021e------2)
+- [A Standard	& Complete CI/CD Pipeline for Most Python Projects](https://jarmos.netlify.app/posts/a-standard-ci-cd-pipeline-for-python-projects/)
+- [ML Engineer vs Data Scientist; Whom Should You Hire?](https://jarmos.netlify.app/posts/ml-engineer-vs-data-scientists-who-should-you-choose/)
+- [Why/How Should You Treat Your Open-Source Project As a Business](https://jarmos.netlify.app/posts/treat-your-open-source-project-as-a-business/)
+- [Deep Learning Vs Traditional Computer Vision Techniques--Which Should You Choose?](https://jarmos.netlify.app/posts/deep-learning-vs-traditional-techniques-a-comparison/)
+- [Unveiling Common Misconceptions of “Democratizing” Data Science/Machine Learning](https://jarmos.netlify.app/posts/unveiling-common-misconceptions-of-democratizing-data-science-machine-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ Read more of such [blog posts...](https://jarmos.netlify.app)
