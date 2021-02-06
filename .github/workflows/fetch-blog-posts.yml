@@ -6,11 +6,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+ FecthBlogPosts:
+    name: Fetch Blog Posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@jarmos"
+          feed_list: "https://jarmos.netlify.app/index.xml"
