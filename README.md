@@ -42,11 +42,11 @@
 
 :zap: Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#218](https://github.com/adityatelange/hugo-PaperMod/issues/218) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
-2. 🗣 Commented on [#218](https://github.com/adityatelange/hugo-PaperMod/issues/218) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
-3. ❗️ Closed issue [#39](https://github.com/Jarmos-san/blog/issues/39) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-4. 🗣 Commented on [#39](https://github.com/Jarmos-san/blog/issues/39) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-5. ❗️ Opened issue [#39](https://github.com/Jarmos-san/blog/issues/39) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+1. 🗣 Commented on [#1999](https://github.com/netlify/netlify-cms/issues/1999) in [netlify/netlify-cms](https://github.com/netlify/netlify-cms)
+2. ❗️ Closed issue [#218](https://github.com/adityatelange/hugo-PaperMod/issues/218) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+3. 🗣 Commented on [#218](https://github.com/adityatelange/hugo-PaperMod/issues/218) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+4. ❗️ Closed issue [#39](https://github.com/Jarmos-san/blog/issues/39) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
+5. 🗣 Commented on [#39](https://github.com/Jarmos-san/blog/issues/39) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
 <!--END_SECTION:activity-->
 
 </br>
