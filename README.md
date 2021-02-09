@@ -1,67 +1,70 @@
-# Hi there, I'm Somraj Saha - aka [Jarmos][website] 👋
+### Hi there 👋
 
-[![Website](https://img.shields.io/website?label=Website&style=flat-square&url=https%3A%2F%2Fjarmos.netlify.app&logo=netlify&color=00C7B7)](https://jarmos.netlify.app) [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jarmos/) [![Quora profile](https://img.shields.io/static/v1?label=Quora&message=QnA&color=B92B27&style=flat-square&logo=quora)](https://www.quora.com/profile/Somraj-Saha-3) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Jarmos-san/Jarmos-san/discussions?discussions_q=category%3AQ%26A) [![Twitter Follow](https://img.shields.io/twitter/follow/jarmosan?color=1DA1F2&logo=twitter&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJarmosan&screen_name=jarmosan)
+I'm Somraj, but you can call me Jarmos. I'm an ML Engineer by profession but I often contribute to the open-source software community as much as I can.
 
-</br>
+Besides, everything software-related I enjoy writing literary content, so do check out my blog.
 
-## I'm an ML Engineer
+#### 👷 Check out what I'm currently working on
 
-- 🔭 I’m currently providing services to small-scale enterprises & entrepreneurs with their ML endeavours!
-- 🌱 I’m currently learning to play the guitar as well as containerize full-scaled apps into smaller microservices using Docker.
-- 👯 I’m looking to collaborate with other Open-Source projects maintainers :wink:
-- 🥅 2020 Goals: Contribute at least one Open Source software for the community
+- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo (today)
+- [Jarmos-san/Alokka](https://github.com/Jarmos-san/Alokka) - (Work-in-Progress) A super-fast asynchronous Python library for the Twitter API (today)
+- [Jarmos-san/moot](https://github.com/Jarmos-san/moot) - A bot that uses Github Actions to post on Reddit periodically (4 days ago)
+- [Jarmos-san/hugo-blog](https://github.com/Jarmos-san/hugo-blog) - Source code repo for my blog site. (1 week ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - My personal dotfiles (WIP) (1 week ago)
+- [Jarmos-san/Aurochs](https://github.com/Jarmos-san/Aurochs) - A scraper for the official Python job board (2 weeks ago)
+- [Jarmos-san/Peng](https://github.com/Jarmos-san/Peng) - A minimalistic &amp; simple theme for my personal blog (3 weeks ago)
+- [Jarmos-san/.github](https://github.com/Jarmos-san/.github) - Default community health files for my Github account (1 month ago)
+- [Jarmos-san/ama](https://github.com/Jarmos-san/ama) - Ask me anything! (1 month ago)
+- [Jarmos-san/pynotes](https://github.com/Jarmos-san/pynotes) - Book on Python to get your feet wet for learning to code in Python. (6 months ago)
 
-</br>
+#### 🌱 My latest projects
 
-### Languages and Tools I Use Often
+- [Jarmos-san/moot](https://github.com/Jarmos-san/moot) - A bot that uses Github Actions to post on Reddit periodically
+- [Jarmos-san/Aurochs](https://github.com/Jarmos-san/Aurochs) - A scraper for the official Python job board
+- [Jarmos-san/Peng](https://github.com/Jarmos-san/Peng) - A minimalistic &amp; simple theme for my personal blog
+- [Jarmos-san/Alokka](https://github.com/Jarmos-san/Alokka) - (Work-in-Progress) A super-fast asynchronous Python library for the Twitter API
+- [Jarmos-san/ama](https://github.com/Jarmos-san/ama) - Ask me anything!
+- [Jarmos-san/.github](https://github.com/Jarmos-san/.github) - Default community health files for my Github account
+- [Jarmos-san/rasta](https://github.com/Jarmos-san/rasta) - A library to download images from Open-Images, COCO, ImageNet, etc.
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - My personal dotfiles (WIP)
+- [Jarmos-san/flask-tutorial](https://github.com/Jarmos-san/flask-tutorial) - Tutorial project from official Flask documentation
+- [Jarmos-san/sound-classifier](https://github.com/Jarmos-san/sound-classifier) - init description of a future sound-classifier project
 
-- [PowerShell](https://docs.microsoft.com/en-us/powershell/)
-- [Git](https://git-scm.com/)
-- [GitHub](https://github.com/Jarmos-san)
-- [TensorFlow](https://www.tensorflow.org/)
-- [Scikit-Learn](https://scikit-learn.org/stable/)
-- [Docker](https://www.docker.com/)
-- [Python](https://python.org)
-- [Windows](https://www.microsoft.com/en-in/software-download/windows10)
+#### 🔭 Latest releases I've contributed to
 
-</br>
 
-### 📕 Check Out My Latest Articles
+#### 📜 My recent blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [A Standard	& Complete CI/CD Pipeline for Most Python Projects](https://jarmos.netlify.app/posts/a-standard-ci-cd-pipeline-for-python-projects/)
-- [ML Engineer vs Data Scientist; Whom Should You Hire?](https://jarmos.netlify.app/posts/ml-engineer-vs-data-scientists-who-should-you-choose/)
-- [Why/How Should You Treat Your Open-Source Project As a Business](https://jarmos.netlify.app/posts/treat-your-open-source-project-as-a-business/)
-- [Deep Learning Vs Traditional Computer Vision Techniques--Which Should You Choose?](https://jarmos.netlify.app/posts/deep-learning-vs-traditional-techniques-a-comparison/)
-- [Unveiling Common Misconceptions of “Democratizing” Data Science/Machine Learning](https://jarmos.netlify.app/posts/unveiling-common-misconceptions-of-democratizing-data-science-machine-learning/)
-<!-- BLOG-POST-LIST:END -->
+- [A Standard	&amp; Complete CI/CD Pipeline for Most Python Projects](https://jarmos.netlify.app/posts/a-standard-ci-cd-pipeline-for-python-projects/) (2 weeks ago)
+- [ML Engineer vs Data Scientist; Whom Should You Hire?](https://jarmos.netlify.app/posts/ml-engineer-vs-data-scientists-who-should-you-choose/) (2 months ago)
+- [Why/How Should You Treat Your Open-Source Project As a Business](https://jarmos.netlify.app/posts/treat-your-open-source-project-as-a-business/) (4 months ago)
+- [Deep Learning Vs Traditional Computer Vision Techniques--Which Should You Choose?](https://jarmos.netlify.app/posts/deep-learning-vs-traditional-techniques-a-comparison/) (6 months ago)
+- [Unveiling Common Misconceptions of “Democratizing” Data Science/Machine Learning](https://jarmos.netlify.app/posts/unveiling-common-misconceptions-of-democratizing-data-science-machine-learning/) (7 months ago)
 
-➡️ Read more of such [blog posts...](https://jarmos.netlify.app)
+#### 📓 Gists I wrote
 
-</br>
+- [Python script to automate reddit posts](https://gist.github.com/438bd3d68fe7bce695fe7f3f4e886dc7) (4 days ago)
+- [A standard Python CI/CD pipeline for common use cases](https://gist.github.com/a1f219934fd23ad6b915a37dd85a2864) (2 weeks ago)
+- [Standard Python CI/CD Pipeline](https://gist.github.com/4f584ca1f0d0b64880741aef87565d86) (2 weeks ago)
+- [Pelican configuration](https://gist.github.com/7dcb7f00ba2b56cdc38c03f44aa0565d) (1 month ago)
+- [Using Jupyter Lab (or Notebook) with Python virtual environments](https://gist.github.com/b0dc5b9fda8d6e91f67a68ada1268cdf) (1 month ago)
 
-:zap: Recent Github Activity
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#40](https://github.com/Jarmos-san/blog/issues/40) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-2. 🗣 Commented on [#1999](https://github.com/netlify/netlify-cms/issues/1999) in [netlify/netlify-cms](https://github.com/netlify/netlify-cms)
-3. ❗️ Closed issue [#218](https://github.com/adityatelange/hugo-PaperMod/issues/218) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
-4. 🗣 Commented on [#218](https://github.com/adityatelange/hugo-PaperMod/issues/218) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
-5. ❗️ Closed issue [#39](https://github.com/Jarmos-san/blog/issues/39) in [Jarmos-san/blog](https://github.com/Jarmos-san/blog)
-<!--END_SECTION:activity-->
+#### 👯 Check out some of my recent followers
 
-</br>
+- [Nicholas282787728](https://github.com/Nicholas282787728)
+- [hemant0508](https://github.com/hemant0508)
+- [samholt](https://github.com/samholt)
+- [sour4bh](https://github.com/sour4bh)
+- [shaikmohammadshaheer](https://github.com/shaikmohammadshaheer)
 
-<img align="left" alt="Jarmos's Github Stats" src="https://github-readme-stats.jarmos.vercel.app/api?username=Jarmos-san&&hide_border=true&count_private=true&theme=dark" />
+#### 💬 Feedback
 
-</br>
+If you used one of my projects or my articles & found it useful, I would love to hear some feedback from you. Let me know if you want a feature or two implemented. Are there some specific topics you would like me to write about? Shoot me a DM & I'll figure something out.
 
-Got questions for me? [Ask Me Anything!](https://github.com/Jarmos-san/Jarmos-san/discussions?discussions_q=category%3AQ%26A). Do you find my content or other resources valuable? Consider [purchasing a book for me](https://www.buymeacoffee.com/Jarmos) :wink:
+#### 📫 How to reach me
 
-Or, you could subscribe to my [newsletter](https://jarmos.ck.page/newsletter) & get personalized updates delivered straight to your inbox! Don't worry I won't spam you & will only share one or two emails a month.
+- Twitter: https://twitter.com/Jarmosan
+- LinkedIn: https://www.linkedin.com/in/jarmos
+- Blog: https://jarmos.netlify.app
 
-</hr>
-
-[website]: https://jarmos.netlify.app
-[twitter]: https://twitter.com/jarmosan
-[instagram]: https://www.instagram.com/jarmos.san/
-[linkedin]: https://www.linkedin.com/in/jarmos/
+This self-generating profile page was created with [readme-scribe](https://github.com/muesli/readme-scribe), a FOSS by the amazing @muesli!
