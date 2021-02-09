@@ -11,11 +11,6 @@ Besides, everything software-related I enjoy writing literary content, so do che
 - [Jarmos-san/moot](https://github.com/Jarmos-san/moot) - A bot that uses Github Actions to post on Reddit periodically (4 days ago)
 - [Jarmos-san/hugo-blog](https://github.com/Jarmos-san/hugo-blog) - Source code repo for my blog site. (1 week ago)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - My personal dotfiles (WIP) (1 week ago)
-- [Jarmos-san/Aurochs](https://github.com/Jarmos-san/Aurochs) - A scraper for the official Python job board (2 weeks ago)
-- [Jarmos-san/Peng](https://github.com/Jarmos-san/Peng) - A minimalistic &amp; simple theme for my personal blog (3 weeks ago)
-- [Jarmos-san/.github](https://github.com/Jarmos-san/.github) - Default community health files for my Github account (1 month ago)
-- [Jarmos-san/ama](https://github.com/Jarmos-san/ama) - Ask me anything! (1 month ago)
-- [Jarmos-san/pynotes](https://github.com/Jarmos-san/pynotes) - Book on Python to get your feet wet for learning to code in Python. (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -24,11 +19,6 @@ Besides, everything software-related I enjoy writing literary content, so do che
 - [Jarmos-san/Peng](https://github.com/Jarmos-san/Peng) - A minimalistic &amp; simple theme for my personal blog
 - [Jarmos-san/Alokka](https://github.com/Jarmos-san/Alokka) - (Work-in-Progress) A super-fast asynchronous Python library for the Twitter API
 - [Jarmos-san/ama](https://github.com/Jarmos-san/ama) - Ask me anything!
-- [Jarmos-san/.github](https://github.com/Jarmos-san/.github) - Default community health files for my Github account
-- [Jarmos-san/rasta](https://github.com/Jarmos-san/rasta) - A library to download images from Open-Images, COCO, ImageNet, etc.
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - My personal dotfiles (WIP)
-- [Jarmos-san/flask-tutorial](https://github.com/Jarmos-san/flask-tutorial) - Tutorial project from official Flask documentation
-- [Jarmos-san/sound-classifier](https://github.com/Jarmos-san/sound-classifier) - init description of a future sound-classifier project
 
 #### 🔭 Latest releases I've contributed to
 
@@ -67,4 +57,4 @@ If you used one of my projects or my articles & found it useful, I would love to
 - LinkedIn: https://www.linkedin.com/in/jarmos
 - Blog: https://jarmos.netlify.app
 
-This self-generating profile page was created with [readme-scribe](https://github.com/muesli/readme-scribe), a FOSS by the amazing @muesli!
+This self-generating profile page was created with [readme-scribe](https://github.com/muesli/readme-scribe), a FOSS by the amazing [Christian Muehlhaeuser](https://github.com/muesli)!
