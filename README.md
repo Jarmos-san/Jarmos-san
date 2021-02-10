@@ -6,7 +6,7 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo (1 day ago)
+- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo (today)
 - [Jarmos-san/Alokka](https://github.com/Jarmos-san/Alokka) - (Work-in-Progress) A super-fast asynchronous Python library for the Twitter API (1 day ago)
 - [Jarmos-san/moot](https://github.com/Jarmos-san/moot) - A bot that uses Github Actions to post on Reddit periodically (5 days ago)
 - [Jarmos-san/hugo-blog](https://github.com/Jarmos-san/hugo-blog) - Source code repo for my blog site. (1 week ago)
