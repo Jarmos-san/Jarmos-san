@@ -27,9 +27,9 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 - [A Review of Some of the Most Popular Static Site Generators](https://jarmos.netlify.app/posts/reviewing-popular-static-site-generators/) (2 weeks ago)
 - [A Standard	&amp; Complete CI/CD Pipeline for Most Python Projects](https://jarmos.netlify.app/posts/a-standard-ci-cd-pipeline-for-python-projects/) (4 weeks ago)
+- [Customizing the New Windows Terminal: A Minimalist Approach](https://jarmos.netlify.app/posts/customizing-windows-terminal-a-minimalist-approach/) (1 month ago)
 - [ML Engineer vs Data Scientist: Whom Should You Hire?](https://jarmos.netlify.app/posts/ml-engineer-vs-data-scientists-who-should-you-choose/) (2 months ago)
 - [Why/How Should You Treat Your Open-Source Project As a Business](https://jarmos.netlify.app/posts/treat-your-open-source-project-as-a-business/) (4 months ago)
-- [Deep Learning Vs Traditional Computer Vision Techniques — Which Should You Choose?](https://jarmos.netlify.app/posts/deep-learning-vs-traditional-techniques-a-comparison/) (6 months ago)
 
 #### 📓 Gists I wrote
 
