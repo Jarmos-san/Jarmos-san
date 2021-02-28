@@ -6,7 +6,7 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (2 days ago)
+- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (3 days ago)
 - [Jarmos-san/Alokka](https://github.com/Jarmos-san/Alokka) - (Work-in-Progress) A super-fast asynchronous Python library for the Twitter API (2 weeks ago)
 - [Jarmos-san/moot](https://github.com/Jarmos-san/moot) - A bot that uses Github Actions to post on Reddit periodically (3 weeks ago)
 - [Jarmos-san/hugo-blog](https://github.com/Jarmos-san/hugo-blog) - Source code repo for my blog site. (3 weeks ago)
@@ -36,7 +36,7 @@ Besides, everything software-related I enjoy writing literary content, so do che
 - [Python script to automate reddit posts](https://gist.github.com/438bd3d68fe7bce695fe7f3f4e886dc7) (3 weeks ago)
 - [A standard Python CI/CD pipeline for common use cases](https://gist.github.com/a1f219934fd23ad6b915a37dd85a2864) (1 month ago)
 - [Standard Python CI/CD Pipeline](https://gist.github.com/4f584ca1f0d0b64880741aef87565d86) (1 month ago)
-- [Pelican configuration](https://gist.github.com/7dcb7f00ba2b56cdc38c03f44aa0565d) (1 month ago)
+- [Pelican configuration](https://gist.github.com/7dcb7f00ba2b56cdc38c03f44aa0565d) (2 months ago)
 - [Using Jupyter Lab (or Notebook) with Python virtual environments](https://gist.github.com/b0dc5b9fda8d6e91f67a68ada1268cdf) (2 months ago)
 
 #### 👯 Check out some of my recent followers
