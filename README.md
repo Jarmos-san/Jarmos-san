@@ -33,11 +33,11 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 📓 Gists I wrote
 
+- [Automated Netlify Build &amp; Deploy](https://gist.github.com/d4f41f18c96770b9b8286c5b69753b58) (today)
 - [My Netlify configurations](https://gist.github.com/e0d160ae26799d85a856fb1d9b756df4) (today)
 - [Example Dependabot configuration for updating GitHub Actions &amp; Submodules](https://gist.github.com/0a2fa445098b6fbc94ee2074bd8137b7) (today)
 - [My Hugo content directory](https://gist.github.com/d5892bca9f647e6ffbab89afd4a2259e) (today)
 - [Example Hugo config file](https://gist.github.com/be236e452044d902605a22910e112faa) (today)
-- [Hugo Directory Structure](https://gist.github.com/075c5a95cbf1473f43f68de682cc6885) (today)
 
 #### 👯 Check out some of my recent followers
 
