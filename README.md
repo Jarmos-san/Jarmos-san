@@ -6,7 +6,7 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - My personal dotfiles (WIP) (2 days ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - My personal dotfiles (WIP) (3 days ago)
 - [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (1 week ago)
 - [Jarmos-san/Alokka](https://github.com/Jarmos-san/Alokka) - (Work-in-Progress) A super-fast asynchronous Python library for the Twitter API (1 month ago)
 - [Jarmos-san/moot](https://github.com/Jarmos-san/moot) - A bot that uses Github Actions to post on Reddit periodically (1 month ago)
@@ -27,17 +27,17 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 - [How to Create an Overpowered Blog With Hugo (As a Wordpress Alternative)](https://jarmos.netlify.app/posts/blogging-with-hugo-as-an-wordpress-alternative/) (4 weeks ago)
 - [A Review of Some of the Most Popular Static Site Generators](https://jarmos.netlify.app/posts/reviewing-popular-static-site-generators/) (1 month ago)
-- [A Standard	&amp; Complete CI/CD Pipeline for Most Python Projects](https://jarmos.netlify.app/posts/a-standard-ci-cd-pipeline-for-python-projects/) (1 month ago)
+- [A Standard	&amp; Complete CI/CD Pipeline for Most Python Projects](https://jarmos.netlify.app/posts/a-standard-ci-cd-pipeline-for-python-projects/) (2 months ago)
 - [Customizing the New Windows Terminal: A Minimalist Approach](https://jarmos.netlify.app/posts/customizing-windows-terminal-a-minimalist-approach/) (2 months ago)
 - [ML Engineer vs Data Scientist: Whom Should You Hire?](https://jarmos.netlify.app/posts/ml-engineer-vs-data-scientists-who-should-you-choose/) (3 months ago)
 
 #### 📓 Gists I wrote
 
-- [Automated Netlify Build &amp; Deploy](https://gist.github.com/d4f41f18c96770b9b8286c5b69753b58) (4 days ago)
-- [My Netlify configurations](https://gist.github.com/e0d160ae26799d85a856fb1d9b756df4) (4 days ago)
-- [Example Dependabot configuration for updating GitHub Actions &amp; Submodules](https://gist.github.com/0a2fa445098b6fbc94ee2074bd8137b7) (4 days ago)
-- [My Hugo content directory](https://gist.github.com/d5892bca9f647e6ffbab89afd4a2259e) (4 days ago)
-- [Example Hugo config file](https://gist.github.com/be236e452044d902605a22910e112faa) (4 days ago)
+- [Automated Netlify Build &amp; Deploy](https://gist.github.com/d4f41f18c96770b9b8286c5b69753b58) (5 days ago)
+- [My Netlify configurations](https://gist.github.com/e0d160ae26799d85a856fb1d9b756df4) (5 days ago)
+- [Example Dependabot configuration for updating GitHub Actions &amp; Submodules](https://gist.github.com/0a2fa445098b6fbc94ee2074bd8137b7) (5 days ago)
+- [My Hugo content directory](https://gist.github.com/d5892bca9f647e6ffbab89afd4a2259e) (5 days ago)
+- [Example Hugo config file](https://gist.github.com/be236e452044d902605a22910e112faa) (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
