@@ -6,7 +6,7 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - My personal dotfiles (WIP) (5 days ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - My personal dotfiles (WIP) (6 days ago)
 - [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (1 week ago)
 - [Jarmos-san/Alokka](https://github.com/Jarmos-san/Alokka) - (Work-in-Progress) A super-fast asynchronous Python library for the Twitter API (1 month ago)
 - [Jarmos-san/moot](https://github.com/Jarmos-san/moot) - A bot that uses Github Actions to post on Reddit periodically (1 month ago)
@@ -28,7 +28,7 @@ Besides, everything software-related I enjoy writing literary content, so do che
 - [How to Create an Overpowered Blog With Hugo (As a Wordpress Alternative)](https://jarmos.netlify.app/posts/blogging-with-hugo-as-an-wordpress-alternative/) (1 month ago)
 - [A Review of Some of the Most Popular Static Site Generators](https://jarmos.netlify.app/posts/reviewing-popular-static-site-generators/) (1 month ago)
 - [A Standard	&amp; Complete CI/CD Pipeline for Most Python Projects](https://jarmos.netlify.app/posts/a-standard-ci-cd-pipeline-for-python-projects/) (2 months ago)
-- [Customizing the New Windows Terminal: A Minimalist Approach](https://jarmos.netlify.app/posts/customizing-windows-terminal-a-minimalist-approach/) (2 months ago)
+- [Customizing the New Windows Terminal: A Minimalist Approach](https://jarmos.netlify.app/posts/customizing-windows-terminal-a-minimalist-approach/) (3 months ago)
 - [ML Engineer vs Data Scientist: Whom Should You Hire?](https://jarmos.netlify.app/posts/ml-engineer-vs-data-scientists-who-should-you-choose/) (3 months ago)
 
 #### 📓 Gists I wrote
