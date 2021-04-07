@@ -6,7 +6,7 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (today)
+- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (1 day ago)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - My personal dotfiles (WIP) (2 weeks ago)
 - [Jarmos-san/Alokka](https://github.com/Jarmos-san/Alokka) - (Work-in-Progress) A super-fast asynchronous Python library for the Twitter API (1 month ago)
 - [Jarmos-san/moot](https://github.com/Jarmos-san/moot) - A bot that uses Github Actions to post on Reddit periodically (2 months ago)
@@ -33,11 +33,11 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 📓 Gists I wrote
 
-- [Automated Netlify Build &amp; Deploy](https://gist.github.com/d4f41f18c96770b9b8286c5b69753b58) (2 weeks ago)
-- [My Netlify configurations](https://gist.github.com/e0d160ae26799d85a856fb1d9b756df4) (2 weeks ago)
-- [Example Dependabot configuration for updating GitHub Actions &amp; Submodules](https://gist.github.com/0a2fa445098b6fbc94ee2074bd8137b7) (2 weeks ago)
-- [My Hugo content directory](https://gist.github.com/d5892bca9f647e6ffbab89afd4a2259e) (2 weeks ago)
-- [Example Hugo config file](https://gist.github.com/be236e452044d902605a22910e112faa) (2 weeks ago)
+- [Automated Netlify Build &amp; Deploy](https://gist.github.com/d4f41f18c96770b9b8286c5b69753b58) (3 weeks ago)
+- [My Netlify configurations](https://gist.github.com/e0d160ae26799d85a856fb1d9b756df4) (3 weeks ago)
+- [Example Dependabot configuration for updating GitHub Actions &amp; Submodules](https://gist.github.com/0a2fa445098b6fbc94ee2074bd8137b7) (3 weeks ago)
+- [My Hugo content directory](https://gist.github.com/d5892bca9f647e6ffbab89afd4a2259e) (3 weeks ago)
+- [Example Hugo config file](https://gist.github.com/be236e452044d902605a22910e112faa) (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
