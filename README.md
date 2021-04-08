@@ -6,7 +6,7 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (1 day ago)
+- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - My personal dotfiles (WIP) (2 weeks ago)
 - [Jarmos-san/Alokka](https://github.com/Jarmos-san/Alokka) - (Work-in-Progress) A super-fast asynchronous Python library for the Twitter API (1 month ago)
 - [Jarmos-san/moot](https://github.com/Jarmos-san/moot) - A bot that uses Github Actions to post on Reddit periodically (2 months ago)
