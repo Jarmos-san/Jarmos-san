@@ -6,8 +6,8 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (3 days ago)
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - My personal dotfiles (WIP) (3 weeks ago)
+- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (4 days ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - My personal dotfiles (WIP) (4 weeks ago)
 - [Jarmos-san/Alokka](https://github.com/Jarmos-san/Alokka) - (Work-in-Progress) A super-fast asynchronous Python library for the Twitter API (2 months ago)
 - [Jarmos-san/moot](https://github.com/Jarmos-san/moot) - A bot that uses Github Actions to post on Reddit periodically (2 months ago)
 - [Jarmos-san/hugo-blog](https://github.com/Jarmos-san/hugo-blog) - Source code repo for my blog site. (2 months ago)
@@ -33,11 +33,11 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 📓 Gists I wrote
 
-- [Automated Netlify Build &amp; Deploy](https://gist.github.com/d4f41f18c96770b9b8286c5b69753b58) (4 weeks ago)
-- [My Netlify configurations](https://gist.github.com/e0d160ae26799d85a856fb1d9b756df4) (4 weeks ago)
-- [Example Dependabot configuration for updating GitHub Actions &amp; Submodules](https://gist.github.com/0a2fa445098b6fbc94ee2074bd8137b7) (4 weeks ago)
-- [My Hugo content directory](https://gist.github.com/d5892bca9f647e6ffbab89afd4a2259e) (4 weeks ago)
-- [Example Hugo config file](https://gist.github.com/be236e452044d902605a22910e112faa) (4 weeks ago)
+- [Automated Netlify Build &amp; Deploy](https://gist.github.com/d4f41f18c96770b9b8286c5b69753b58) (1 month ago)
+- [My Netlify configurations](https://gist.github.com/e0d160ae26799d85a856fb1d9b756df4) (1 month ago)
+- [Example Dependabot configuration for updating GitHub Actions &amp; Submodules](https://gist.github.com/0a2fa445098b6fbc94ee2074bd8137b7) (1 month ago)
+- [My Hugo content directory](https://gist.github.com/d5892bca9f647e6ffbab89afd4a2259e) (1 month ago)
+- [Example Hugo config file](https://gist.github.com/be236e452044d902605a22910e112faa) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
