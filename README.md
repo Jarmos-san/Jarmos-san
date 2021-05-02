@@ -41,11 +41,11 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👯 Check out some of my recent followers
 
+- [darkfusion90](https://github.com/darkfusion90)
 - [hemant0508](https://github.com/hemant0508)
 - [samholt](https://github.com/samholt)
 - [sour4bh](https://github.com/sour4bh)
 - [shaikmohammadshaheer](https://github.com/shaikmohammadshaheer)
-- [wrickbasu](https://github.com/wrickbasu)
 
 #### 💬 Feedback
 
