@@ -6,9 +6,9 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
+- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - My personal dotfiles (WIP) (1 week ago)
 - [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (1 week ago)
-- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (2 weeks ago)
 - [Jarmos-san/Alokka](https://github.com/Jarmos-san/Alokka) - (Work-in-Progress) A super-fast asynchronous Python library for the Twitter API (3 months ago)
 - [Jarmos-san/moot](https://github.com/Jarmos-san/moot) - A bot that uses Github Actions to post on Reddit periodically (3 months ago)
 
@@ -25,11 +25,11 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 📜 My recent blog posts
 
+- [Using GitHub Actions to Deploy a FastAPI Project to Heroku](https://jarmos.netlify.app/posts/using-github-actions-to-deploy-a-fastapi-project-to-heroku/) (1 week ago)
 - [Google Serverless Infrastructure: A Primer on GCP &amp; Serverless Computing](https://jarmos.netlify.app/posts/details-of-google-serverless-computing/) (3 weeks ago)
 - [How to Create an Overpowered Blog With Hugo (As a Wordpress Alternative)](https://jarmos.netlify.app/posts/blogging-with-hugo-as-an-wordpress-alternative/) (2 months ago)
 - [A Review of Some of the Most Popular Static Site Generators](https://jarmos.netlify.app/posts/reviewing-popular-static-site-generators/) (3 months ago)
 - [A Standard	&amp; Complete CI/CD Pipeline for Most Python Projects](https://jarmos.netlify.app/posts/a-standard-ci-cd-pipeline-for-python-projects/) (3 months ago)
-- [Customizing the New Windows Terminal: A Minimalist Approach](https://jarmos.netlify.app/posts/customizing-windows-terminal-a-minimalist-approach/) (4 months ago)
 
 #### 📓 Gists I wrote
 
