@@ -6,8 +6,8 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (2 days ago)
-- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (2 days ago)
+- [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (3 days ago)
+- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (3 days ago)
 - [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (2 weeks ago)
 - [Jarmos-san/Alokka](https://github.com/Jarmos-san/Alokka) - (Work-in-Progress) A super-fast asynchronous Python library for the Twitter API (3 months ago)
 - [Jarmos-san/moot](https://github.com/Jarmos-san/moot) - A bot that uses Github Actions to post on Reddit periodically (3 months ago)
@@ -33,8 +33,8 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 📓 Gists I wrote
 
-- [A GitHub Actions workflow for deploying FastAPI projects to Heroku](https://gist.github.com/8c2cf1718ab7c1ced7a1e54fa8e29e79) (6 days ago)
-- [A simple FastAPI project with a health check route](https://gist.github.com/0b655a3f75b698833188922b714562e5) (6 days ago)
+- [A GitHub Actions workflow for deploying FastAPI projects to Heroku](https://gist.github.com/8c2cf1718ab7c1ced7a1e54fa8e29e79) (1 week ago)
+- [A simple FastAPI project with a health check route](https://gist.github.com/0b655a3f75b698833188922b714562e5) (1 week ago)
 - [Automated Netlify Build &amp; Deploy](https://gist.github.com/d4f41f18c96770b9b8286c5b69753b58) (2 months ago)
 - [My Netlify configurations](https://gist.github.com/e0d160ae26799d85a856fb1d9b756df4) (2 months ago)
 - [Example Dependabot configuration for updating GitHub Actions &amp; Submodules](https://gist.github.com/0a2fa445098b6fbc94ee2074bd8137b7) (2 months ago)
