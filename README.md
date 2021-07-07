@@ -41,11 +41,11 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👯 Check out some of my recent followers
 
+- [charan1973](https://github.com/charan1973)
 - [AbhijithGanesh](https://github.com/AbhijithGanesh)
 - [Vishvajeet590](https://github.com/Vishvajeet590)
 - [vspecky](https://github.com/vspecky)
 - [darkfusion90](https://github.com/darkfusion90)
-- [hemant0508](https://github.com/hemant0508)
 
 #### 💬 Feedback
 
