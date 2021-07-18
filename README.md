@@ -6,11 +6,11 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
-- [Trainee-Ninja/Trainee-Ninja.github.io](https://github.com/Trainee-Ninja/Trainee-Ninja.github.io) -  (today)
 - [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (1 day ago)
 - [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (1 week ago)
 - [Jarmos-san/cookiecutter-nextjs-typescript](https://github.com/Jarmos-san/cookiecutter-nextjs-typescript) - A Cookiecutter template for creating NextJs projects with Typescript (3 weeks ago)
 - [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs) - A list of Tech Blogs. (2 months ago)
+- [Jarmos-san/Alokka](https://github.com/Jarmos-san/Alokka) - (Work-in-Progress) A super-fast asynchronous Python library for the Twitter API (5 months ago)
 
 #### 🌱 My latest projects
 
