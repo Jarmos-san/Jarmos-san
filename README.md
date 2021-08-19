@@ -6,10 +6,10 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/frontend-nextjs-typescript-template](https://github.com/Jarmos-san/frontend-nextjs-typescript-template) - A template for easily starting a brand new NextJs &#43; TypeScript project (today)
-- [Jarmos-san/hugo-blog](https://github.com/Jarmos-san/hugo-blog) - Repository is archived, refer to https://github.com/Jarmos-san/blog instead (2 days ago)
-- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (5 days ago)
-- [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (5 days ago)
+- [Jarmos-san/frontend-nextjs-typescript-template](https://github.com/Jarmos-san/frontend-nextjs-typescript-template) - A template for easily starting a brand new NextJs &#43; TypeScript project (1 day ago)
+- [Jarmos-san/hugo-blog](https://github.com/Jarmos-san/hugo-blog) - Repository is archived, refer to https://github.com/Jarmos-san/blog instead (3 days ago)
+- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (6 days ago)
+- [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (6 days ago)
 - [Jarmos-san/cookiecutter-nextjs-typescript](https://github.com/Jarmos-san/cookiecutter-nextjs-typescript) - A Cookiecutter template for creating NextJs projects with Typescript (1 month ago)
 
 #### 🌱 My latest projects
