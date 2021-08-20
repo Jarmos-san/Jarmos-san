@@ -7,7 +7,7 @@ Besides, everything software-related I enjoy writing literary content, so do che
 #### 👷 Check out what I'm currently working on
 
 - [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (today)
-- [Jarmos-san/cookiecutter-nextjs-typescript](https://github.com/Jarmos-san/cookiecutter-nextjs-typescript) - A Cookiecutter template for creating NextJs projects with Typescript (today)
+- [Jarmos-san/cookiecutter-nextjs-typescript](https://github.com/Jarmos-san/cookiecutter-nextjs-typescript) - Use this instead https://github.com/Jarmos-san/nextjs-template (today)
 - [Jarmos-san/nextjs-template](https://github.com/Jarmos-san/nextjs-template) - A template for easily starting a brand new NextJs &#43; TypeScript project (today)
 - [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (1 day ago)
 - [Jarmos-san/hugo-blog](https://github.com/Jarmos-san/hugo-blog) - Repository is archived, refer to https://github.com/Jarmos-san/blog instead (4 days ago)
@@ -15,7 +15,7 @@ Besides, everything software-related I enjoy writing literary content, so do che
 #### 🌱 My latest projects
 
 - [Jarmos-san/nextjs-template](https://github.com/Jarmos-san/nextjs-template) - A template for easily starting a brand new NextJs &#43; TypeScript project
-- [Jarmos-san/cookiecutter-nextjs-typescript](https://github.com/Jarmos-san/cookiecutter-nextjs-typescript) - A Cookiecutter template for creating NextJs projects with Typescript
+- [Jarmos-san/cookiecutter-nextjs-typescript](https://github.com/Jarmos-san/cookiecutter-nextjs-typescript) - Use this instead https://github.com/Jarmos-san/nextjs-template
 - [Jarmos-san/moot](https://github.com/Jarmos-san/moot) - A bot that uses Github Actions to post on Reddit periodically
 - [Jarmos-san/Aurochs](https://github.com/Jarmos-san/Aurochs) - A scraper for the official Python job board
 - [Jarmos-san/Peng](https://github.com/Jarmos-san/Peng) - A minimalistic &amp; simple theme for my personal blog
