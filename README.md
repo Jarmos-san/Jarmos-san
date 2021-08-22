@@ -6,11 +6,11 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (today)
-- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (1 day ago)
-- [Jarmos-san/cookiecutter-nextjs-typescript](https://github.com/Jarmos-san/cookiecutter-nextjs-typescript) - Use this instead https://github.com/Jarmos-san/nextjs-template (1 day ago)
-- [Jarmos-san/nextjs-template](https://github.com/Jarmos-san/nextjs-template) - A template for easily starting a brand new NextJs &#43; TypeScript project (1 day ago)
-- [Jarmos-san/hugo-blog](https://github.com/Jarmos-san/hugo-blog) - Repository is archived, refer to https://github.com/Jarmos-san/blog instead (5 days ago)
+- [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (1 day ago)
+- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (2 days ago)
+- [Jarmos-san/cookiecutter-nextjs-typescript](https://github.com/Jarmos-san/cookiecutter-nextjs-typescript) - Use this instead https://github.com/Jarmos-san/nextjs-template (2 days ago)
+- [Jarmos-san/nextjs-template](https://github.com/Jarmos-san/nextjs-template) - A template for easily starting a brand new NextJs &#43; TypeScript project (2 days ago)
+- [Jarmos-san/hugo-blog](https://github.com/Jarmos-san/hugo-blog) - Repository is archived, refer to https://github.com/Jarmos-san/blog instead (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -33,7 +33,7 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 📓 Gists I wrote
 
-- [Example Lua code within VimScript](https://gist.github.com/0d40d1428701b7e1e6e317dfe651e73b) (1 week ago)
+- [Example Lua code within VimScript](https://gist.github.com/0d40d1428701b7e1e6e317dfe651e73b) (2 weeks ago)
 - [A GitHub Actions workflow for deploying FastAPI projects to Heroku](https://gist.github.com/8c2cf1718ab7c1ced7a1e54fa8e29e79) (3 months ago)
 - [A simple FastAPI project with a health check route](https://gist.github.com/0b655a3f75b698833188922b714562e5) (3 months ago)
 - [Automated Netlify Build &amp; Deploy](https://gist.github.com/d4f41f18c96770b9b8286c5b69753b58) (5 months ago)
