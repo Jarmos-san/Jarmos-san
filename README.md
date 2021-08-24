@@ -6,7 +6,7 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/nextjs-template](https://github.com/Jarmos-san/nextjs-template) - A template for easily starting a brand new NextJs &#43; TypeScript project (1 day ago)
+- [Jarmos-san/nextjs-template](https://github.com/Jarmos-san/nextjs-template) - A template for easily starting a brand new NextJs &#43; TypeScript project (today)
 - [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (3 days ago)
 - [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (4 days ago)
 - [Jarmos-san/cookiecutter-nextjs-typescript](https://github.com/Jarmos-san/cookiecutter-nextjs-typescript) - Use this instead https://github.com/Jarmos-san/nextjs-template (4 days ago)
