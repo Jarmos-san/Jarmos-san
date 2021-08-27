@@ -41,11 +41,11 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👯 Check out some of my recent followers
 
+- [sadn1ck](https://github.com/sadn1ck)
 - [bhupeshpradhan](https://github.com/bhupeshpradhan)
 - [Anatame](https://github.com/Anatame)
 - [daliborkoenig](https://github.com/daliborkoenig)
 - [g0vin-d](https://github.com/g0vin-d)
-- [Trainee-Ninja](https://github.com/Trainee-Ninja)
 
 #### 💬 Feedback
 
