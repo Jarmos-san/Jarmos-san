@@ -8,8 +8,8 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 - [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (today)
 - [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (2 days ago)
-- [Jarmos-san/niyomok](https://github.com/Jarmos-san/niyomok) - A template for easily starting a brand new NextJs &#43; TypeScript project. Other goodies like Prettier, ESLint, Cypress &amp; so on are also included! (2 days ago)
 - [developersIndia/wiki](https://github.com/developersIndia/wiki) - The Developers India Wiki for some cool resources (WIP) (2 days ago)
+- [Jarmos-san/niyomok](https://github.com/Jarmos-san/niyomok) - A template for easily starting a brand new NextJs &#43; TypeScript project. Other goodies like Prettier, ESLint, Cypress &amp; so on are also included! (2 days ago)
 - [Jarmos-san/cookiecutter-nextjs-typescript](https://github.com/Jarmos-san/cookiecutter-nextjs-typescript) - Use this instead https://github.com/Jarmos-san/nextjs-template (1 week ago)
 
 #### 🌱 My latest projects
