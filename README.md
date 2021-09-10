@@ -6,10 +6,10 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (1 day ago)
-- [Jarmos-san/niyomok](https://github.com/Jarmos-san/niyomok) - A template for easily starting a brand new NextJs &#43; TypeScript project. Other goodies like Prettier, ESLint, Cypress &amp; so on are also included! (1 day ago)
-- [Jarmos-san/jarvim](https://github.com/Jarmos-san/jarvim) - A sensible IDE-like configuration for Neovim (1 day ago)
-- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (6 days ago)
+- [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (2 days ago)
+- [Jarmos-san/niyomok](https://github.com/Jarmos-san/niyomok) - A template for easily starting a brand new NextJs &#43; TypeScript project. Other goodies like Prettier, ESLint, Cypress &amp; so on are also included! (2 days ago)
+- [Jarmos-san/jarvim](https://github.com/Jarmos-san/jarvim) - A sensible IDE-like configuration for Neovim (2 days ago)
+- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (1 week ago)
 - [Jarmos-san/editorconfig.nvim](https://github.com/Jarmos-san/editorconfig.nvim) - A Neovim plugin for EditorConfig written in Lua with ❤️ (1 week ago)
 
 #### 🌱 My latest projects
@@ -34,8 +34,8 @@ Besides, everything software-related I enjoy writing literary content, so do che
 #### 📓 Gists I wrote
 
 - [Example Lua code within VimScript](https://gist.github.com/0d40d1428701b7e1e6e317dfe651e73b) (1 month ago)
-- [A GitHub Actions workflow for deploying FastAPI projects to Heroku](https://gist.github.com/8c2cf1718ab7c1ced7a1e54fa8e29e79) (3 months ago)
-- [A simple FastAPI project with a health check route](https://gist.github.com/0b655a3f75b698833188922b714562e5) (3 months ago)
+- [A GitHub Actions workflow for deploying FastAPI projects to Heroku](https://gist.github.com/8c2cf1718ab7c1ced7a1e54fa8e29e79) (4 months ago)
+- [A simple FastAPI project with a health check route](https://gist.github.com/0b655a3f75b698833188922b714562e5) (4 months ago)
 - [Automated Netlify Build &amp; Deploy](https://gist.github.com/d4f41f18c96770b9b8286c5b69753b58) (5 months ago)
 - [My Netlify configurations](https://gist.github.com/e0d160ae26799d85a856fb1d9b756df4) (5 months ago)
 
