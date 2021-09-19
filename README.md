@@ -7,7 +7,7 @@ Besides, everything software-related I enjoy writing literary content, so do che
 #### 👷 Check out what I'm currently working on
 
 - [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (today)
-- [Jarmos-san/niyomok](https://github.com/Jarmos-san/niyomok) - A template for easily starting a brand new NextJs &#43; TypeScript project. Other goodies like Prettier, ESLint, Cypress &amp; so on are also included! (1 day ago)
+- [Jarmos-san/niyomok](https://github.com/Jarmos-san/niyomok) - A template for easily starting a brand new NextJs &#43; TypeScript project. Other goodies like Prettier, ESLint, Cypress &amp; so on are also included! (2 days ago)
 - [Jarmos-san/jarvim](https://github.com/Jarmos-san/jarvim) - A sensible IDE-like configuration for Neovim (1 week ago)
 - [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (2 weeks ago)
 - [Jarmos-san/editorconfig.nvim](https://github.com/Jarmos-san/editorconfig.nvim) - A Neovim plugin for EditorConfig written in Lua with ❤️ (2 weeks ago)
@@ -28,7 +28,7 @@ Besides, everything software-related I enjoy writing literary content, so do che
 - [Vim or Neovim? Here&#39;s Why You Should Use the Latter](https://jarmos.netlify.app/posts/vim-vs-neovim/) (2 months ago)
 - [Using GitHub Actions to Deploy a FastAPI Project to Heroku](https://jarmos.netlify.app/posts/using-github-actions-to-deploy-a-fastapi-project-to-heroku/) (4 months ago)
 - [Google Serverless Infrastructure: A Primer on GCP &amp; Serverless Computing](https://jarmos.netlify.app/posts/details-of-google-serverless-computing/) (5 months ago)
-- [How to Create an Overpowered Blog With Hugo (As a Wordpress Alternative)](https://jarmos.netlify.app/posts/blogging-with-hugo-as-an-wordpress-alternative/) (6 months ago)
+- [How to Create an Overpowered Blog With Hugo (As a Wordpress Alternative)](https://jarmos.netlify.app/posts/blogging-with-hugo-as-an-wordpress-alternative/) (7 months ago)
 - [A Review of Some of the Most Popular Static Site Generators](https://jarmos.netlify.app/posts/reviewing-popular-static-site-generators/) (7 months ago)
 
 #### 📓 Gists I wrote
