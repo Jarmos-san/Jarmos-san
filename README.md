@@ -33,11 +33,11 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 📓 Gists I wrote
 
+- [Configuring a Linux Development Environment on Windows 10 (and/or possibly Windows 11)](https://gist.github.com/11051c6a638422898d998b387406fb78) (today)
 - [Example Lua code within VimScript](https://gist.github.com/0d40d1428701b7e1e6e317dfe651e73b) (1 month ago)
 - [A GitHub Actions workflow for deploying FastAPI projects to Heroku](https://gist.github.com/8c2cf1718ab7c1ced7a1e54fa8e29e79) (4 months ago)
 - [A simple FastAPI project with a health check route](https://gist.github.com/0b655a3f75b698833188922b714562e5) (4 months ago)
 - [Automated Netlify Build &amp; Deploy](https://gist.github.com/d4f41f18c96770b9b8286c5b69753b58) (6 months ago)
-- [My Netlify configurations](https://gist.github.com/e0d160ae26799d85a856fb1d9b756df4) (6 months ago)
 
 #### 👯 Check out some of my recent followers
 
