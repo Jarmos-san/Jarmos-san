@@ -6,11 +6,11 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (2 days ago)
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production (today)
 - [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (2 days ago)
+- [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (2 days ago)
 - [Jarmos-san/jarvim](https://github.com/Jarmos-san/jarvim) - A sensible IDE-like configuration for Neovim (1 week ago)
 - [Jarmos-san/niyomok](https://github.com/Jarmos-san/niyomok) - A template for easily starting a brand new NextJs &#43; TypeScript project. Other goodies like Prettier, ESLint, Cypress &amp; so on are also included! (1 week ago)
-- [Jarmos-san/.github](https://github.com/Jarmos-san/.github) - Default community health files for my Github account (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,6 +22,7 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 🔭 Latest releases I've contributed to
 
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.68.2](https://github.com/tiangolo/fastapi/releases/tag/0.68.2), 2 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 #### 📜 My recent blog posts
 
