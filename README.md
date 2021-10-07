@@ -22,7 +22,7 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 🔭 Latest releases I've contributed to
 
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.69.0](https://github.com/tiangolo/fastapi/releases/tag/0.69.0), today) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.70.0](https://github.com/tiangolo/fastapi/releases/tag/0.70.0), today) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 #### 📜 My recent blog posts
 
