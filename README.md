@@ -6,19 +6,19 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
+- [Jarmos-san/odin-recipes](https://github.com/Jarmos-san/odin-recipes) -  (today)
 - [Jarmos-san/jarvim](https://github.com/Jarmos-san/jarvim) - A sensible IDE-like configuration for Neovim (today)
 - [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (3 days ago)
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production (1 week ago)
 - [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (1 week ago)
-- [Jarmos-san/niyomok](https://github.com/Jarmos-san/niyomok) - A template for easily starting a brand new NextJs &#43; TypeScript project. Other goodies like Prettier, ESLint, Cypress &amp; so on are also included! (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [Jarmos-san/odin-recipes](https://github.com/Jarmos-san/odin-recipes) - 
 - [Jarmos-san/editorconfig.nvim](https://github.com/Jarmos-san/editorconfig.nvim) - A Neovim plugin for EditorConfig written in Lua with ❤️
 - [Jarmos-san/jarvim](https://github.com/Jarmos-san/jarvim) - A sensible IDE-like configuration for Neovim
 - [Jarmos-san/niyomok](https://github.com/Jarmos-san/niyomok) - A template for easily starting a brand new NextJs &#43; TypeScript project. Other goodies like Prettier, ESLint, Cypress &amp; so on are also included!
 - [Jarmos-san/cookiecutter-nextjs-typescript](https://github.com/Jarmos-san/cookiecutter-nextjs-typescript) - Use this instead https://github.com/Jarmos-san/nextjs-template
-- [Jarmos-san/moot](https://github.com/Jarmos-san/moot) - A bot that uses Github Actions to post on Reddit periodically
 
 #### 🔭 Latest releases I've contributed to
 
