@@ -14,11 +14,11 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 🌱 My latest projects
 
+- [Jarmos-san/landing-page](https://github.com/Jarmos-san/landing-page) - learning CSS from TOP
 - [Jarmos-san/odin-recipes](https://github.com/Jarmos-san/odin-recipes) - 
 - [Jarmos-san/editorconfig.nvim](https://github.com/Jarmos-san/editorconfig.nvim) - A Neovim plugin for EditorConfig written in Lua with ❤️
 - [Jarmos-san/jarvim](https://github.com/Jarmos-san/jarvim) - A sensible IDE-like configuration for Neovim
 - [Jarmos-san/niyomok](https://github.com/Jarmos-san/niyomok) - A template for easily starting a brand new NextJs &#43; TypeScript project. Other goodies like Prettier, ESLint, Cypress &amp; so on are also included!
-- [Jarmos-san/cookiecutter-nextjs-typescript](https://github.com/Jarmos-san/cookiecutter-nextjs-typescript) - Use this instead https://github.com/Jarmos-san/nextjs-template
 
 #### 🔭 Latest releases I've contributed to
 
