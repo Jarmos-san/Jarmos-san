@@ -6,11 +6,11 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/rock-paper-scissor](https://github.com/Jarmos-san/rock-paper-scissor) - A quick practice project for polishing JS skills (today)
-- [Jarmos-san/landing-page](https://github.com/Jarmos-san/landing-page) - learning CSS from TOP (1 day ago)
+- [Jarmos-san/rock-paper-scissor](https://github.com/Jarmos-san/rock-paper-scissor) - A quick practice project for polishing JS skills (1 day ago)
+- [Jarmos-san/landing-page](https://github.com/Jarmos-san/landing-page) - learning CSS from TOP (2 days ago)
 - [Jarmos-san/odin-recipes](https://github.com/Jarmos-san/odin-recipes) -  (1 week ago)
 - [Jarmos-san/jarvim](https://github.com/Jarmos-san/jarvim) - A sensible IDE-like configuration for Neovim (1 week ago)
-- [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (1 week ago)
+- [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (2 weeks ago)
 
 #### 🌱 My latest projects
 
