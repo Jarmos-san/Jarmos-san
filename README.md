@@ -6,11 +6,11 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
+- [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (today)
 - [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (today)
 - [Jarmos-san/beginner-frontend-projects](https://github.com/Jarmos-san/beginner-frontend-projects) - A list of frontend projects ANY beginners should try to build for their portfolios (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - Collection of dotfiles for a Linux-based development environment! (3 days ago)
 - [Jarmos-san/rock-paper-scissor](https://github.com/Jarmos-san/rock-paper-scissor) - A quick practice project for polishing JS skills (6 days ago)
-- [Jarmos-san/landing-page](https://github.com/Jarmos-san/landing-page) - learning CSS from TOP (1 week ago)
 
 #### 🌱 My latest projects
 
