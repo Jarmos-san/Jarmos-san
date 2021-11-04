@@ -6,10 +6,10 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (1 day ago)
-- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (2 days ago)
-- [Jarmos-san/beginner-frontend-projects](https://github.com/Jarmos-san/beginner-frontend-projects) - A list of frontend projects ANY beginners should try to build for their portfolios (2 days ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine (WIP) (2 days ago)
+- [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (3 days ago)
+- [Jarmos-san/beginner-frontend-projects](https://github.com/Jarmos-san/beginner-frontend-projects) - A list of frontend projects ANY beginners should try to build for their portfolios (3 days ago)
 - [Jarmos-san/rock-paper-scissor](https://github.com/Jarmos-san/rock-paper-scissor) - A quick practice project for polishing JS skills (1 week ago)
 
 #### 🌱 My latest projects
@@ -22,7 +22,7 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 🔭 Latest releases I've contributed to
 
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.70.0](https://github.com/tiangolo/fastapi/releases/tag/0.70.0), 3 weeks ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.70.0](https://github.com/tiangolo/fastapi/releases/tag/0.70.0), 4 weeks ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 #### 📜 My recent blog posts
 
