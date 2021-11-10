@@ -34,11 +34,11 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 📓 Gists I wrote
 
-- [Configuring a Linux Development Environment on Windows 10 (and/or possibly Windows 11)](https://gist.github.com/11051c6a638422898d998b387406fb78) (1 month ago)
-- [Example Lua code within VimScript](https://gist.github.com/0d40d1428701b7e1e6e317dfe651e73b) (3 months ago)
-- [A GitHub Actions workflow for deploying FastAPI projects to Heroku](https://gist.github.com/8c2cf1718ab7c1ced7a1e54fa8e29e79) (6 months ago)
-- [A simple FastAPI project with a health check route](https://gist.github.com/0b655a3f75b698833188922b714562e5) (6 months ago)
-- [Automated Netlify Build &amp; Deploy](https://gist.github.com/d4f41f18c96770b9b8286c5b69753b58) (7 months ago)
+- [Example init.lua file for configuring Neovim with custom keymappings](https://gist.github.com/e45d83515724e8aff1cce4ed846b8d95) (today)
+- [Example utilitarian map function written in Lua for Neovim](https://gist.github.com/c8bf40de6721b4a199799234be2c9f75) (today)
+- [Example Lua module](https://gist.github.com/5e5614f609396ddba7a20c9c2ac29041) (today)
+- [How to create Lua function to customise keybindings in Neovim](https://gist.github.com/d46605cd3a795513526448f36e0db18e) (today)
+- [Example of remappings in pure Vimscript](https://gist.github.com/c00cc04982735abc9f49e55f493f00fa) (today)
 
 #### 👯 Check out some of my recent followers
 
