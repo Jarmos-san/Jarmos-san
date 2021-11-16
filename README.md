@@ -42,11 +42,11 @@ Besides, everything software-related I enjoy writing literary content, so do che
 
 #### 👯 Check out some of my recent followers
 
+- [tan86](https://github.com/tan86)
 - [s4dr0t1](https://github.com/s4dr0t1)
 - [Anatame](https://github.com/Anatame)
 - [SROYST](https://github.com/SROYST)
 - [sadn1ck](https://github.com/sadn1ck)
-- [HanakoK9](https://github.com/HanakoK9)
 
 #### 💬 Feedback
 
