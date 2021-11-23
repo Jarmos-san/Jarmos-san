@@ -10,7 +10,7 @@ Besides, everything software-related I enjoy writing literary content, so do che
 - [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (1 week ago)
 - [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine. Check out https://git.io/JPHL7 for setting up a WSL2 environment as well. (2 weeks ago)
 - [Jarmos-san/beginner-frontend-projects](https://github.com/Jarmos-san/beginner-frontend-projects) - A list of frontend projects ANY beginners should try to build for their portfolios (3 weeks ago)
-- [Jarmos-san/rock-paper-scissor](https://github.com/Jarmos-san/rock-paper-scissor) - A quick practice project for polishing JS skills (3 weeks ago)
+- [Jarmos-san/rock-paper-scissor](https://github.com/Jarmos-san/rock-paper-scissor) - A quick practice project for polishing JS skills (4 weeks ago)
 
 #### 🌱 My latest projects
 
