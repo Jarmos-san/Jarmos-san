@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Somraj, but you can call me Jarmos. I'm an ML Engineer by profession but I often contribute to the open-source software community as much as I can.
+I'm Somraj, but you can call me Jarmos & I'm a Software Engineer working independently as a freelancer. When writing code, I share my experiences & thoughts on my [personal blog](https://jarmos.netlify.app). Do check it out, leave a feedback over on Twitter or Email & you'll do me a massive favour.
 
-Besides, everything software-related I enjoy writing literary content, so do check out my blog.
+That said, please feel free to check out my work & contributions on GitHub. Take a look at what I've been working & if there's anything you might want to contribute to.
 
 #### 👷 Check out what I'm currently working on
 
