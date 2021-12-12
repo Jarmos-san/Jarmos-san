@@ -26,7 +26,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 📜 My recent blog posts
 
-- [Vim or Neovim? Here&#39;s Why You Should Use the Latter](https://jarmos.netlify.app/posts/vim-vs-neovim/) (4 months ago)
+- [Vim or Neovim? Here&#39;s Why You Should Use the Latter](https://jarmos.netlify.app/posts/vim-vs-neovim/) (5 months ago)
 - [Using GitHub Actions to Deploy a FastAPI Project to Heroku](https://jarmos.netlify.app/posts/using-github-actions-to-deploy-a-fastapi-project-to-heroku/) (7 months ago)
 - [Google Serverless Infrastructure: A Primer on GCP &amp; Serverless Computing](https://jarmos.netlify.app/posts/details-of-google-serverless-computing/) (7 months ago)
 - [How to Create an Overpowered Blog With Hugo (As a Wordpress Alternative)](https://jarmos.netlify.app/posts/blogging-with-hugo-as-an-wordpress-alternative/) (9 months ago)
