@@ -34,11 +34,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 📓 Gists I wrote
 
+- [Setting up Prettier and ESLint with pre-commit hook](https://gist.github.com/ff499b57c9864c39ecd8c13d834c38c0) (today)
 - [Example init.lua file for configuring Neovim with custom keymappings](https://gist.github.com/e45d83515724e8aff1cce4ed846b8d95) (1 month ago)
 - [Example utilitarian map function written in Lua for Neovim](https://gist.github.com/c8bf40de6721b4a199799234be2c9f75) (1 month ago)
 - [Example Lua module](https://gist.github.com/5e5614f609396ddba7a20c9c2ac29041) (1 month ago)
 - [How to create Lua function to customise keybindings in Neovim](https://gist.github.com/d46605cd3a795513526448f36e0db18e) (1 month ago)
-- [Example of remappings in pure Vimscript](https://gist.github.com/c00cc04982735abc9f49e55f493f00fa) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
