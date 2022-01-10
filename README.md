@@ -22,7 +22,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.71.0](https://github.com/tiangolo/fastapi/releases/tag/0.71.0), 2 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.71.0](https://github.com/tiangolo/fastapi/releases/tag/0.71.0), 3 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 #### 📜 My recent blog posts
 
@@ -34,7 +34,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 📓 Gists I wrote
 
-- [Setting up Prettier and ESLint with pre-commit hook](https://gist.github.com/ff499b57c9864c39ecd8c13d834c38c0) (6 days ago)
+- [Setting up Prettier and ESLint with pre-commit hook](https://gist.github.com/ff499b57c9864c39ecd8c13d834c38c0) (1 week ago)
 - [Example init.lua file for configuring Neovim with custom keymappings](https://gist.github.com/e45d83515724e8aff1cce4ed846b8d95) (2 months ago)
 - [Example utilitarian map function written in Lua for Neovim](https://gist.github.com/c8bf40de6721b4a199799234be2c9f75) (2 months ago)
 - [Example Lua module](https://gist.github.com/5e5614f609396ddba7a20c9c2ac29041) (2 months ago)
