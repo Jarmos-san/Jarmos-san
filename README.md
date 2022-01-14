@@ -6,7 +6,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (2 days ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (3 days ago)
 - [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine. Check out https://git.io/JPHL7 for setting up a WSL2 environment as well. (1 month ago)
 - [Jarmos-san/blog](https://github.com/Jarmos-san/blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (2 months ago)
 - [Jarmos-san/beginner-frontend-projects](https://github.com/Jarmos-san/beginner-frontend-projects) - A list of frontend projects ANY beginners should try to build for their portfolios (2 months ago)
@@ -22,13 +22,13 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.71.0](https://github.com/tiangolo/fastapi/releases/tag/0.71.0), 6 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.71.0](https://github.com/tiangolo/fastapi/releases/tag/0.71.0), 1 week ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 #### 📜 My recent blog posts
 
 - [Vim or Neovim? Here&#39;s Why You Should Use the Latter](https://jarmos.netlify.app/posts/vim-vs-neovim/) (6 months ago)
 - [Using GitHub Actions to Deploy a FastAPI Project to Heroku](https://jarmos.netlify.app/posts/using-github-actions-to-deploy-a-fastapi-project-to-heroku/) (8 months ago)
-- [Google Serverless Infrastructure: A Primer on GCP &amp; Serverless Computing](https://jarmos.netlify.app/posts/details-of-google-serverless-computing/) (8 months ago)
+- [Google Serverless Infrastructure: A Primer on GCP &amp; Serverless Computing](https://jarmos.netlify.app/posts/details-of-google-serverless-computing/) (9 months ago)
 - [How to Create an Overpowered Blog With Hugo (As a Wordpress Alternative)](https://jarmos.netlify.app/posts/blogging-with-hugo-as-an-wordpress-alternative/) (10 months ago)
 - [A Review of Some of the Most Popular Static Site Generators](https://jarmos.netlify.app/posts/reviewing-popular-static-site-generators/) (11 months ago)
 
