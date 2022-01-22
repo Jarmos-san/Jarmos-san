@@ -42,11 +42,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👯 Check out some of my recent followers
 
+- [1Gokul](https://github.com/1Gokul)
 - [imago](https://github.com/imago)
 - [morodev](https://github.com/morodev)
 - [tan86](https://github.com/tan86)
 - [s4dr0t1](https://github.com/s4dr0t1)
-- [Anatame](https://github.com/Anatame)
 
 #### 💬 Feedback
 
