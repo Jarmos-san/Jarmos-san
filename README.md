@@ -6,9 +6,9 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [developersIndia/.github](https://github.com/developersIndia/.github) - Community health files for the developersIndia organisation (2 days ago)
-- [developersIndia/developersIndia.in](https://github.com/developersIndia/developersIndia.in) - Frontend repo for developersindia.in (3 days ago)
-- [Jarmos-san/.github](https://github.com/Jarmos-san/.github) - Default community health files for my Github account (4 days ago)
+- [developersIndia/.github](https://github.com/developersIndia/.github) - Community health files for the developersIndia organisation (3 days ago)
+- [developersIndia/developersIndia.in](https://github.com/developersIndia/developersIndia.in) - Frontend repo for developersindia.in (4 days ago)
+- [Jarmos-san/.github](https://github.com/Jarmos-san/.github) - Default community health files for my Github account (5 days ago)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 week ago)
 - [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine. Check out https://git.io/JPHL7 for setting up a WSL2 environment as well. (1 month ago)
 
@@ -22,7 +22,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.72.0](https://github.com/tiangolo/fastapi/releases/tag/0.72.0), 5 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.72.0](https://github.com/tiangolo/fastapi/releases/tag/0.72.0), 6 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 #### 📜 My recent blog posts
 
