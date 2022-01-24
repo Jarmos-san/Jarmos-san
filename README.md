@@ -6,9 +6,9 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [developersIndia/developersIndia.in](https://github.com/developersIndia/developersIndia.in) - Website for The DevelopersIndia Community (today)
-- [developersIndia/.github](https://github.com/developersIndia/.github) - Community health files for the developersIndia organisation (4 days ago)
-- [Jarmos-san/.github](https://github.com/Jarmos-san/.github) - Default community health files for my Github account (6 days ago)
+- [developersIndia/developersIndia.in](https://github.com/developersIndia/developersIndia.in) - Website for The DevelopersIndia Community (1 day ago)
+- [developersIndia/.github](https://github.com/developersIndia/.github) - Community health files for the developersIndia organisation (5 days ago)
+- [Jarmos-san/.github](https://github.com/Jarmos-san/.github) - Default community health files for my Github account (1 week ago)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 week ago)
 - [Jarmos-san/dotfiles-windows](https://github.com/Jarmos-san/dotfiles-windows) - My personal dotfiles for a Windows 10 machine. Check out https://git.io/JPHL7 for setting up a WSL2 environment as well. (1 month ago)
 
@@ -22,7 +22,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.73.0](https://github.com/tiangolo/fastapi/releases/tag/0.73.0), today) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.73.0](https://github.com/tiangolo/fastapi/releases/tag/0.73.0), 1 day ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 #### 📜 My recent blog posts
 
@@ -34,7 +34,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 📓 Gists I wrote
 
-- [Setting up Prettier and ESLint with pre-commit hook](https://gist.github.com/ff499b57c9864c39ecd8c13d834c38c0) (2 weeks ago)
+- [Setting up Prettier and ESLint with pre-commit hook](https://gist.github.com/ff499b57c9864c39ecd8c13d834c38c0) (3 weeks ago)
 - [Example init.lua file for configuring Neovim with custom keymappings](https://gist.github.com/e45d83515724e8aff1cce4ed846b8d95) (2 months ago)
 - [Example utilitarian map function written in Lua for Neovim](https://gist.github.com/c8bf40de6721b4a199799234be2c9f75) (2 months ago)
 - [Example Lua module](https://gist.github.com/5e5614f609396ddba7a20c9c2ac29041) (2 months ago)
