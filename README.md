@@ -6,7 +6,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [developersIndia/developersIndia.in](https://github.com/developersIndia/developersIndia.in) - Website for The DevelopersIndia Community (2 days ago)
+- [developersIndia/website](https://github.com/developersIndia/website) - Website for The DevelopersIndia Community (2 days ago)
 - [developersIndia/.github](https://github.com/developersIndia/.github) - Community health files for the developersIndia organisation (6 days ago)
 - [Jarmos-san/.github](https://github.com/Jarmos-san/.github) - Default community health files for my Github account (1 week ago)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (2 weeks ago)
