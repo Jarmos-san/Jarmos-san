@@ -6,7 +6,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [developersIndia/website](https://github.com/developersIndia/website) - Website for The DevelopersIndia Community (today)
+- [developersIndia/website](https://github.com/developersIndia/website) - Website for The DevelopersIndia Community (1 day ago)
 - [developersIndia/.github](https://github.com/developersIndia/.github) - Community health files for the developersIndia organisation (1 week ago)
 - [Jarmos-san/.github](https://github.com/Jarmos-san/.github) - Default community health files for my Github account (1 week ago)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (2 weeks ago)
@@ -22,7 +22,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.73.0](https://github.com/tiangolo/fastapi/releases/tag/0.73.0), 4 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.73.0](https://github.com/tiangolo/fastapi/releases/tag/0.73.0), 5 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 #### 📜 My recent blog posts
 
