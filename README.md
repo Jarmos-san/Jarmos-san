@@ -42,11 +42,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👯 Check out some of my recent followers
 
+- [Devloper001](https://github.com/Devloper001)
 - [yashsharan0805](https://github.com/yashsharan0805)
 - [good-times-ahead](https://github.com/good-times-ahead)
 - [1Gokul](https://github.com/1Gokul)
 - [imago](https://github.com/imago)
-- [morodev](https://github.com/morodev)
 
 #### 💬 Feedback
 
