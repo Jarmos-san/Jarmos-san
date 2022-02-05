@@ -42,11 +42,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👯 Check out some of my recent followers
 
+- [BlackGoku36](https://github.com/BlackGoku36)
 - [V3dantSh4rma](https://github.com/V3dantSh4rma)
 - [Devloper001](https://github.com/Devloper001)
 - [yashsharan0805](https://github.com/yashsharan0805)
 - [good-times-ahead](https://github.com/good-times-ahead)
-- [1Gokul](https://github.com/1Gokul)
 
 #### 💬 Feedback
 
