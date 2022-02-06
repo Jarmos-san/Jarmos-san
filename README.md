@@ -43,7 +43,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 #### 👯 Check out some of my recent followers
 
 - [BlackGoku36](https://github.com/BlackGoku36)
-- [V3dantSh4rma](https://github.com/V3dantSh4rma)
+- [VedantSharma47](https://github.com/VedantSharma47)
 - [Devloper001](https://github.com/Devloper001)
 - [yashsharan0805](https://github.com/yashsharan0805)
 - [dhruv-ahuja](https://github.com/dhruv-ahuja)
