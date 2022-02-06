@@ -46,7 +46,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 - [V3dantSh4rma](https://github.com/V3dantSh4rma)
 - [Devloper001](https://github.com/Devloper001)
 - [yashsharan0805](https://github.com/yashsharan0805)
-- [good-times-ahead](https://github.com/good-times-ahead)
+- [dhruv-ahuja](https://github.com/dhruv-ahuja)
 
 #### 💬 Feedback
 
