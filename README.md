@@ -6,16 +6,16 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
+- [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
 - [developersIndia/website](https://github.com/developersIndia/website) - Website for The DevelopersIndia Community (1 day ago)
-- [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A repo documenting my personal development workflow which will then served &amp; distributed over the Internet with GitBook (5 days ago)
 - [Jarmos-san/til](https://github.com/Jarmos-san/til) - A repository of Markdown files documenting the things I learn over time (5 days ago)
 - [developersIndia/.github](https://github.com/developersIndia/.github) - Community health files for the developersIndia organisation (2 weeks ago)
 
 #### 🌱 My latest projects
 
 - [Jarmos-san/til](https://github.com/Jarmos-san/til) - A repository of Markdown files documenting the things I learn over time
-- [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A repo documenting my personal development workflow which will then served &amp; distributed over the Internet with GitBook
+- [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow
 - [Jarmos-san/beginner-frontend-projects](https://github.com/Jarmos-san/beginner-frontend-projects) - A list of frontend projects ANY beginners should try to build for their portfolios
 - [Jarmos-san/rock-paper-scissor](https://github.com/Jarmos-san/rock-paper-scissor) - A quick practice project for polishing JS skills
 - [Jarmos-san/landing-page](https://github.com/Jarmos-san/landing-page) - learning CSS from TOP
