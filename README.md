@@ -8,7 +8,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 - [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [developersIndia/website](https://github.com/developersIndia/website) - Website for The DevelopersIndia Community (1 day ago)
+- [developersIndia/website](https://github.com/developersIndia/website) - Website for The DevelopersIndia Community (today)
 - [Jarmos-san/til](https://github.com/Jarmos-san/til) - A repository of Markdown files documenting the things I learn over time (5 days ago)
 - [developersIndia/.github](https://github.com/developersIndia/.github) - Community health files for the developersIndia organisation (2 weeks ago)
 
