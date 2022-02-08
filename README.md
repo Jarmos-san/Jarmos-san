@@ -8,8 +8,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 - [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [developersIndia/website](https://github.com/developersIndia/website) - Website for The DevelopersIndia Community (today)
-- [Jarmos-san/til](https://github.com/Jarmos-san/til) - A repository of Markdown files documenting the things I learn over time (5 days ago)
+- [developersIndia/website](https://github.com/developersIndia/website) - Website for The DevelopersIndia Community (1 day ago)
+- [Jarmos-san/til](https://github.com/Jarmos-san/til) - A repository of Markdown files documenting the things I learn over time (6 days ago)
 - [developersIndia/.github](https://github.com/developersIndia/.github) - Community health files for the developersIndia organisation (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -35,10 +35,10 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 #### 📓 Gists I wrote
 
 - [Setting up Prettier and ESLint with pre-commit hook](https://gist.github.com/ff499b57c9864c39ecd8c13d834c38c0) (1 month ago)
-- [Example init.lua file for configuring Neovim with custom keymappings](https://gist.github.com/e45d83515724e8aff1cce4ed846b8d95) (2 months ago)
-- [Example utilitarian map function written in Lua for Neovim](https://gist.github.com/c8bf40de6721b4a199799234be2c9f75) (2 months ago)
-- [Example Lua module](https://gist.github.com/5e5614f609396ddba7a20c9c2ac29041) (2 months ago)
-- [How to create Lua function to customise keybindings in Neovim](https://gist.github.com/d46605cd3a795513526448f36e0db18e) (2 months ago)
+- [Example init.lua file for configuring Neovim with custom keymappings](https://gist.github.com/e45d83515724e8aff1cce4ed846b8d95) (3 months ago)
+- [Example utilitarian map function written in Lua for Neovim](https://gist.github.com/c8bf40de6721b4a199799234be2c9f75) (3 months ago)
+- [Example Lua module](https://gist.github.com/5e5614f609396ddba7a20c9c2ac29041) (3 months ago)
+- [How to create Lua function to customise keybindings in Neovim](https://gist.github.com/d46605cd3a795513526448f36e0db18e) (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
