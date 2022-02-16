@@ -8,7 +8,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 - [Jarmos-san/nextjs-project-template](https://github.com/Jarmos-san/nextjs-project-template) - A template repository for using with Next.js projects (today)
 - [developersIndia/wiki](https://github.com/developersIndia/wiki) - The Developers India Wiki for some cool resources (today)
-- [developersIndia/website](https://github.com/developersIndia/website) - Website for The DevelopersIndia Community (1 day ago)
+- [developersIndia/website](https://github.com/developersIndia/website) - Website for The DevelopersIndia Community (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
 - [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (5 days ago)
 
