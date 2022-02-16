@@ -7,18 +7,18 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 #### 👷 Check out what I'm currently working on
 
 - [developersIndia/wiki](https://github.com/developersIndia/wiki) - The Developers India Wiki for some cool resources (today)
+- [Jarmos-san/nextjs-project-template](https://github.com/Jarmos-san/nextjs-project-template) - A template repository for using with Next.js projects (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
 - [developersIndia/website](https://github.com/developersIndia/website) - Website for The DevelopersIndia Community (1 day ago)
 - [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (5 days ago)
-- [Jarmos-san/til](https://github.com/Jarmos-san/til) - A repository of Markdown files documenting the things I learn over time (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [Jarmos-san/nextjs-project-template](https://github.com/Jarmos-san/nextjs-project-template) - A template repository for using with Next.js projects
 - [Jarmos-san/til](https://github.com/Jarmos-san/til) - A repository of Markdown files documenting the things I learn over time
 - [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow
 - [Jarmos-san/beginner-frontend-projects](https://github.com/Jarmos-san/beginner-frontend-projects) - A list of frontend projects ANY beginners should try to build for their portfolios
 - [Jarmos-san/rock-paper-scissor](https://github.com/Jarmos-san/rock-paper-scissor) - A quick practice project for polishing JS skills
-- [Jarmos-san/landing-page](https://github.com/Jarmos-san/landing-page) - learning CSS from TOP
 
 #### 🔭 Latest releases I've contributed to
 
