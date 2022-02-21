@@ -22,7 +22,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.74.0](https://github.com/tiangolo/fastapi/releases/tag/0.74.0), 4 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.74.1](https://github.com/tiangolo/fastapi/releases/tag/0.74.1), today) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 #### 📜 My recent blog posts
 
