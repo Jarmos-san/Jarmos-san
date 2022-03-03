@@ -6,7 +6,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
 - [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (1 day ago)
 - [developersIndia/website](https://github.com/developersIndia/website) - Website for The DevelopersIndia Community (3 days ago)
 - [Jarmos-san/nextjs-project-template](https://github.com/Jarmos-san/nextjs-project-template) - A template repository for using with Next.js projects (2 weeks ago)
