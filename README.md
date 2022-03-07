@@ -22,6 +22,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
+- [Jarmos-san/jarvim](https://github.com/Jarmos-san/jarvim) ([v0.0.1](https://github.com/Jarmos-san/jarvim/releases/tag/v0.0.1), today) - A sensible IDE-like configuration for Neovim
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.75.0](https://github.com/tiangolo/fastapi/releases/tag/0.75.0), 3 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 #### 📜 My recent blog posts
