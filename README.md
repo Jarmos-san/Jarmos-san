@@ -7,10 +7,10 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 #### 👷 Check out what I'm currently working on
 
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (today)
-- [Jarmos-san/jarvim](https://github.com/Jarmos-san/jarvim) - A sensible IDE-like configuration for Neovim (1 day ago)
-- [developersIndia/.github](https://github.com/developersIndia/.github) - Community health files for the organisation (2 days ago)
-- [developersIndia/website](https://github.com/developersIndia/website) - Website for The DevelopersIndia Community (4 days ago)
+- [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (1 day ago)
+- [Jarmos-san/jarvim](https://github.com/Jarmos-san/jarvim) - A sensible IDE-like configuration for Neovim (2 days ago)
+- [developersIndia/.github](https://github.com/developersIndia/.github) - Community health files for the organisation (3 days ago)
+- [developersIndia/website](https://github.com/developersIndia/website) - Website for The DevelopersIndia Community (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,8 +22,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jarmos-san/jarvim](https://github.com/Jarmos-san/jarvim) ([v0.0.1](https://github.com/Jarmos-san/jarvim/releases/tag/v0.0.1), 2 days ago) - A sensible IDE-like configuration for Neovim
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.75.0](https://github.com/tiangolo/fastapi/releases/tag/0.75.0), 5 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [Jarmos-san/jarvim](https://github.com/Jarmos-san/jarvim) ([v0.0.1](https://github.com/Jarmos-san/jarvim/releases/tag/v0.0.1), 3 days ago) - A sensible IDE-like configuration for Neovim
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.75.0](https://github.com/tiangolo/fastapi/releases/tag/0.75.0), 6 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 #### 📜 My recent blog posts
 
@@ -36,10 +36,10 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 #### 📓 Gists I wrote
 
 - [Setting up Prettier and ESLint with pre-commit hook](https://gist.github.com/ff499b57c9864c39ecd8c13d834c38c0) (2 months ago)
-- [Example init.lua file for configuring Neovim with custom keymappings](https://gist.github.com/e45d83515724e8aff1cce4ed846b8d95) (3 months ago)
-- [Example utilitarian map function written in Lua for Neovim](https://gist.github.com/c8bf40de6721b4a199799234be2c9f75) (3 months ago)
-- [Example Lua module](https://gist.github.com/5e5614f609396ddba7a20c9c2ac29041) (3 months ago)
-- [How to create Lua function to customise keybindings in Neovim](https://gist.github.com/d46605cd3a795513526448f36e0db18e) (3 months ago)
+- [Example init.lua file for configuring Neovim with custom keymappings](https://gist.github.com/e45d83515724e8aff1cce4ed846b8d95) (4 months ago)
+- [Example utilitarian map function written in Lua for Neovim](https://gist.github.com/c8bf40de6721b4a199799234be2c9f75) (4 months ago)
+- [Example Lua module](https://gist.github.com/5e5614f609396ddba7a20c9c2ac29041) (4 months ago)
+- [How to create Lua function to customise keybindings in Neovim](https://gist.github.com/d46605cd3a795513526448f36e0db18e) (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
