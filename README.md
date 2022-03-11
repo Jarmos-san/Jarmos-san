@@ -6,11 +6,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/jarvim](https://github.com/Jarmos-san/jarvim) - A sensible IDE-like configuration for Neovim (today)
-- [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (1 day ago)
-- [developersIndia/.github](https://github.com/developersIndia/.github) - Community health files for the organisation (3 days ago)
-- [developersIndia/website](https://github.com/developersIndia/website) - Website for The DevelopersIndia Community (5 days ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Jarmos-san/jarvim](https://github.com/Jarmos-san/jarvim) - A sensible IDE-like configuration for Neovim (1 day ago)
+- [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (2 days ago)
+- [developersIndia/.github](https://github.com/developersIndia/.github) - Community health files for the organisation (4 days ago)
+- [developersIndia/website](https://github.com/developersIndia/website) - Website for The DevelopersIndia Community (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,8 +22,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jarmos-san/jarvim](https://github.com/Jarmos-san/jarvim) ([v0.0.1](https://github.com/Jarmos-san/jarvim/releases/tag/v0.0.1), 3 days ago) - A sensible IDE-like configuration for Neovim
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.75.0](https://github.com/tiangolo/fastapi/releases/tag/0.75.0), 6 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [Jarmos-san/jarvim](https://github.com/Jarmos-san/jarvim) ([v0.0.1](https://github.com/Jarmos-san/jarvim/releases/tag/v0.0.1), 4 days ago) - A sensible IDE-like configuration for Neovim
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.75.0](https://github.com/tiangolo/fastapi/releases/tag/0.75.0), 1 week ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 #### 📜 My recent blog posts
 
