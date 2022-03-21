@@ -27,11 +27,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 📜 My recent blog posts
 
-- [Vim or Neovim? Here&#39;s Why You Should Use the Latter](https://jarmos.netlify.app/posts/vim-vs-neovim/) (8 months ago)
-- [Using GitHub Actions to Deploy a FastAPI Project to Heroku](https://jarmos.netlify.app/posts/using-github-actions-to-deploy-a-fastapi-project-to-heroku/) (10 months ago)
-- [Google Serverless Infrastructure: A Primer on GCP &amp; Serverless Computing](https://jarmos.netlify.app/posts/details-of-google-serverless-computing/) (11 months ago)
-- [How to Create an Overpowered Blog With Hugo (As a Wordpress Alternative)](https://jarmos.netlify.app/posts/blogging-with-hugo-as-an-wordpress-alternative/) (1 year ago)
-- [A Review of Some of the Most Popular Static Site Generators](https://jarmos.netlify.app/posts/reviewing-popular-static-site-generators/) (1 year ago)
+- [How to Create Custom Keymaps in Neovim With Lua](https://blog.devgenius.io/create-custom-keymaps-in-neovim-with-lua-d1167de0f2c2?source=rss-dc888a4b021e------2) (4 months ago)
+- [Vim or Neovim? Here’s Why You Should Use the Latter](https://blog.devgenius.io/vim-vs-neovim-26b856694566?source=rss-dc888a4b021e------2) (8 months ago)
+- [Using GitHub Actions to Deploy a FastAPI Project to Heroku](https://blog.devgenius.io/using-github-actions-to-deploy-a-fastapi-project-to-heroku-8ae3f9046178?source=rss-dc888a4b021e------2) (10 months ago)
+- [Google Serverless Infrastructure: A Primer on GCP &amp; Serverless Computing](https://blog.devgenius.io/google-serverless-infrastructure-ccfb2977482?source=rss-dc888a4b021e------2) (11 months ago)
+- [How to Create an Overpowered Blog With Hugo (As a Wordpress Alternative)](https://blog.devgenius.io/how-to-create-an-overpowered-blog-with-hugo-as-a-wordpress-alternative-ee3771106b42?source=rss-dc888a4b021e------2) (1 year ago)
 
 #### 📓 Gists I wrote
 
