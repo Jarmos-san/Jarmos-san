@@ -20,7 +20,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://jarmos.netlify.app/posts/index.xml" 5}}
+{{range rss "https://jarmos.medium.com/feed" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
