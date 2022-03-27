@@ -6,8 +6,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
+- [developersIndia/jarvim](https://github.com/developersIndia/jarvim) - A sensible IDE-like configuration for Neovim (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (2 days ago)
-- [developersIndia/jarvim](https://github.com/developersIndia/jarvim) - A sensible IDE-like configuration for Neovim (3 days ago)
 - [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) - ✅ A better Pre-Commit hook to check your Shell scripts (3 days ago)
 - [Jarmos-san/til](https://github.com/Jarmos-san/til) - A repository of Markdown files documenting the things I learn over time (1 week ago)
 - [Jarmos-san/bash-template](https://github.com/Jarmos-san/bash-template) - A bare minimum Bash template to be used everywhere for my personal projects (1 week ago)
@@ -22,8 +22,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
+- [developersIndia/jarvim](https://github.com/developersIndia/jarvim) ([v0.1.0](https://github.com/developersIndia/jarvim/releases/tag/v0.1.0), today) - A sensible IDE-like configuration for Neovim
 - [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) ([v0.1.0](https://github.com/Jarmos-san/shellcheck-precommit/releases/tag/v0.1.0), 3 days ago) - ✅ A better Pre-Commit hook to check your Shell scripts
-- [developersIndia/jarvim](https://github.com/developersIndia/jarvim) ([v0.0.1](https://github.com/developersIndia/jarvim/releases/tag/v0.0.1), 2 weeks ago) - A sensible IDE-like configuration for Neovim
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.75.0](https://github.com/tiangolo/fastapi/releases/tag/0.75.0), 3 weeks ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 #### 📜 My recent blog posts
