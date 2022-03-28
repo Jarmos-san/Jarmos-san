@@ -6,8 +6,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
 - [developersIndia/jarvim](https://github.com/developersIndia/jarvim) - A sensible IDE-like configuration for Neovim (1 day ago)
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (3 days ago)
 - [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) - ✅ A better Pre-Commit hook to check your Shell scripts (4 days ago)
 - [Jarmos-san/til](https://github.com/Jarmos-san/til) - A repository of Markdown files documenting the things I learn over time (1 week ago)
 - [Jarmos-san/bash-template](https://github.com/Jarmos-san/bash-template) - A bare minimum Bash template to be used everywhere for my personal projects (1 week ago)
