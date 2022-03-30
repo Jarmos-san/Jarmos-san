@@ -6,15 +6,15 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/vercel-action](https://github.com/Jarmos-san/vercel-action) - A GitHub Action for deploying to Vercel (today)
+- [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) - ✅ A better Pre-Commit hook to check your Shell scripts (today)
+- [Jarmos-san/gh-vercel](https://github.com/Jarmos-san/gh-vercel) - A GitHub Action for deploying to Vercel (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
 - [developersIndia/jarvim](https://github.com/developersIndia/jarvim) - A sensible IDE-like configuration for Neovim (3 days ago)
-- [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) - ✅ A better Pre-Commit hook to check your Shell scripts (6 days ago)
 - [Jarmos-san/til](https://github.com/Jarmos-san/til) - A repository of Markdown files documenting the things I learn over time (1 week ago)
 
 #### 🌱 My latest projects
 
-- [Jarmos-san/vercel-action](https://github.com/Jarmos-san/vercel-action) - A GitHub Action for deploying to Vercel
+- [Jarmos-san/gh-vercel](https://github.com/Jarmos-san/gh-vercel) - A GitHub Action for deploying to Vercel
 - [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) - ✅ A better Pre-Commit hook to check your Shell scripts
 - [Jarmos-san/bash-template](https://github.com/Jarmos-san/bash-template) - A bare minimum Bash template to be used everywhere for my personal projects
 - [Jarmos-san/til](https://github.com/Jarmos-san/til) - A repository of Markdown files documenting the things I learn over time
@@ -22,7 +22,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jarmos-san/vercel-action](https://github.com/Jarmos-san/vercel-action) ([v0.0.2](https://github.com/Jarmos-san/vercel-action/releases/tag/v0.0.2), today) - A GitHub Action for deploying to Vercel
+- [Jarmos-san/gh-vercel](https://github.com/Jarmos-san/gh-vercel) ([v0.0.2](https://github.com/Jarmos-san/gh-vercel/releases/tag/v0.0.2), today) - A GitHub Action for deploying to Vercel
 - [developersIndia/jarvim](https://github.com/developersIndia/jarvim) ([v0.1.0](https://github.com/developersIndia/jarvim/releases/tag/v0.1.0), 3 days ago) - A sensible IDE-like configuration for Neovim
 - [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) ([v0.1.0](https://github.com/Jarmos-san/shellcheck-precommit/releases/tag/v0.1.0), 6 days ago) - ✅ A better Pre-Commit hook to check your Shell scripts
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.75.0](https://github.com/tiangolo/fastapi/releases/tag/0.75.0), 3 weeks ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
