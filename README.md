@@ -7,10 +7,10 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 #### 👷 Check out what I'm currently working on
 
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/til](https://github.com/Jarmos-san/til) - A repository of Markdown files documenting the things I learn over time (today)
-- [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (today)
-- [Jarmos-san/gh-vercel](https://github.com/Jarmos-san/gh-vercel) - A GitHub Action for deploying to Vercel (today)
-- [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) - ✅ A better Pre-Commit hook to check your Shell scripts (5 days ago)
+- [Jarmos-san/til](https://github.com/Jarmos-san/til) - A repository of Markdown files documenting the things I learn over time (1 day ago)
+- [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (1 day ago)
+- [Jarmos-san/gh-vercel](https://github.com/Jarmos-san/gh-vercel) - A GitHub Action for deploying to Vercel (1 day ago)
+- [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) - ✅ A better Pre-Commit hook to check your Shell scripts (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,9 +22,9 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.75.1](https://github.com/tiangolo/fastapi/releases/tag/0.75.1), 3 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) ([v0.2.0](https://github.com/Jarmos-san/shellcheck-precommit/releases/tag/v0.2.0), 5 days ago) - ✅ A better Pre-Commit hook to check your Shell scripts
-- [Jarmos-san/gh-vercel](https://github.com/Jarmos-san/gh-vercel) ([v0.0.2](https://github.com/Jarmos-san/gh-vercel/releases/tag/v0.0.2), 5 days ago) - A GitHub Action for deploying to Vercel
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.75.1](https://github.com/tiangolo/fastapi/releases/tag/0.75.1), 4 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) ([v0.2.0](https://github.com/Jarmos-san/shellcheck-precommit/releases/tag/v0.2.0), 6 days ago) - ✅ A better Pre-Commit hook to check your Shell scripts
+- [Jarmos-san/gh-vercel](https://github.com/Jarmos-san/gh-vercel) ([v0.0.2](https://github.com/Jarmos-san/gh-vercel/releases/tag/v0.0.2), 6 days ago) - A GitHub Action for deploying to Vercel
 - [developersIndia/jarvim](https://github.com/developersIndia/jarvim) ([v0.1.0](https://github.com/developersIndia/jarvim/releases/tag/v0.1.0), 1 week ago) - A sensible IDE-like configuration for Neovim
 
 #### 📜 My recent blog posts
