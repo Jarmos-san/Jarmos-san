@@ -6,11 +6,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/til](https://github.com/Jarmos-san/til) - A repository of Markdown files documenting the things I learn over time (today)
-- [Jarmos-san/setup-vercel](https://github.com/Jarmos-san/setup-vercel) - A GitHub Action for deploying to Vercel (1 day ago)
-- [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (2 days ago)
-- [Jarmos-san/freelance-dev-guide](https://github.com/Jarmos-san/freelance-dev-guide) - An upcoming book about freelancing as a software developer (4 days ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Jarmos-san/til](https://github.com/Jarmos-san/til) - A repository of Markdown files documenting the things I learn over time (1 day ago)
+- [Jarmos-san/setup-vercel](https://github.com/Jarmos-san/setup-vercel) - A GitHub Action for deploying to Vercel (2 days ago)
+- [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (3 days ago)
+- [Jarmos-san/freelance-dev-guide](https://github.com/Jarmos-san/freelance-dev-guide) - An upcoming book about freelancing as a software developer (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 - [How to Create Custom Keymaps in Neovim With Lua](https://blog.devgenius.io/create-custom-keymaps-in-neovim-with-lua-d1167de0f2c2?source=rss-dc888a4b021e------2) (5 months ago)
 - [Vim or Neovim? Here’s Why You Should Use the Latter](https://blog.devgenius.io/vim-vs-neovim-26b856694566?source=rss-dc888a4b021e------2) (9 months ago)
 - [Using GitHub Actions to Deploy a FastAPI Project to Heroku](https://blog.devgenius.io/using-github-actions-to-deploy-a-fastapi-project-to-heroku-8ae3f9046178?source=rss-dc888a4b021e------2) (11 months ago)
-- [Google Serverless Infrastructure: A Primer on GCP &amp; Serverless Computing](https://blog.devgenius.io/google-serverless-infrastructure-ccfb2977482?source=rss-dc888a4b021e------2) (11 months ago)
+- [Google Serverless Infrastructure: A Primer on GCP &amp; Serverless Computing](https://blog.devgenius.io/google-serverless-infrastructure-ccfb2977482?source=rss-dc888a4b021e------2) (1 year ago)
 - [How to Create an Overpowered Blog With Hugo (As a Wordpress Alternative)](https://blog.devgenius.io/how-to-create-an-overpowered-blog-with-hugo-as-a-wordpress-alternative-ee3771106b42?source=rss-dc888a4b021e------2) (1 year ago)
 
 #### 📓 Gists I wrote
