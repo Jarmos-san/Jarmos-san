@@ -7,24 +7,23 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 #### 👷 Check out what I'm currently working on
 
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/setup-vercel](https://github.com/Jarmos-san/setup-vercel) - A GitHub Action for deploying to Vercel (today)
 - [Jarmos-san/til](https://github.com/Jarmos-san/til) - A repository of Markdown files documenting the things I learn over time (2 days ago)
 - [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (4 days ago)
 - [Jarmos-san/freelance-dev-guide](https://github.com/Jarmos-san/freelance-dev-guide) - An upcoming book about freelancing as a software developer (6 days ago)
+- [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) - ✅ A better Pre-Commit hook to check your Shell scripts (2 weeks ago)
 
 #### 🌱 My latest projects
 
-- [Jarmos-san/setup-vercel](https://github.com/Jarmos-san/setup-vercel) - A GitHub Action for deploying to Vercel
 - [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) - ✅ A better Pre-Commit hook to check your Shell scripts
 - [Jarmos-san/bash-template](https://github.com/Jarmos-san/bash-template) - A bare minimum Bash template to be used everywhere for my personal projects
 - [Jarmos-san/freelance-dev-guide](https://github.com/Jarmos-san/freelance-dev-guide) - An upcoming book about freelancing as a software developer
 - [Jarmos-san/til](https://github.com/Jarmos-san/til) - A repository of Markdown files documenting the things I learn over time
+- [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow
 
 #### 🔭 Latest releases I've contributed to
 
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.75.1](https://github.com/tiangolo/fastapi/releases/tag/0.75.1), 2 weeks ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) ([v0.2.0](https://github.com/Jarmos-san/shellcheck-precommit/releases/tag/v0.2.0), 2 weeks ago) - ✅ A better Pre-Commit hook to check your Shell scripts
-- [Jarmos-san/setup-vercel](https://github.com/Jarmos-san/setup-vercel) ([v0.0.2](https://github.com/Jarmos-san/setup-vercel/releases/tag/v0.0.2), 2 weeks ago) - A GitHub Action for deploying to Vercel
 - [developersIndia/jarvim](https://github.com/developersIndia/jarvim) ([v0.1.0](https://github.com/developersIndia/jarvim/releases/tag/v0.1.0), 2 weeks ago) - A sensible IDE-like configuration for Neovim
 
 #### 📜 My recent blog posts
