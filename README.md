@@ -6,7 +6,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - A blog created using NextJs (3 days ago)
+- [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - A blog created using NextJs (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (4 days ago)
 - [dnephin/pre-commit-golang](https://github.com/dnephin/pre-commit-golang) - Golang hooks for pre-commit (1 week ago)
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain (1 week ago)
