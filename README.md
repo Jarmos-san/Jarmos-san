@@ -6,7 +6,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - A blog created using NextJs (1 day ago)
+- [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - A blog created using NextJs (today)
 - [Jarmos-san/technical-book](https://github.com/Jarmos-san/technical-book) - 📗 A template for authoring technical eBooks using LaTex (and related technologies) (2 days ago)
 - [Jarmos-san/freelance-dev-guide](https://github.com/Jarmos-san/freelance-dev-guide) - An upcoming book about freelancing as a software developer (3 days ago)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (6 days ago)
@@ -28,11 +28,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 📜 My recent blog posts
 
+- [Moving to Hashnode to Share Better Content as a Technical Writer](https://jarmos.medium.com/moving-to-hashnode-to-share-better-content-as-a-technical-writer-5ba2d171a3da?source=rss-dc888a4b021e------2) (today)
 - [How to Create Custom Keymaps in Neovim With Lua](https://blog.devgenius.io/create-custom-keymaps-in-neovim-with-lua-d1167de0f2c2?source=rss-dc888a4b021e------2) (6 months ago)
 - [Vim or Neovim? Here’s Why You Should Use the Latter](https://blog.devgenius.io/vim-vs-neovim-26b856694566?source=rss-dc888a4b021e------2) (10 months ago)
 - [Using GitHub Actions to Deploy a FastAPI Project to Heroku](https://blog.devgenius.io/using-github-actions-to-deploy-a-fastapi-project-to-heroku-8ae3f9046178?source=rss-dc888a4b021e------2) (1 year ago)
 - [Google Serverless Infrastructure: A Primer on GCP &amp; Serverless Computing](https://blog.devgenius.io/google-serverless-infrastructure-ccfb2977482?source=rss-dc888a4b021e------2) (1 year ago)
-- [How to Create an Overpowered Blog With Hugo (As a Wordpress Alternative)](https://blog.devgenius.io/how-to-create-an-overpowered-blog-with-hugo-as-a-wordpress-alternative-ee3771106b42?source=rss-dc888a4b021e------2) (1 year ago)
 
 #### 📓 Gists I wrote
 
