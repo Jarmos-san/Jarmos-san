@@ -6,7 +6,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - A blog created using NextJs (3 days ago)
+- [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - A blog created using NextJs (today)
 - [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (4 days ago)
 - [Jarmos-san/freelance-dev-guide](https://github.com/Jarmos-san/freelance-dev-guide) - An upcoming book about freelancing as a software developer (4 days ago)
 - [Jarmos-san/technical-book](https://github.com/Jarmos-san/technical-book) - 📗 A template for authoring technical eBooks using LaTex (and related technologies) (6 days ago)
