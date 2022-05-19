@@ -7,9 +7,9 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 #### 👷 Check out what I'm currently working on
 
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - A blog created using NextJs (today)
-- [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (6 days ago)
-- [Jarmos-san/freelance-dev-guide](https://github.com/Jarmos-san/freelance-dev-guide) - An upcoming book about freelancing as a software developer (6 days ago)
+- [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - A blog created using NextJs (1 day ago)
+- [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (1 week ago)
+- [Jarmos-san/freelance-dev-guide](https://github.com/Jarmos-san/freelance-dev-guide) - An upcoming book about freelancing as a software developer (1 week ago)
 - [Jarmos-san/technical-book](https://github.com/Jarmos-san/technical-book) - 📗 A template for authoring technical eBooks using LaTex (and related technologies) (1 week ago)
 
 #### 🌱 My latest projects
@@ -22,13 +22,13 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.78.0](https://github.com/tiangolo/fastapi/releases/tag/0.78.0), 4 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.78.0](https://github.com/tiangolo/fastapi/releases/tag/0.78.0), 5 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) ([v0.2.0](https://github.com/Jarmos-san/shellcheck-precommit/releases/tag/v0.2.0), 1 month ago) - ✅ A better Pre-Commit hook to check your Shell scripts
 - [developersIndia/jarvim](https://github.com/developersIndia/jarvim) ([v0.1.0](https://github.com/developersIndia/jarvim/releases/tag/v0.1.0), 1 month ago) - A sensible IDE-like configuration for Neovim
 
 #### 📜 My recent blog posts
 
-- [Moving to Hashnode to Share Better Content as a Technical Writer](https://jarmos.medium.com/moving-to-hashnode-to-share-better-content-as-a-technical-writer-5ba2d171a3da?source=rss-dc888a4b021e------2) (6 days ago)
+- [Moving to Hashnode to Share Better Content as a Technical Writer](https://jarmos.medium.com/moving-to-hashnode-to-share-better-content-as-a-technical-writer-5ba2d171a3da?source=rss-dc888a4b021e------2) (1 week ago)
 - [How to Create Custom Keymaps in Neovim With Lua](https://blog.devgenius.io/create-custom-keymaps-in-neovim-with-lua-d1167de0f2c2?source=rss-dc888a4b021e------2) (6 months ago)
 - [Vim or Neovim? Here’s Why You Should Use the Latter](https://blog.devgenius.io/vim-vs-neovim-26b856694566?source=rss-dc888a4b021e------2) (10 months ago)
 - [Using GitHub Actions to Deploy a FastAPI Project to Heroku](https://blog.devgenius.io/using-github-actions-to-deploy-a-fastapi-project-to-heroku-8ae3f9046178?source=rss-dc888a4b021e------2) (1 year ago)
