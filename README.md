@@ -28,11 +28,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 📜 My recent blog posts
 
-- [Moving to Hashnode to Share Better Content as a Technical Writer](https://jarmos.medium.com/moving-to-hashnode-to-share-better-content-as-a-technical-writer-5ba2d171a3da?source=rss-dc888a4b021e------2) (2 weeks ago)
-- [How to Create Custom Keymaps in Neovim With Lua](https://blog.devgenius.io/create-custom-keymaps-in-neovim-with-lua-d1167de0f2c2?source=rss-dc888a4b021e------2) (6 months ago)
-- [Vim or Neovim? Here’s Why You Should Use the Latter](https://blog.devgenius.io/vim-vs-neovim-26b856694566?source=rss-dc888a4b021e------2) (10 months ago)
-- [Using GitHub Actions to Deploy a FastAPI Project to Heroku](https://blog.devgenius.io/using-github-actions-to-deploy-a-fastapi-project-to-heroku-8ae3f9046178?source=rss-dc888a4b021e------2) (1 year ago)
-- [Google Serverless Infrastructure: A Primer on GCP &amp; Serverless Computing](https://blog.devgenius.io/google-serverless-infrastructure-ccfb2977482?source=rss-dc888a4b021e------2) (1 year ago)
+- [How to Create Custom Keymaps in Neovim With Lua](https://jarmosan.hashnode.dev/create-custom-keymaps-in-neovim-with-lua-d1167de0f2c2) (6 months ago)
+- [Vim or Neovim? Here’s Why You Should Use the Latter](https://jarmosan.hashnode.dev/vim-vs-neovim-26b856694566) (10 months ago)
+- [Using GitHub Actions to Deploy a FastAPI Project to Heroku](https://jarmosan.hashnode.dev/using-github-actions-to-deploy-a-fastapi-project-to-heroku-8ae3f9046178) (1 year ago)
+- [Google Serverless Infrastructure: A Primer on GCP &amp; Serverless Computing](https://jarmosan.hashnode.dev/google-serverless-infrastructure-ccfb2977482) (1 year ago)
+- [How to Create an Overpowered Blog With Hugo (As a Wordpress Alternative)](https://jarmosan.hashnode.dev/how-to-create-an-overpowered-blog-with-hugo-as-a-wordpress-alternative-ee3771106b42) (1 year ago)
 
 #### 📓 Gists I wrote
 
