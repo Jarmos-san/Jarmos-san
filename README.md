@@ -6,10 +6,10 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - A blog created using NextJs (today)
-- [Jarmos-san/technical-book](https://github.com/Jarmos-san/technical-book) - 📗 A template for authoring technical eBooks using LaTex (and related technologies) (1 day ago)
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (3 days ago)
-- [Jarmos-san/alokka](https://github.com/Jarmos-san/alokka) - (Work-in-Progress) A super-fast asynchronous Python library for the Twitter API (6 days ago)
+- [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - A blog created using NextJs (1 day ago)
+- [Jarmos-san/technical-book](https://github.com/Jarmos-san/technical-book) - 📗 A template for authoring technical eBooks using LaTex (and related technologies) (2 days ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (4 days ago)
+- [Jarmos-san/alokka](https://github.com/Jarmos-san/alokka) - (Work-in-Progress) A super-fast asynchronous Python library for the Twitter API (1 week ago)
 - [Jarmos-san/.github](https://github.com/Jarmos-san/.github) - Default community health files for my Github account (1 week ago)
 
 #### 🌱 My latest projects
