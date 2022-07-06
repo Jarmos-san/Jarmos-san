@@ -6,10 +6,10 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - A blog created using NextJs (today)
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (5 days ago)
+- [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - A blog created using NextJs (1 day ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (6 days ago)
 - [developersIndia/jarvim](https://github.com/developersIndia/jarvim) - A sensible IDE-like configuration for Neovim (1 week ago)
-- [Jarmos-san/hashnode-articles](https://github.com/Jarmos-san/hashnode-articles) - All of my Hashnode articles written in Markdown (4 weeks ago)
+- [Jarmos-san/hashnode-articles](https://github.com/Jarmos-san/hashnode-articles) - All of my Hashnode articles written in Markdown (1 month ago)
 - [Jarmos-san/alokka](https://github.com/Jarmos-san/alokka) - (Work-in-Progress) A super-fast asynchronous Python library for the Twitter API (1 month ago)
 
 #### 🌱 My latest projects
@@ -28,7 +28,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 📜 My recent blog posts
 
-- [An Automated &amp; Modern Workflow for Using LaTex](https://jarmosan.hashnode.dev/an-automated-and-modern-latex-workflow) (4 weeks ago)
+- [An Automated &amp; Modern Workflow for Using LaTex](https://jarmosan.hashnode.dev/an-automated-and-modern-latex-workflow) (1 month ago)
 - [How to Create Custom Keymaps in Neovim With Lua](https://jarmosan.hashnode.dev/create-custom-keymaps-in-neovim-with-lua-d1167de0f2c2) (7 months ago)
 - [Vim or Neovim? Here’s Why You Should Use the Latter](https://jarmosan.hashnode.dev/vim-vs-neovim-26b856694566) (11 months ago)
 - [Using GitHub Actions to Deploy a FastAPI Project to Heroku](https://jarmosan.hashnode.dev/using-github-actions-to-deploy-a-fastapi-project-to-heroku-8ae3f9046178) (1 year ago)
