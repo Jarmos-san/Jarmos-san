@@ -8,7 +8,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 - [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - A blog created using NextJs (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [developersIndia/jarvim](https://github.com/developersIndia/jarvim) - A sensible IDE-like configuration for Neovim (1 week ago)
+- [developersIndia/jarvim](https://github.com/developersIndia/jarvim) - A sensible IDE-like configuration for Neovim (2 weeks ago)
 - [Jarmos-san/hashnode-articles](https://github.com/Jarmos-san/hashnode-articles) - All of my Hashnode articles written in Markdown (1 month ago)
 - [Jarmos-san/alokka](https://github.com/Jarmos-san/alokka) - (Work-in-Progress) A super-fast asynchronous Python library for the Twitter API (1 month ago)
 
