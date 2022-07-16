@@ -6,8 +6,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - A blog created using NextJs (1 day ago)
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - A blog created using NextJs (2 days ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (2 days ago)
 - [developersIndia/jarvim](https://github.com/developersIndia/jarvim) - A sensible IDE-like configuration for Neovim (2 weeks ago)
 - [Jarmos-san/hashnode-articles](https://github.com/Jarmos-san/hashnode-articles) - All of my Hashnode articles written in Markdown (1 month ago)
 - [Jarmos-san/alokka](https://github.com/Jarmos-san/alokka) - (Work-in-Progress) A super-fast asynchronous Python library for the Twitter API (1 month ago)
@@ -22,7 +22,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.79.0](https://github.com/tiangolo/fastapi/releases/tag/0.79.0), 1 day ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.79.0](https://github.com/tiangolo/fastapi/releases/tag/0.79.0), 2 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) ([v0.2.0](https://github.com/Jarmos-san/shellcheck-precommit/releases/tag/v0.2.0), 3 months ago) - ✅ A better Pre-Commit hook to check your Shell scripts
 - [developersIndia/jarvim](https://github.com/developersIndia/jarvim) ([v0.1.0](https://github.com/developersIndia/jarvim/releases/tag/v0.1.0), 3 months ago) - A sensible IDE-like configuration for Neovim
 
