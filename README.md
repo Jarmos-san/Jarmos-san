@@ -7,10 +7,10 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 #### 👷 Check out what I'm currently working on
 
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
+- [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (today)
 - [developersIndia/website](https://github.com/developersIndia/website) - Website for The DevelopersIndia Community (2 days ago)
 - [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - A blog created using NextJs (4 days ago)
 - [developersIndia/jarvim](https://github.com/developersIndia/jarvim) - A sensible IDE-like configuration for Neovim (2 weeks ago)
-- [Jarmos-san/hashnode-articles](https://github.com/Jarmos-san/hashnode-articles) - All of my Hashnode articles written in Markdown (1 month ago)
 
 #### 🌱 My latest projects
 
