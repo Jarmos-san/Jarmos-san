@@ -6,8 +6,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (2 days ago)
-- [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (2 days ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (3 days ago)
+- [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (3 days ago)
 - [developersIndia/website](https://github.com/developersIndia/website) - Website for The DevelopersIndia Community (2 weeks ago)
 - [developersIndia/jarvim](https://github.com/developersIndia/jarvim) - A sensible IDE-like configuration for Neovim (1 month ago)
 - [Jarmos-san/hashnode-articles](https://github.com/Jarmos-san/hashnode-articles) - All of my Hashnode articles written in Markdown (1 month ago)
@@ -36,7 +36,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 📓 Gists I wrote
 
-- [Setting up Prettier and ESLint with pre-commit hook](https://gist.github.com/ff499b57c9864c39ecd8c13d834c38c0) (6 months ago)
+- [Setting up Prettier and ESLint with pre-commit hook](https://gist.github.com/ff499b57c9864c39ecd8c13d834c38c0) (7 months ago)
 - [Example init.lua file for configuring Neovim with custom keymappings](https://gist.github.com/e45d83515724e8aff1cce4ed846b8d95) (8 months ago)
 - [Example utilitarian map function written in Lua for Neovim](https://gist.github.com/c8bf40de6721b4a199799234be2c9f75) (8 months ago)
 - [Example Lua module](https://gist.github.com/5e5614f609396ddba7a20c9c2ac29041) (8 months ago)
