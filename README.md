@@ -44,11 +44,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👯 Check out some of my recent followers
 
+- [suriyaakumar](https://github.com/suriyaakumar)
 - [DevanshBajaj](https://github.com/DevanshBajaj)
 - [V3dantSh4rma](https://github.com/V3dantSh4rma)
 - [nathsin](https://github.com/nathsin)
 - [anubhav823](https://github.com/anubhav823)
-- [suryarajendhran](https://github.com/suryarajendhran)
 
 #### 💬 Feedback
 
