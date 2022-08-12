@@ -8,8 +8,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 - [developersIndia/.github](https://github.com/developersIndia/.github) - Community health files for the organisation (today)
 - [Jarmos-san/hashnode-articles](https://github.com/Jarmos-san/hashnode-articles) - All of my Hashnode articles written in Markdown (today)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
 - [Jarmos-san/personal-website](https://github.com/Jarmos-san/personal-website) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (3 days ago)
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (4 days ago)
 - [Jarmos-san/graphql-server](https://github.com/Jarmos-san/graphql-server) - A simple-to-use GraphQL server for testing your prototypes locally. (5 days ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 📜 My recent blog posts
 
+- [Should You Use Next.js?](https://jarmosan.hashnode.dev/should-you-use-nextjs) (today)
 - [An Automated &amp; Modern Workflow for Using LaTex](https://jarmosan.hashnode.dev/an-automated-and-modern-latex-workflow) (2 months ago)
 - [How to Create Custom Keymaps in Neovim With Lua](https://jarmosan.hashnode.dev/create-custom-keymaps-in-neovim-with-lua-d1167de0f2c2) (9 months ago)
 - [Vim or Neovim? Here’s Why You Should Use the Latter](https://jarmosan.hashnode.dev/vim-vs-neovim-26b856694566) (1 year ago)
 - [Using GitHub Actions to Deploy a FastAPI Project to Heroku](https://jarmosan.hashnode.dev/using-github-actions-to-deploy-a-fastapi-project-to-heroku-8ae3f9046178) (1 year ago)
-- [Google Serverless Infrastructure: A Primer on GCP &amp; Serverless Computing](https://jarmosan.hashnode.dev/google-serverless-infrastructure-ccfb2977482) (1 year ago)
 
 #### 📓 Gists I wrote
 
