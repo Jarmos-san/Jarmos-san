@@ -7,10 +7,10 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 #### 👷 Check out what I'm currently working on
 
 - [developersIndia/.github](https://github.com/developersIndia/.github) - Community health files for the organisation (today)
+- [Jarmos-san/hashnode-articles](https://github.com/Jarmos-san/hashnode-articles) - All of my Hashnode articles written in Markdown (today)
 - [Jarmos-san/personal-website](https://github.com/Jarmos-san/personal-website) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (3 days ago)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (4 days ago)
 - [Jarmos-san/graphql-server](https://github.com/Jarmos-san/graphql-server) - A simple-to-use GraphQL server for testing your prototypes locally. (5 days ago)
-- [Jarmos-san/hugo-blog](https://github.com/Jarmos-san/hugo-blog) - Personal blog made using Hugo, PaperMod, Cloudinary &amp; Forestry CMS. Use it as an Wordpress alternative! (1 week ago)
 
 #### 🌱 My latest projects
 
