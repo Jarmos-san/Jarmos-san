@@ -6,11 +6,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - My personalised Neovim configurations written in Lua (today)
-- [Jarmos-san/hashnode-articles](https://github.com/Jarmos-san/hashnode-articles) - All of my Hashnode articles written in Markdown (today)
-- [developersIndia/.github](https://github.com/developersIndia/.github) - Community health files for the organisation (today)
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/personal-website](https://github.com/Jarmos-san/personal-website) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (3 days ago)
+- [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - My personalised Neovim configurations written in Lua (1 day ago)
+- [Jarmos-san/hashnode-articles](https://github.com/Jarmos-san/hashnode-articles) - All of my Hashnode articles written in Markdown (1 day ago)
+- [developersIndia/.github](https://github.com/developersIndia/.github) - Community health files for the organisation (1 day ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Jarmos-san/personal-website](https://github.com/Jarmos-san/personal-website) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,13 +22,13 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.79.0](https://github.com/tiangolo/fastapi/releases/tag/0.79.0), 4 weeks ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.79.0](https://github.com/tiangolo/fastapi/releases/tag/0.79.0), 1 month ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) ([v0.2.0](https://github.com/Jarmos-san/shellcheck-precommit/releases/tag/v0.2.0), 4 months ago) - ✅ A better Pre-Commit hook to check your Shell scripts
 - [developersIndia/jarvim](https://github.com/developersIndia/jarvim) ([v0.1.0](https://github.com/developersIndia/jarvim/releases/tag/v0.1.0), 4 months ago) - A sensible IDE-like configuration for Neovim
 
 #### 📜 My recent blog posts
 
-- [Should You Use Next.js?](https://jarmosan.hashnode.dev/should-you-use-nextjs) (today)
+- [Should You Use Next.js?](https://jarmosan.hashnode.dev/should-you-use-nextjs) (1 day ago)
 - [An Automated &amp; Modern Workflow for Using LaTex](https://jarmosan.hashnode.dev/an-automated-and-modern-latex-workflow) (2 months ago)
 - [How to Create Custom Keymaps in Neovim With Lua](https://jarmosan.hashnode.dev/create-custom-keymaps-in-neovim-with-lua-d1167de0f2c2) (9 months ago)
 - [Vim or Neovim? Here’s Why You Should Use the Latter](https://jarmosan.hashnode.dev/vim-vs-neovim-26b856694566) (1 year ago)
