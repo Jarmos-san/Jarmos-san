@@ -6,8 +6,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
+- [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - My personalised Neovim configurations written in Lua (today)
 - [Jarmos-san/graphql-server](https://github.com/Jarmos-san/graphql-server) - The simplest GraphQL server to test your MVP on a local machine (1 day ago)
-- [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - My personalised Neovim configurations written in Lua (2 days ago)
 - [Jarmos-san/personal-website](https://github.com/Jarmos-san/personal-website) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (3 days ago)
 - [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (3 days ago)
 - [Jarmos-san/hashnode-articles](https://github.com/Jarmos-san/hashnode-articles) - All of my Hashnode articles written in Markdown (6 days ago)
