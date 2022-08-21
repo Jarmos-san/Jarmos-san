@@ -6,7 +6,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [developersIndia/wiki-mdbook](https://github.com/developersIndia/wiki-mdbook) - The `mdbook` version of the community wikia (today)
+- [developersIndia/wiki-mdbook](https://github.com/developersIndia/wiki-mdbook) - The mdbook version of the community wikia (today)
 - [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - My personalised Neovim configurations written in Lua (3 days ago)
 - [Jarmos-san/graphql-server](https://github.com/Jarmos-san/graphql-server) - The simplest GraphQL server to test your MVP on a local machine (4 days ago)
 - [Jarmos-san/personal-website](https://github.com/Jarmos-san/personal-website) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (6 days ago)
