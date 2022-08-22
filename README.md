@@ -14,11 +14,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🌱 My latest projects
 
+- [Jarmos-san/vale-precommit](https://github.com/Jarmos-san/vale-precommit) - A Pre-Commit hook to lint Markdown &amp; Text files for grammatical/spelling errors
 - [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - My personalised Neovim configurations written in Lua
 - [Jarmos-san/graphql-server](https://github.com/Jarmos-san/graphql-server) - The simplest GraphQL server to test your MVP on a local machine
 - [Jarmos-san/personal-website](https://github.com/Jarmos-san/personal-website) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
 - [Jarmos-san/hashnode-articles](https://github.com/Jarmos-san/hashnode-articles) - All of my Hashnode articles written in Markdown
-- [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) - ✅ A better Pre-Commit hook to check your Shell scripts
 
 #### 🔭 Latest releases I've contributed to
 
