@@ -7,7 +7,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 #### 👷 Check out what I'm currently working on
 
 - [developersIndia/website](https://github.com/developersIndia/website) - 🇮🇳 Website for The DevelopersIndia Community (today)
-- [developersIndia/assets](https://github.com/developersIndia/assets) - Logos &amp; Assets for DevelopersIndia Community (2 days ago)
+- [developersIndia/assets](https://github.com/developersIndia/assets) - Logos &amp; Assets for DevelopersIndia Community (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (4 days ago)
 - [developersIndia/wiki](https://github.com/developersIndia/wiki) - The community wiki for r/developersIndia (5 days ago)
 - [developersIndia/resources](https://github.com/developersIndia/resources) - The Developers India host for some cool resources to upskill yourself (5 days ago)
