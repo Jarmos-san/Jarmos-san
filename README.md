@@ -6,11 +6,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [developersIndia/website](https://github.com/developersIndia/website) - 🇮🇳 Website for The DevelopersIndia Community (today)
-- [developersIndia/assets](https://github.com/developersIndia/assets) - Logos &amp; Assets for DevelopersIndia Community (today)
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (4 days ago)
-- [developersIndia/wiki](https://github.com/developersIndia/wiki) - The community wiki for r/developersIndia (5 days ago)
-- [developersIndia/resources](https://github.com/developersIndia/resources) - The Developers India host for some cool resources to upskill yourself (5 days ago)
+- [developersIndia/website](https://github.com/developersIndia/website) - 🇮🇳 Website for The DevelopersIndia Community (1 day ago)
+- [developersIndia/assets](https://github.com/developersIndia/assets) - Logos &amp; Assets for DevelopersIndia Community (1 day ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (5 days ago)
+- [developersIndia/wiki](https://github.com/developersIndia/wiki) - The community wiki for r/developersIndia (6 days ago)
+- [developersIndia/resources](https://github.com/developersIndia/resources) - The Developers India host for some cool resources to upskill yourself (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -22,8 +22,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.81.0](https://github.com/tiangolo/fastapi/releases/tag/0.81.0), 2 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [Jarmos-san/vale-precommit](https://github.com/Jarmos-san/vale-precommit) ([v0.1.0](https://github.com/Jarmos-san/vale-precommit/releases/tag/v0.1.0), 6 days ago) - A Pre-Commit hook to lint Markdown &amp; Text files for grammatical/spelling errors
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) ([0.81.0](https://github.com/tiangolo/fastapi/releases/tag/0.81.0), 3 days ago) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [Jarmos-san/vale-precommit](https://github.com/Jarmos-san/vale-precommit) ([v0.1.0](https://github.com/Jarmos-san/vale-precommit/releases/tag/v0.1.0), 1 week ago) - A Pre-Commit hook to lint Markdown &amp; Text files for grammatical/spelling errors
 - [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) ([v0.2.0](https://github.com/Jarmos-san/shellcheck-precommit/releases/tag/v0.2.0), 5 months ago) - ✅ A better Pre-Commit hook to check your Shell scripts
 
 #### 📜 My recent blog posts
