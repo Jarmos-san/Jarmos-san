@@ -6,8 +6,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
+- [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - My containerised Neovim configurations written in Lua (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
-- [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - My containerised Neovim configurations written in Lua (3 days ago)
 - [developersIndia/website](https://github.com/developersIndia/website) - 🇮🇳 Website for The DevelopersIndia Community (5 days ago)
 - [developersIndia/assets](https://github.com/developersIndia/assets) - Logos &amp; Assets for DevelopersIndia Community (1 week ago)
 - [developersIndia/wiki](https://github.com/developersIndia/wiki) - The community wiki for r/developersIndia (1 week ago)
