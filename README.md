@@ -28,11 +28,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 📜 My recent blog posts
 
-- [Lessons Learnt From Rebuilding my Personal Website - Part I](https://jarmosan.hashnode.dev/lessons-learnt-from-rebuilding-my-personal-website-part-i) (today)
 - [Understanding Why Your FastAPI App Throws an ImportError Message](https://jarmosan.hashnode.dev/understanding-python-import-errors-and-modules) (1 week ago)
 - [Should You Use Next.js?](https://jarmosan.hashnode.dev/should-you-use-nextjs) (1 month ago)
 - [An Automated &amp; Modern Workflow for Using LaTex](https://jarmosan.hashnode.dev/an-automated-and-modern-latex-workflow) (3 months ago)
 - [How to Create Custom Keymaps in Neovim With Lua](https://jarmosan.hashnode.dev/create-custom-keymaps-in-neovim-with-lua-d1167de0f2c2) (10 months ago)
+- [Vim or Neovim? Here’s Why You Should Use the Latter](https://jarmosan.hashnode.dev/vim-vs-neovim-26b856694566) (1 year ago)
 
 #### 💬 Feedback
 
