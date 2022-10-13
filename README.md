@@ -9,7 +9,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 - [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - My containerised Neovim configurations written in Lua (1 week ago)
 - [developersIndia/website](https://github.com/developersIndia/website) - 🇮🇳 Website for The DevelopersIndia Community (2 weeks ago)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (2 weeks ago)
-- [Jarmos-san/hashnode-articles](https://github.com/Jarmos-san/hashnode-articles) - All of my Hashnode articles written in Markdown (2 weeks ago)
+- [Jarmos-san/hashnode-articles](https://github.com/Jarmos-san/hashnode-articles) - All of my Hashnode articles written in Markdown (3 weeks ago)
 - [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (1 month ago)
 
 #### 🌱 My latest projects
