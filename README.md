@@ -6,8 +6,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - My containerised Neovim configurations written in Lua (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
+- [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - 📦 My containerised Neovim configurations written in Lua (today)
 - [developersIndia/website](https://github.com/developersIndia/website) - 🇮🇳 Website for The DevelopersIndia Community (2 days ago)
 - [Jarmos-san/hashnode-articles](https://github.com/Jarmos-san/hashnode-articles) - All of my Hashnode articles written in Markdown (4 weeks ago)
 - [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (1 month ago)
@@ -15,14 +15,14 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 #### 🌱 My latest projects
 
 - [Jarmos-san/vale-precommit](https://github.com/Jarmos-san/vale-precommit) - A Pre-Commit hook to lint Markdown &amp; Text files for grammatical/spelling errors
-- [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - My containerised Neovim configurations written in Lua
+- [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - 📦 My containerised Neovim configurations written in Lua
 - [Jarmos-san/graphql-server](https://github.com/Jarmos-san/graphql-server) - The simplest GraphQL server to test your MVP on a local machine
 - [Jarmos-san/personal-website](https://github.com/Jarmos-san/personal-website) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
 - [Jarmos-san/hashnode-articles](https://github.com/Jarmos-san/hashnode-articles) - All of my Hashnode articles written in Markdown
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) ([v1.2.1](https://github.com/Jarmos-san/neovim-docker/releases/tag/v1.2.1), 2 weeks ago) - My containerised Neovim configurations written in Lua
+- [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) ([v1.3.0](https://github.com/Jarmos-san/neovim-docker/releases/tag/v1.3.0), today) - 📦 My containerised Neovim configurations written in Lua
 - [dnephin/pre-commit-golang](https://github.com/dnephin/pre-commit-golang) ([v0.5.1](https://github.com/dnephin/pre-commit-golang/releases/tag/v0.5.1), 2 weeks ago) - Golang hooks for pre-commit
 - [Jarmos-san/vale-precommit](https://github.com/Jarmos-san/vale-precommit) ([v0.1.0](https://github.com/Jarmos-san/vale-precommit/releases/tag/v0.1.0), 2 months ago) - A Pre-Commit hook to lint Markdown &amp; Text files for grammatical/spelling errors
 - [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) ([v0.2.0](https://github.com/Jarmos-san/shellcheck-precommit/releases/tag/v0.2.0), 6 months ago) - ✅ A better Pre-Commit hook to check your Shell scripts
