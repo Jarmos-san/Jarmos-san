@@ -6,8 +6,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
 - [Jarmos-san/jefer](https://github.com/Jarmos-san/jefer) - A simple, intuitive &amp; minimal dotfiles manager written in Python. (1 day ago)
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 week ago)
 - [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (1 week ago)
 - [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - 📦 My containerised Neovim configurations written in Lua (1 month ago)
 - [developersIndia/website](https://github.com/developersIndia/website) - 🇮🇳 Website for The DevelopersIndia Community (1 month ago)
