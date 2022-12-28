@@ -22,7 +22,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jarmos-san/personal-website](https://github.com/Jarmos-san/personal-website) ([v1.0.0](https://github.com/Jarmos-san/personal-website/releases/tag/v1.0.0), 3 weeks ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
+- [Jarmos-san/personal-website](https://github.com/Jarmos-san/personal-website) ([v1.1.0](https://github.com/Jarmos-san/personal-website/releases/tag/v1.1.0), today) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
 - [Jarmos-san/jefer](https://github.com/Jarmos-san/jefer) ([v0.1.0](https://github.com/Jarmos-san/jefer/releases/tag/v0.1.0), 1 month ago) - A simple, intuitive &amp; minimal dotfiles manager written in Python.
 - [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) ([v1.3.0](https://github.com/Jarmos-san/neovim-docker/releases/tag/v1.3.0), 2 months ago) - 📦 My containerised Neovim configurations written in Lua
 - [dnephin/pre-commit-golang](https://github.com/dnephin/pre-commit-golang) ([v0.5.1](https://github.com/dnephin/pre-commit-golang/releases/tag/v0.5.1), 2 months ago) - Golang hooks for pre-commit
