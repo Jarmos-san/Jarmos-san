@@ -6,8 +6,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
 - [Jarmos-san/personal-website](https://github.com/Jarmos-san/personal-website) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (today)
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
 - [starlite-api/starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework (2 days ago)
 - [Jarmos-san/jefer](https://github.com/Jarmos-san/jefer) - A simple, intuitive &amp; minimal dotfiles manager written in Python. (1 week ago)
 - [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - 📦 My containerised Neovim configurations written in Lua (1 month ago)
