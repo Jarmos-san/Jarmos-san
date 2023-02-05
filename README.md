@@ -6,11 +6,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - 📦 My containerised Neovim configurations written in Lua (4 days ago)
-- [Jarmos-san/jefer](https://github.com/Jarmos-san/jefer) - A simple, intuitive &amp; minimal dotfiles manager written in Python. (5 days ago)
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (5 days ago)
-- [Jarmos-san/personal-website](https://github.com/Jarmos-san/personal-website) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (5 days ago)
-- [starlite-api/starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework (1 week ago)
+- [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - 📦 My containerised Neovim configurations written in Lua (5 days ago)
+- [Jarmos-san/jefer](https://github.com/Jarmos-san/jefer) - A simple, intuitive &amp; minimal dotfiles manager written in Python. (6 days ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (6 days ago)
+- [Jarmos-san/personal-website](https://github.com/Jarmos-san/personal-website) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (6 days ago)
+- [starlite-api/starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -22,7 +22,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [starlite-api/starlite](https://github.com/starlite-api/starlite) ([v1.51.0](https://github.com/starlite-api/starlite/releases/tag/v1.51.0), today) - Light, Flexible and Extensible ASGI API framework
+- [starlite-api/starlite](https://github.com/starlite-api/starlite) ([v1.51.0](https://github.com/starlite-api/starlite/releases/tag/v1.51.0), 1 day ago) - Light, Flexible and Extensible ASGI API framework
 - [Jarmos-san/personal-website](https://github.com/Jarmos-san/personal-website) ([v1.1.0](https://github.com/Jarmos-san/personal-website/releases/tag/v1.1.0), 1 month ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
 - [Jarmos-san/jefer](https://github.com/Jarmos-san/jefer) ([v0.1.0](https://github.com/Jarmos-san/jefer/releases/tag/v0.1.0), 3 months ago) - A simple, intuitive &amp; minimal dotfiles manager written in Python.
 - [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) ([v1.3.0](https://github.com/Jarmos-san/neovim-docker/releases/tag/v1.3.0), 3 months ago) - 📦 My containerised Neovim configurations written in Lua
