@@ -36,14 +36,4 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 - [An Automated &amp; Modern Workflow for Using LaTex](https://jarmosan.hashnode.dev/an-automated-and-modern-latex-workflow) (8 months ago)
 - [How to Create Custom Keymaps in Neovim With Lua](https://jarmosan.hashnode.dev/create-custom-keymaps-in-neovim-with-lua-d1167de0f2c2) (1 year ago)
 
-#### 💬 Feedback
-
-If you used one of my projects and/or read one my articles & found it useful, I would love to hear some feedback from you. Let me know if you want a feature or two implemented. Are there some specific topics you would like me to write about? Shoot me a DM & I'll figure something out.
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/Jarmosan
-- LinkedIn: https://www.linkedin.com/in/jarmos
-- Blog: https://jarmos.vercel.app
-
 This self-generating profile page was created with [readme-scribe](https://github.com/muesli/readme-scribe), a FOSS by the amazing [Christian Muehlhaeuser](https://github.com/muesli)!
