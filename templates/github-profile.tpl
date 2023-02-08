@@ -24,14 +24,4 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### 💬 Feedback
-
-If you used one of my projects and/or read one my articles & found it useful, I would love to hear some feedback from you. Let me know if you want a feature or two implemented. Are there some specific topics you would like me to write about? Shoot me a DM & I'll figure something out.
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/Jarmosan
-- LinkedIn: https://www.linkedin.com/in/jarmos
-- Blog: https://jarmos.vercel.app
-
 This self-generating profile page was created with [readme-scribe](https://github.com/muesli/readme-scribe), a FOSS by the amazing [Christian Muehlhaeuser](https://github.com/muesli)!
