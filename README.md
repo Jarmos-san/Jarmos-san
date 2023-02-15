@@ -8,7 +8,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 - [Jarmos-san/jefer](https://github.com/Jarmos-san/jefer) - A simple, intuitive &amp; minimal dotfiles manager written in Python. (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (2 days ago)
-- [Jarmos-san/personal-website](https://github.com/Jarmos-san/personal-website) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (2 days ago)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (2 days ago)
 - [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - 📦 My containerised Neovim configurations written in Lua (2 weeks ago)
 - [starlite-api/starlite](https://github.com/starlite-api/starlite) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs (3 weeks ago)
 
@@ -18,12 +18,12 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 - [Jarmos-san/vale-precommit](https://github.com/Jarmos-san/vale-precommit) - A Pre-Commit hook to lint Markdown &amp; Text files for grammatical/spelling errors
 - [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - 📦 My containerised Neovim configurations written in Lua
 - [Jarmos-san/graphql-server](https://github.com/Jarmos-san/graphql-server) - The simplest GraphQL server to test your MVP on a local machine
-- [Jarmos-san/personal-website](https://github.com/Jarmos-san/personal-website) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
 
 #### 🔭 Latest releases I've contributed to
 
 - [starlite-api/starlite](https://github.com/starlite-api/starlite) ([v1.51.2](https://github.com/starlite-api/starlite/releases/tag/v1.51.2), today) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
-- [Jarmos-san/personal-website](https://github.com/Jarmos-san/personal-website) ([v1.1.0](https://github.com/Jarmos-san/personal-website/releases/tag/v1.1.0), 1 month ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.1.0](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.1.0), 1 month ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
 - [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) ([v1.3.0](https://github.com/Jarmos-san/neovim-docker/releases/tag/v1.3.0), 3 months ago) - 📦 My containerised Neovim configurations written in Lua
 - [dnephin/pre-commit-golang](https://github.com/dnephin/pre-commit-golang) ([v0.5.1](https://github.com/dnephin/pre-commit-golang/releases/tag/v0.5.1), 4 months ago) - Golang hooks for pre-commit
 - [Jarmos-san/vale-precommit](https://github.com/Jarmos-san/vale-precommit) ([v0.1.0](https://github.com/Jarmos-san/vale-precommit/releases/tag/v0.1.0), 5 months ago) - A Pre-Commit hook to lint Markdown &amp; Text files for grammatical/spelling errors
