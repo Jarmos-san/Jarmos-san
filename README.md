@@ -6,7 +6,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/jefer](https://github.com/Jarmos-san/jefer) - A simple, intuitive &amp; minimal dotfiles manager written in Python. (today)
+- [Jarmos-san/jefer](https://github.com/Jarmos-san/jefer) - A simple, intuitive &amp; cross-platform tool to manage your dotfiles (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (3 days ago)
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (3 days ago)
 - [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - 📦 My containerised Neovim configurations written in Lua (2 weeks ago)
@@ -14,7 +14,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🌱 My latest projects
 
-- [Jarmos-san/jefer](https://github.com/Jarmos-san/jefer) - A simple, intuitive &amp; minimal dotfiles manager written in Python.
+- [Jarmos-san/jefer](https://github.com/Jarmos-san/jefer) - A simple, intuitive &amp; cross-platform tool to manage your dotfiles
 - [Jarmos-san/vale-precommit](https://github.com/Jarmos-san/vale-precommit) - A Pre-Commit hook to lint Markdown &amp; Text files for grammatical/spelling errors
 - [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) - 📦 My containerised Neovim configurations written in Lua
 - [Jarmos-san/graphql-server](https://github.com/Jarmos-san/graphql-server) - The simplest GraphQL server to test your MVP on a local machine
