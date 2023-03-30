@@ -22,7 +22,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [starlite-api/starlite](https://github.com/starlite-api/starlite) ([v2.0.0alpha2](https://github.com/starlite-api/starlite/releases/tag/v2.0.0alpha2), 5 days ago) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
+- [starlite-api/starlite](https://github.com/starlite-api/starlite) ([v1.51.8](https://github.com/starlite-api/starlite/releases/tag/v1.51.8), today) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) ([v1.4.0](https://github.com/Jarmos-san/neovim-docker/releases/tag/v1.4.0), 1 month ago) - 📦 My containerised Neovim configurations written in Lua
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.1.0](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.1.0), 3 months ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
 - [dnephin/pre-commit-golang](https://github.com/dnephin/pre-commit-golang) ([v0.5.1](https://github.com/dnephin/pre-commit-golang/releases/tag/v0.5.1), 5 months ago) - Golang hooks for pre-commit
