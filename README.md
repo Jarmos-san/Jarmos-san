@@ -6,10 +6,10 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (today)
-- [Jarmos-san/parkinson-disease-kaggle-competition](https://github.com/Jarmos-san/parkinson-disease-kaggle-competition) - The Jupyter Notebook &amp; related source materials for the Kaggle competition (3 days ago)
-- [Jarmos-san/kaggle-ps03e11](https://github.com/Jarmos-san/kaggle-ps03e11) - The repository containing the practice files for Kaggle playground competition Season 3 Episode 11. (5 days ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (1 day ago)
+- [Jarmos-san/parkinson-disease-kaggle-competition](https://github.com/Jarmos-san/parkinson-disease-kaggle-competition) - The Jupyter Notebook &amp; related source materials for the Kaggle competition (4 days ago)
+- [Jarmos-san/kaggle-ps03e11](https://github.com/Jarmos-san/kaggle-ps03e11) - The repository containing the practice files for Kaggle playground competition Season 3 Episode 11. (6 days ago)
 - [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -22,7 +22,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [starlite-api/starlite](https://github.com/starlite-api/starlite) ([v1.51.9](https://github.com/starlite-api/starlite/releases/tag/v1.51.9), 4 days ago) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
+- [starlite-api/starlite](https://github.com/starlite-api/starlite) ([v1.51.9](https://github.com/starlite-api/starlite/releases/tag/v1.51.9), 5 days ago) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [Jarmos-san/neovim-docker](https://github.com/Jarmos-san/neovim-docker) ([v1.4.0](https://github.com/Jarmos-san/neovim-docker/releases/tag/v1.4.0), 1 month ago) - 📦 My containerised Neovim configurations written in Lua
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.1.0](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.1.0), 3 months ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
 - [dnephin/pre-commit-golang](https://github.com/dnephin/pre-commit-golang) ([v0.5.1](https://github.com/dnephin/pre-commit-golang/releases/tag/v0.5.1), 6 months ago) - Golang hooks for pre-commit
