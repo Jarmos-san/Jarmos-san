@@ -6,8 +6,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (1 week ago)
 - [Jarmos-san/parkinson-disease-kaggle-competition](https://github.com/Jarmos-san/parkinson-disease-kaggle-competition) - The Jupyter Notebook &amp; related source materials for the Kaggle competition (1 week ago)
 - [Jarmos-san/kaggle-ps03e11](https://github.com/Jarmos-san/kaggle-ps03e11) - The repository containing the practice files for Kaggle playground competition Season 3 Episode 11. (1 week ago)
 - [Jarmos-san/dev-workflow](https://github.com/Jarmos-san/dev-workflow) - A book for documenting my personal development workflow (3 weeks ago)
