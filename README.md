@@ -22,8 +22,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
+- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) ([v1.4.3](https://github.com/folke/which-key.nvim/releases/tag/v1.4.3), today) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) ([v2.0.0alpha7](https://github.com/litestar-org/litestar/releases/tag/v2.0.0alpha7), 1 week ago) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
-- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) ([v1.4.2](https://github.com/folke/which-key.nvim/releases/tag/v1.4.2), 1 week ago) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [Jarmos-san/neovimulus](https://github.com/Jarmos-san/neovimulus) ([v2.0.0](https://github.com/Jarmos-san/neovimulus/releases/tag/v2.0.0), 2 weeks ago) - A sanely minimal configuration framework for Neovim enthusiasts!
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.1.0](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.1.0), 4 months ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
 - [Jarmos-san/vale-precommit](https://github.com/Jarmos-san/vale-precommit) ([v0.1.0](https://github.com/Jarmos-san/vale-precommit/releases/tag/v0.1.0), 9 months ago) - A Pre-Commit hook to lint Markdown &amp; Text files for grammatical/spelling errors
