@@ -14,11 +14,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🌱 My latest projects
 
+- [Jarmos-san/resume](https://github.com/Jarmos-san/resume) - My public resume created using Typst!
 - [Jarmos-san/jefer](https://github.com/Jarmos-san/jefer) - A simple, intuitive &amp; cross-platform tool to manage your dotfiles
 - [Jarmos-san/vale-precommit](https://github.com/Jarmos-san/vale-precommit) - A Pre-Commit hook to lint Markdown &amp; Text files for grammatical/spelling errors
 - [Jarmos-san/neovimulus](https://github.com/Jarmos-san/neovimulus) - A sanely minimal configuration framework for Neovim enthusiasts!
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
-- [Jarmos-san/hashnode-articles](https://github.com/Jarmos-san/hashnode-articles) - All of my Hashnode articles written in Markdown
 
 #### 🔭 Latest releases I've contributed to
 
