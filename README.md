@@ -22,7 +22,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [litestar-org/litestar](https://github.com/litestar-org/litestar) ([v2.0.0beta2](https://github.com/litestar-org/litestar/releases/tag/v2.0.0beta2), today) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
+- [litestar-org/litestar](https://github.com/litestar-org/litestar) ([v2.0.0beta1](https://github.com/litestar-org/litestar/releases/tag/v2.0.0beta1), 1 week ago) - Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [Jarmos-san/resume](https://github.com/Jarmos-san/resume) ([v0.0.1](https://github.com/Jarmos-san/resume/releases/tag/v0.0.1), 2 weeks ago) - My public resume created using Typst!
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.2.1](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.2.1), 3 weeks ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) ([v1.4.3](https://github.com/folke/which-key.nvim/releases/tag/v1.4.3), 1 month ago) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
