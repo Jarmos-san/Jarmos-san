@@ -7,10 +7,10 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 #### 👷 Check out what I'm currently working on
 
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
+- [Weburz/cookiecutter-base-project](https://github.com/Weburz/cookiecutter-base-project) - This is a simple and basic project starter template for a generic project hosted on GitHub. (today)
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (5 days ago)
 - [Jarmos-san/.github](https://github.com/Jarmos-san/.github) - Default community health files for my Github account (1 week ago)
 - [Weburz/.github](https://github.com/Weburz/.github) - The repository of the public landing page of the Weburz GitHub organization (2 weeks ago)
-- [Jarmos-san/vale-precommit](https://github.com/Jarmos-san/vale-precommit) - A Pre-Commit hook to lint Markdown &amp; Text files for grammatical/spelling errors (3 weeks ago)
 
 #### 🌱 My latest projects
 
