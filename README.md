@@ -6,10 +6,10 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (2 days ago)
-- [Weburz/cookiecutter-templates](https://github.com/Weburz/cookiecutter-templates) - The repository contain templates for generating various types of projects for our clients at Weburz (3 days ago)
-- [Jarmos-san/.github](https://github.com/Jarmos-san/.github) - Default community health files for my Github account (1 week ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (3 days ago)
+- [Weburz/cookiecutter-templates](https://github.com/Weburz/cookiecutter-templates) - The repository contain templates for generating various types of projects for our clients at Weburz (4 days ago)
+- [Jarmos-san/.github](https://github.com/Jarmos-san/.github) - Default community health files for my Github account (2 weeks ago)
 - [Weburz/.github](https://github.com/Weburz/.github) - The repository of the public landing page of the Weburz GitHub organization (2 weeks ago)
 
 #### 🌱 My latest projects
