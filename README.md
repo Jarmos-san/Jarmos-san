@@ -6,10 +6,10 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (today)
 - [Weburz/pr-lint-action](https://github.com/Weburz/pr-lint-action) - A GitHub Actions to lint PR titles using the CommitLint specifications (today)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
 - [Jarmos-san/playbooks](https://github.com/Jarmos-san/playbooks) - A collection of Ansible playbooks for provisioning the infrastructure of some of my personal projects (1 week ago)
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (2 weeks ago)
 - [Jarmos-san/neovimulus](https://github.com/Jarmos-san/neovimulus) - A sanely minimal configuration framework for Neovim enthusiasts! (2 weeks ago)
 
 #### 🌱 My latest projects
