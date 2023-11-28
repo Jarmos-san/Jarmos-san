@@ -10,7 +10,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 - [Jarmos-san/resets.css](https://github.com/Jarmos-san/resets.css) - An unopinionated and minimal CSS resets script for maximum cross-browser compatability! (today)
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (1 day ago)
 - [Weburz/pr-lint-action](https://github.com/Weburz/pr-lint-action) - A GitHub Actions to lint PR titles using the CommitLint specifications (2 weeks ago)
-- [Jarmos-san/neovimulus](https://github.com/Jarmos-san/neovimulus) - A sanely minimal configuration framework for Neovim enthusiasts! (3 weeks ago)
+- [Jarmos-san/homelab](https://github.com/Jarmos-san/homelab) - 🧪 The repository containing management resources for my homelab (3 weeks ago)
 
 #### 🌱 My latest projects
 
