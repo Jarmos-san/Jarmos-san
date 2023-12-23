@@ -6,8 +6,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (today)
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (1 day ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
 - [Weburz/project-starters](https://github.com/Weburz/project-starters) - The repository contain templates for generating various types of projects for our clients at Weburz (2 weeks ago)
 - [Jarmos-san/resets.css](https://github.com/Jarmos-san/resets.css) - An unopinionated and minimal CSS resets script for maximum cross-browser compatability! (3 weeks ago)
 - [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - The archived version of my personal website built using Next.js (1 month ago)
@@ -22,7 +22,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 📜 My recent blog posts
 
-- [Lessons Learned from Rebuilding my Personal Website](https://jarmos.dev/blog/lessons-from-rebuilding-personal-website-from-scratch/) (3 days ago)
+- [Lessons Learned from Rebuilding my Personal Website](https://jarmos.dev/blog/lessons-from-rebuilding-personal-website-from-scratch/) (4 days ago)
 - [Should You Use Next.js?](https://jarmos.dev/blog/should-you-use-nextjs/) (2 years ago)
 - [How to Create Custom Keymaps in Neovim With Lua](https://jarmos.dev/blog/create-custom-neovim-keybindings-using-lua/) (2 years ago)
 - [An Automated and Modern Workflow for Using LaTex](https://jarmos.dev/blog/automated-workflow-for-latex/) (2 years ago)
@@ -30,7 +30,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.3.0](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.3.0), today) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.3.0](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.3.0), 1 day ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) ([v2.4.4](https://github.com/litestar-org/litestar/releases/tag/v2.4.4), 1 week ago) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) ([v1.6.0](https://github.com/folke/which-key.nvim/releases/tag/v1.6.0), 2 months ago) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [Weburz/pr-lint-action](https://github.com/Weburz/pr-lint-action) ([v0.0.1](https://github.com/Weburz/pr-lint-action/releases/tag/v0.0.1), 2 months ago) - A GitHub Actions to lint PR titles using the CommitLint specifications
