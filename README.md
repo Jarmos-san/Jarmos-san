@@ -30,7 +30,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [litestar-org/litestar](https://github.com/litestar-org/litestar) ([v2.5.0](https://github.com/litestar-org/litestar/releases/tag/v2.5.0), 1 week ago) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
+- [litestar-org/litestar](https://github.com/litestar-org/litestar) ([v2.5.1](https://github.com/litestar-org/litestar/releases/tag/v2.5.1), today) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.3.2](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.3.2), 3 weeks ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) ([v1.6.0](https://github.com/folke/which-key.nvim/releases/tag/v1.6.0), 3 months ago) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [Weburz/pr-lint-action](https://github.com/Weburz/pr-lint-action) ([v0.0.1](https://github.com/Weburz/pr-lint-action/releases/tag/v0.0.1), 3 months ago) - A GitHub Actions to lint PR titles using the CommitLint specifications
