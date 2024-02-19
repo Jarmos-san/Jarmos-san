@@ -22,11 +22,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 📜 My recent blog posts
 
-- [Lessons Learned from Rebuilding my Personal Website](https://jarmos.dev/blog/lessons-from-rebuilding-personal-website-from-scratch/) (2 months ago)
-- [Should You Use Next.js?](https://jarmos.dev/blog/should-you-use-nextjs/) (2 years ago)
-- [How to Create Custom Keymaps in Neovim With Lua](https://jarmos.dev/blog/create-custom-neovim-keybindings-using-lua/) (2 years ago)
 - [An Automated and Modern Workflow for Using LaTex](https://jarmos.dev/blog/automated-workflow-for-latex/) (2 years ago)
-- [Vim or Neovim? Here is Why You Should Use the Latter!](https://jarmos.dev/blog/vim-vs-neovim/) (2 years ago)
+- [How to Create Custom Keymaps in Neovim With Lua](https://jarmos.dev/blog/create-custom-neovim-keybindings-using-lua/) (2 years ago)
+- [Create an Overpowered Hugo Blog (as an WordPress Alternative)](https://jarmos.dev/blog/create-hugo-blog-as-an-wordpress-alternative/) (3 years ago)
+- [Customising the New Windows Terminal: A Minimalist Approach](https://jarmos.dev/blog/customise-windows-terminal/) (3 years ago)
+- [Lessons Learned from Rebuilding my Personal Website](https://jarmos.dev/blog/lessons-from-rebuilding-personal-website-from-scratch/) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
