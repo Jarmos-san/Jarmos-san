@@ -6,9 +6,9 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (today)
-- [Weburz/project-starters](https://github.com/Weburz/project-starters) - The repository contain templates for generating various types of projects for our clients at Weburz (3 days ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (1 day ago)
+- [Weburz/project-starters](https://github.com/Weburz/project-starters) - The repository contain templates for generating various types of projects for our clients at Weburz (4 days ago)
 - [Weburz/.github](https://github.com/Weburz/.github) - The repository of the public landing page of the Weburz GitHub organization (2 months ago)
 - [Jarmos-san/resets.css](https://github.com/Jarmos-san/resets.css) - An unopinionated and minimal CSS resets script for maximum cross-browser compatability! (3 months ago)
 
@@ -30,7 +30,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.3.10](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.3.10), today) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.3.10](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.3.10), 1 day ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) ([v1.6.0](https://github.com/folke/which-key.nvim/releases/tag/v1.6.0), 4 months ago) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [Weburz/pr-lint-action](https://github.com/Weburz/pr-lint-action) ([v0.0.1](https://github.com/Weburz/pr-lint-action/releases/tag/v0.0.1), 5 months ago) - A GitHub Actions to lint PR titles using the CommitLint specifications
 - [Jarmos-san/resume](https://github.com/Jarmos-san/resume) ([v0.0.1](https://github.com/Jarmos-san/resume/releases/tag/v0.0.1), 9 months ago) - My public resume created using Typst!
