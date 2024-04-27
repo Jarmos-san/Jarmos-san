@@ -31,9 +31,9 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 #### 🔭 Latest releases I've contributed to
 
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.3.10](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.3.10), 1 month ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
-- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) ([v1.6.0](https://github.com/folke/which-key.nvim/releases/tag/v1.6.0), 6 months ago) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [Weburz/pr-lint-action](https://github.com/Weburz/pr-lint-action) ([v0.0.1](https://github.com/Weburz/pr-lint-action/releases/tag/v0.0.1), 6 months ago) - A GitHub Actions to lint PR titles using the CommitLint specifications
 - [Jarmos-san/resume](https://github.com/Jarmos-san/resume) ([v0.0.1](https://github.com/Jarmos-san/resume/releases/tag/v0.0.1), 10 months ago) - My public resume created using Typst!
 - [Jarmos-san/neovimulus](https://github.com/Jarmos-san/neovimulus) ([v2.0.0](https://github.com/Jarmos-san/neovimulus/releases/tag/v2.0.0), 11 months ago) - A sanely minimal configuration framework for Neovim enthusiasts!
+- [Jarmos-san/vale-precommit](https://github.com/Jarmos-san/vale-precommit) ([v0.1.0](https://github.com/Jarmos-san/vale-precommit/releases/tag/v0.1.0), 2 years ago) - A Pre-Commit hook to lint Markdown &amp; Text files for grammatical/spelling errors
 
 This self-generating profile page was created with [readme-scribe](https://github.com/muesli/readme-scribe), a FOSS by the amazing [Christian Muehlhaeuser](https://github.com/muesli)!
