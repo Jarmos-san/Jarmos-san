@@ -6,7 +6,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (1 week ago)
 - [Weburz/pr-lint-action](https://github.com/Weburz/pr-lint-action) - A GitHub Actions to lint PR titles using the CommitLint specifications (3 weeks ago)
 - [developersIndia/wiki](https://github.com/developersIndia/wiki) - ✍🏽 The community wiki for r/developersIndia (1 month ago)
@@ -26,7 +26,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 - [How to Create Custom Keymaps in Neovim With Lua](https://jarmos.dev/blog/create-custom-neovim-keybindings-using-lua/) (2 years ago)
 - [Create an Overpowered Hugo Blog (as an WordPress Alternative)](https://jarmos.dev/blog/create-hugo-blog-as-an-wordpress-alternative/) (3 years ago)
 - [Customising the New Windows Terminal: A Minimalist Approach](https://jarmos.dev/blog/customise-windows-terminal/) (3 years ago)
-- [Lessons Learned from Rebuilding my Personal Website](https://jarmos.dev/blog/lessons-from-rebuilding-personal-website-from-scratch/) (4 months ago)
+- [Lessons Learned from Rebuilding my Personal Website](https://jarmos.dev/blog/lessons-from-rebuilding-personal-website-from-scratch/) (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
