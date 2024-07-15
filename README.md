@@ -6,8 +6,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (1 week ago)
 - [Weburz/pr-lint-action](https://github.com/Weburz/pr-lint-action) - A GitHub Actions to lint PR titles using the CommitLint specifications (2 months ago)
 - [developersIndia/wiki](https://github.com/developersIndia/wiki) - ✍🏽 The community wiki for r/developersIndia (3 months ago)
 - [Weburz/project-starters](https://github.com/Weburz/project-starters) - The repository contain templates for generating various types of projects for our clients at Weburz (4 months ago)
