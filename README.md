@@ -33,6 +33,5 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.3.15](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.3.15), 2 months ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
 - [Weburz/pr-lint-action](https://github.com/Weburz/pr-lint-action) ([v0.0.1](https://github.com/Weburz/pr-lint-action/releases/tag/v0.0.1), 9 months ago) - A GitHub Actions to lint PR titles using the CommitLint specifications
 - [Jarmos-san/neovimulus](https://github.com/Jarmos-san/neovimulus) ([v2.0.0](https://github.com/Jarmos-san/neovimulus/releases/tag/v2.0.0), 1 year ago) - A sanely minimal configuration framework for Neovim enthusiasts!
-- [Jarmos-san/vale-precommit](https://github.com/Jarmos-san/vale-precommit) ([v0.1.0](https://github.com/Jarmos-san/vale-precommit/releases/tag/v0.1.0), 2 years ago) - A Pre-Commit hook to lint Markdown &amp; Text files for grammatical/spelling errors
 
 This self-generating profile page was created with [readme-scribe](https://github.com/muesli/readme-scribe), a FOSS by the amazing [Christian Muehlhaeuser](https://github.com/muesli)!
