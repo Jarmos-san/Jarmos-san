@@ -6,10 +6,10 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
-- [Weburz/recipe-book-assignment](https://github.com/Weburz/recipe-book-assignment) - This repository contains the starter source code and the instructions for our &#34;Recipe Book&#34; take assignment. (2 days ago)
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (2 days ago)
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (5 days ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (2 days ago)
+- [Weburz/recipe-book-assignment](https://github.com/Weburz/recipe-book-assignment) - This repository contains the starter source code and the instructions for our &#34;Recipe Book&#34; take assignment. (3 days ago)
+- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (3 days ago)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (6 days ago)
 - [Weburz/pr-lint-action](https://github.com/Weburz/pr-lint-action) - A GitHub Actions to lint PR titles using the CommitLint specifications (3 months ago)
 
 #### 🌱 My latest projects
