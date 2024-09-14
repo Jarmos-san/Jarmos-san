@@ -6,7 +6,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (4 days ago)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer. (5 days ago)
 - [Weburz/recipe-book-assignment](https://github.com/Weburz/recipe-book-assignment) - This repository contains the starter source code and the instructions for our &#34;Recipe Book&#34; take assignment. (1 week ago)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (3 weeks ago)
 - [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (1 month ago)
@@ -26,12 +26,12 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 - [How to Create Custom Keymaps in Neovim With Lua](https://jarmos.dev/blog/create-custom-neovim-keybindings-using-lua/) (2 years ago)
 - [Create an Overpowered Hugo Blog (as an WordPress Alternative)](https://jarmos.dev/blog/create-hugo-blog-as-an-wordpress-alternative/) (3 years ago)
 - [Customising the New Windows Terminal: A Minimalist Approach](https://jarmos.dev/blog/customise-windows-terminal/) (3 years ago)
-- [Lessons Learned from Rebuilding my Personal Website](https://jarmos.dev/blog/lessons-from-rebuilding-personal-website-from-scratch/) (8 months ago)
+- [Lessons Learned from Rebuilding my Personal Website](https://jarmos.dev/blog/lessons-from-rebuilding-personal-website-from-scratch/) (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Weburz/selfhosted-runners](https://github.com/Weburz/selfhosted-runners) ([v0.1.1](https://github.com/Weburz/selfhosted-runners/releases/tag/v0.1.1), today) - This repository contains the IaC source code used to provision and setup our self-hosted GitHub Actions runners.
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.3.16](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.3.16), 1 week ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
+- [Weburz/selfhosted-runners](https://github.com/Weburz/selfhosted-runners) ([v0.1.1](https://github.com/Weburz/selfhosted-runners/releases/tag/v0.1.1), 1 day ago) - This repository contains the IaC source code used to provision and setup our self-hosted GitHub Actions runners.
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.3.16](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.3.16), 2 weeks ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a self-taught programmer.
 - [Weburz/pr-lint-action](https://github.com/Weburz/pr-lint-action) ([v0.0.1](https://github.com/Weburz/pr-lint-action/releases/tag/v0.0.1), 11 months ago) - A GitHub Actions to lint PR titles using the CommitLint specifications
 - [Jarmos-san/neovimulus](https://github.com/Jarmos-san/neovimulus) ([v2.0.0](https://github.com/Jarmos-san/neovimulus/releases/tag/v2.0.0), 1 year ago) - A sanely minimal configuration framework for Neovim enthusiasts!
 
