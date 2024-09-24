@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Somraj, but you can call me Jarmos & I'm a Full-Stack Software Engineer. When not writing code, I share my experiences & thoughts on my [personal blog](https://jarmos.dev). Do check it out, leave a feedback over on Twitter or Email & you'll do me a massive favour.
+I'm Somraj, but you can call me Jarmos & I am a Senior Software Engineer and the Chief Technology Officer (CTO) at [Weburz](https://weburz.com). When not writing code, I share my experiences & thoughts on my [personal blog](https://jarmos.dev). Do check it out, leave a feedback over on Twitter or Email & you'll do me a massive favour.
 
 That said, please feel free to check out my work & contributions on GitHub. Take a look at what I've been working & if there's anything you might want to contribute to.
 
