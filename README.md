@@ -6,11 +6,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Weburz/weburz.github.io](https://github.com/Weburz/weburz.github.io) -  (today)
+- [Weburz/repoforge](https://github.com/Weburz/repoforge) - A CLI tool to scaffold project repositories from prebuilt templates (today)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Weburz/repoforge](https://github.com/Weburz/repoforge) - A CLI tool to scaffold project repositories from prebuilt templates (1 day ago)
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (2 days ago)
+- [Weburz/weburz.github.io](https://github.com/Weburz/weburz.github.io) -  (today)
 - [Weburz/selfhosted-runners](https://github.com/Weburz/selfhosted-runners) - This repository contains the IaC source code used to provision and setup our self-hosted GitHub Actions runners. (2 days ago)
+- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (2 days ago)
 
 #### 🌱 My latest projects
 
