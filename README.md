@@ -6,8 +6,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (3 days ago)
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer (5 days ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (4 days ago)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer (6 days ago)
 - [Weburz/repoforge](https://github.com/Weburz/repoforge) - A CLI tool to scaffold project repositories from prebuilt templates (1 week ago)
 - [Weburz/weburz.github.io](https://github.com/Weburz/weburz.github.io) -  (1 week ago)
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (1 week ago)
@@ -31,7 +31,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 #### 🔭 Latest releases I've contributed to
 
 - [Weburz/selfhosted-runners](https://github.com/Weburz/selfhosted-runners) ([v1.2.0](https://github.com/Weburz/selfhosted-runners/releases/tag/v1.2.0), 3 weeks ago) - This repository contains the IaC source code used to provision and setup our self-hosted GitHub Actions runners.
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.4.1](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.4.1), 3 weeks ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.4.1](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.4.1), 4 weeks ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer
 - [Weburz/pr-lint-action](https://github.com/Weburz/pr-lint-action) ([v0.0.1](https://github.com/Weburz/pr-lint-action/releases/tag/v0.0.1), 1 year ago) - A GitHub Actions to lint PR titles using the CommitLint specifications
 - [Jarmos-san/neovimulus](https://github.com/Jarmos-san/neovimulus) ([v2.0.0](https://github.com/Jarmos-san/neovimulus/releases/tag/v2.0.0), 1 year ago) - A sanely minimal configuration framework for Neovim enthusiasts!
 
