@@ -6,8 +6,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Weburz/repoforge](https://github.com/Weburz/repoforge) - A CLI tool to scaffold project repositories from prebuilt templates (today)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Weburz/repoforge](https://github.com/Weburz/repoforge) - A CLI tool to scaffold project repositories from prebuilt templates (1 day ago)
 - [Weburz/weburz.github.io](https://github.com/Weburz/weburz.github.io) -  (1 week ago)
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer (2 weeks ago)
 - [Weburz/recipe-book-assignment](https://github.com/Weburz/recipe-book-assignment) - This repository contains the starter source code and the instructions for our &#34;Recipe Book&#34; take assignment. (3 weeks ago)
@@ -23,7 +23,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 #### 📜 My recent blog posts
 
 - [An Automated and Modern Workflow for Using LaTex](https://jarmos.dev/blog/automated-workflow-for-latex/) (3 years ago)
-- [How to Create Custom Keymaps in Neovim With Lua](https://jarmos.dev/blog/create-custom-neovim-keybindings-using-lua/) (2 years ago)
+- [How to Create Custom Keymaps in Neovim With Lua](https://jarmos.dev/blog/create-custom-neovim-keybindings-using-lua/) (3 years ago)
 - [Create an Overpowered Hugo Blog (as an WordPress Alternative)](https://jarmos.dev/blog/create-hugo-blog-as-an-wordpress-alternative/) (3 years ago)
 - [Customising the New Windows Terminal: A Minimalist Approach](https://jarmos.dev/blog/customise-windows-terminal/) (3 years ago)
 - [Lessons Learned from Rebuilding my Personal Website](https://jarmos.dev/blog/lessons-from-rebuilding-personal-website-from-scratch/) (10 months ago)
