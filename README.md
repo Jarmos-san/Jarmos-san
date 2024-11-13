@@ -6,7 +6,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
 - [Weburz/repoforge](https://github.com/Weburz/repoforge) - A CLI tool to scaffold project repositories from prebuilt templates (1 week ago)
 - [Weburz/recipe-book-assignment](https://github.com/Weburz/recipe-book-assignment) - This repository contains the starter source code and the instructions for our &#34;Recipe Book&#34; take assignment. (1 week ago)
 - [Weburz/selfhosted-runners](https://github.com/Weburz/selfhosted-runners) - This repository contains the IaC source code used to provision and setup our self-hosted GitHub Actions runners. (1 week ago)
@@ -26,7 +26,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 - [How to Create Custom Keymaps in Neovim With Lua](https://jarmos.dev/blog/create-custom-neovim-keybindings-using-lua/) (3 years ago)
 - [Create an Overpowered Hugo Blog (as an WordPress Alternative)](https://jarmos.dev/blog/create-hugo-blog-as-an-wordpress-alternative/) (3 years ago)
 - [Customising the New Windows Terminal: A Minimalist Approach](https://jarmos.dev/blog/customise-windows-terminal/) (3 years ago)
-- [Lessons Learned from Rebuilding my Personal Website](https://jarmos.dev/blog/lessons-from-rebuilding-personal-website-from-scratch/) (10 months ago)
+- [Lessons Learned from Rebuilding my Personal Website](https://jarmos.dev/blog/lessons-from-rebuilding-personal-website-from-scratch/) (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
