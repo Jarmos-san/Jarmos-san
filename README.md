@@ -6,9 +6,9 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (1 day ago)
-- [Weburz/repoforge](https://github.com/Weburz/repoforge) - A CLI tool to scaffold project repositories from prebuilt templates (1 week ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (2 days ago)
+- [Weburz/repoforge](https://github.com/Weburz/repoforge) - A CLI tool to scaffold project repositories from prebuilt templates (2 weeks ago)
 - [Weburz/recipe-book-assignment](https://github.com/Weburz/recipe-book-assignment) - This repository contains the starter source code and the instructions for our &#34;Recipe Book&#34; take assignment. (2 weeks ago)
 - [Weburz/selfhosted-runners](https://github.com/Weburz/selfhosted-runners) - This repository contains the IaC source code used to provision and setup our self-hosted GitHub Actions runners. (2 weeks ago)
 
@@ -30,7 +30,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.4.2](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.4.2), 2 weeks ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.4.2](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.4.2), 3 weeks ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer
 - [Weburz/selfhosted-runners](https://github.com/Weburz/selfhosted-runners) ([v1.2.0](https://github.com/Weburz/selfhosted-runners/releases/tag/v1.2.0), 1 month ago) - This repository contains the IaC source code used to provision and setup our self-hosted GitHub Actions runners.
 - [Weburz/pr-lint-action](https://github.com/Weburz/pr-lint-action) ([v0.0.1](https://github.com/Weburz/pr-lint-action/releases/tag/v0.0.1), 1 year ago) - A GitHub Actions to lint PR titles using the CommitLint specifications
 
