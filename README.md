@@ -6,7 +6,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
 - [Weburz/simple-website-template](https://github.com/Weburz/simple-website-template) - This repository contains the template files to scaffold (with Terox) a simple website using Nuxt.js 3 (1 day ago)
 - [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (2 days ago)
 - [Weburz/recipe-book-assignment](https://github.com/Weburz/recipe-book-assignment) - This repository contains the starter source code and the instructions for our &#34;Recipe Book&#34; take assignment. (1 week ago)
