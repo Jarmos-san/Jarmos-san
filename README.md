@@ -6,9 +6,9 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Weburz/simple-website-template](https://github.com/Weburz/simple-website-template) - This repository contains the template files to scaffold (with Terox) a simple website using Nuxt.js 3 (today)
-- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (1 day ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Weburz/simple-website-template](https://github.com/Weburz/simple-website-template) - This repository contains the template files to scaffold (with Terox) a simple website using Nuxt.js 3 (1 day ago)
+- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (2 days ago)
 - [Weburz/recipe-book-assignment](https://github.com/Weburz/recipe-book-assignment) - This repository contains the starter source code and the instructions for our &#34;Recipe Book&#34; take assignment. (1 week ago)
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (1 week ago)
 
@@ -25,7 +25,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 - [An Automated and Modern Workflow for Using LaTex](https://jarmos.dev/blog/automated-workflow-for-latex/) (3 years ago)
 - [How to Create Custom Keymaps in Neovim With Lua](https://jarmos.dev/blog/create-custom-neovim-keybindings-using-lua/) (3 years ago)
 - [Create an Overpowered Hugo Blog (as an WordPress Alternative)](https://jarmos.dev/blog/create-hugo-blog-as-an-wordpress-alternative/) (3 years ago)
-- [Customising the New Windows Terminal: A Minimalist Approach](https://jarmos.dev/blog/customise-windows-terminal/) (3 years ago)
+- [Customising the New Windows Terminal: A Minimalist Approach](https://jarmos.dev/blog/customise-windows-terminal/) (4 years ago)
 - [Lessons Learned from Rebuilding my Personal Website](https://jarmos.dev/blog/lessons-from-rebuilding-personal-website-from-scratch/) (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
