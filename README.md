@@ -6,11 +6,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
+- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (today)
 - [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (5 days ago)
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (5 days ago)
 - [Jarmos-san/homelab](https://github.com/Jarmos-san/homelab) - 🧪 The repository containing management resources for my homelab (1 week ago)
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer (1 week ago)
-- [Weburz/simple-website-template](https://github.com/Weburz/simple-website-template) - This repository contains the template files to scaffold (with Terox) a simple website using Nuxt.js 3 (3 weeks ago)
 
 #### 🌱 My latest projects
 
