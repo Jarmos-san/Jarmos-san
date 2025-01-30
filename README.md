@@ -8,7 +8,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 - [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (3 days ago)
-- [Weburz/burzpress](https://github.com/Weburz/burzpress) - A minimal CMS, purposefully built specifically for blogging needs (1 week ago)
+- [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A minimal CMS, purposefully built specifically for blogging needs (1 week ago)
 - [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (3 weeks ago)
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer (1 month ago)
 
