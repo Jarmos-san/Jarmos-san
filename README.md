@@ -6,8 +6,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (3 days ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (4 days ago)
 - [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A minimal CMS, purposefully built specifically for blogging needs (1 week ago)
 - [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (3 weeks ago)
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer (1 month ago)
@@ -24,13 +24,13 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 - [An Automated and Modern Workflow for Using LaTex](https://jarmos.dev/blog/automated-workflow-for-latex/) (3 years ago)
 - [How to Create Custom Keymaps in Neovim With Lua](https://jarmos.dev/blog/create-custom-neovim-keybindings-using-lua/) (3 years ago)
-- [Create an Overpowered Hugo Blog (as an WordPress Alternative)](https://jarmos.dev/blog/create-hugo-blog-as-an-wordpress-alternative/) (3 years ago)
+- [Create an Overpowered Hugo Blog (as an WordPress Alternative)](https://jarmos.dev/blog/create-hugo-blog-as-an-wordpress-alternative/) (4 years ago)
 - [Customising the New Windows Terminal: A Minimalist Approach](https://jarmos.dev/blog/customise-windows-terminal/) (4 years ago)
 - [Lessons Learned from Rebuilding my Personal Website](https://jarmos.dev/blog/lessons-from-rebuilding-personal-website-from-scratch/) (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [Weburz/crisp](https://github.com/Weburz/crisp) ([v0.1.4](https://github.com/Weburz/crisp/releases/tag/v0.1.4), 3 days ago) - A linter for Git commit messages
+- [Weburz/crisp](https://github.com/Weburz/crisp) ([v0.1.4](https://github.com/Weburz/crisp/releases/tag/v0.1.4), 4 days ago) - A linter for Git commit messages
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.4.3](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.4.3), 2 weeks ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer
 - [Weburz/selfhosted-runners](https://github.com/Weburz/selfhosted-runners) ([v1.2.0](https://github.com/Weburz/selfhosted-runners/releases/tag/v1.2.0), 4 months ago) - This repository contains the IaC source code used to provision and setup our self-hosted GitHub Actions runners.
 - [Weburz/pr-lint-action](https://github.com/Weburz/pr-lint-action) ([v0.0.1](https://github.com/Weburz/pr-lint-action/releases/tag/v0.0.1), 1 year ago) - A GitHub Actions to lint PR titles using the CommitLint specifications
