@@ -6,7 +6,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (1 week ago)
 - [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A minimal CMS, purposefully built specifically for blogging needs (2 weeks ago)
 - [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (3 weeks ago)
@@ -14,11 +14,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🌱 My latest projects
 
+- [Jarmos-san/dalal](https://github.com/Jarmos-san/dalal) - My personal investment hel
 - [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - The archived version of my personal website built using Next.js
 - [Jarmos-san/resets.css](https://github.com/Jarmos-san/resets.css) - An unopinionated and minimal CSS resets script for maximum cross-browser compatability!
 - [Jarmos-san/playbooks](https://github.com/Jarmos-san/playbooks) - A collection of Ansible playbooks for provisioning the infrastructure of some of my personal projects
 - [Jarmos-san/resume](https://github.com/Jarmos-san/resume) - My public resume created using Typst!
-- [Jarmos-san/vale-precommit](https://github.com/Jarmos-san/vale-precommit) - A Pre-Commit hook to lint Markdown &amp; Text files for grammatical/spelling errors
 
 #### 📜 My recent blog posts
 
