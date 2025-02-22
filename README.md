@@ -6,9 +6,9 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A purposefully built CMS for blogging at any scale! (today)
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (5 days ago)
+- [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A purposefully built CMS for blogging at any scale! (1 day ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (6 days ago)
 - [Jarmos-san/saap](https://github.com/Jarmos-san/saap) - A LSP server implementation for the Python programming language. (1 week ago)
 - [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (1 month ago)
 
