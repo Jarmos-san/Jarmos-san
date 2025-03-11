@@ -10,15 +10,15 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer (1 day ago)
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (4 days ago)
 - [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A purposefully built CMS for blogging at any scale! (1 week ago)
-- [Jarmos-san/saap](https://github.com/Jarmos-san/saap) - A LSP server implementation for the Python programming language. (3 weeks ago)
+- [Sagar-Kap/sagarkapoor](https://github.com/Sagar-Kap/sagarkapoor) - Personal Blog on NuxtJS (2 months ago)
 
 #### 🌱 My latest projects
 
-- [Jarmos-san/saap](https://github.com/Jarmos-san/saap) - A LSP server implementation for the Python programming language.
 - [Jarmos-san/dalal](https://github.com/Jarmos-san/dalal) - My personal investment hel
 - [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - The archived version of my personal website built using Next.js
 - [Jarmos-san/resets.css](https://github.com/Jarmos-san/resets.css) - An unopinionated and minimal CSS resets script for maximum cross-browser compatability!
 - [Jarmos-san/playbooks](https://github.com/Jarmos-san/playbooks) - A collection of Ansible playbooks for provisioning the infrastructure of some of my personal projects
+- [Jarmos-san/resume](https://github.com/Jarmos-san/resume) - My public resume created using Typst!
 
 #### 📜 My recent blog posts
 
