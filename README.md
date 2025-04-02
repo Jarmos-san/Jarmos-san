@@ -30,7 +30,7 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jarmos-san/resume](https://github.com/Jarmos-san/resume) ([v2025.04](https://github.com/Jarmos-san/resume/releases/tag/v2025.04), 1 day ago) - My resume built with Typst!
+- [Jarmos-san/resume](https://github.com/Jarmos-san/resume) ([v2025.04.02](https://github.com/Jarmos-san/resume/releases/tag/v2025.04.02), today) - My resume built with Typst!
 - [Weburz/crisp](https://github.com/Weburz/crisp) ([v0.1.5](https://github.com/Weburz/crisp/releases/tag/v0.1.5), 2 days ago) - A linter for Git commit messages
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.4.3](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.4.3), 2 months ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer
 - [Weburz/selfhosted-runners](https://github.com/Weburz/selfhosted-runners) ([v1.2.0](https://github.com/Weburz/selfhosted-runners/releases/tag/v1.2.0), 6 months ago) - This repository contains the IaC source code used to provision and setup our self-hosted GitHub Actions runners.
