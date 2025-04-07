@@ -6,11 +6,11 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/homelab](https://github.com/Jarmos-san/homelab) - 🧪 The repository containing management resources for my homelab (today)
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/resume](https://github.com/Jarmos-san/resume) - My resume built with Typst! (4 days ago)
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (6 days ago)
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer (6 days ago)
+- [Jarmos-san/homelab](https://github.com/Jarmos-san/homelab) - 🧪 The repository containing management resources for my homelab (1 day ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Jarmos-san/resume](https://github.com/Jarmos-san/resume) - My resume built with Typst! (5 days ago)
+- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (1 week ago)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -30,8 +30,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jarmos-san/resume](https://github.com/Jarmos-san/resume) ([v2025.04.02](https://github.com/Jarmos-san/resume/releases/tag/v2025.04.02), 4 days ago) - My resume built with Typst!
-- [Weburz/crisp](https://github.com/Weburz/crisp) ([v0.1.5](https://github.com/Weburz/crisp/releases/tag/v0.1.5), 6 days ago) - A linter for Git commit messages
+- [Jarmos-san/resume](https://github.com/Jarmos-san/resume) ([v2025.04.02](https://github.com/Jarmos-san/resume/releases/tag/v2025.04.02), 5 days ago) - My resume built with Typst!
+- [Weburz/crisp](https://github.com/Weburz/crisp) ([v0.1.5](https://github.com/Weburz/crisp/releases/tag/v0.1.5), 1 week ago) - A linter for Git commit messages
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.4.3](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.4.3), 2 months ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer
 - [Weburz/selfhosted-runners](https://github.com/Weburz/selfhosted-runners) ([v1.2.0](https://github.com/Weburz/selfhosted-runners/releases/tag/v1.2.0), 6 months ago) - This repository contains the IaC source code used to provision and setup our self-hosted GitHub Actions runners.
 - [Weburz/pr-lint-action](https://github.com/Weburz/pr-lint-action) ([v0.0.1](https://github.com/Weburz/pr-lint-action/releases/tag/v0.0.1), 2 years ago) - A GitHub Actions to lint PR titles using the CommitLint specifications
