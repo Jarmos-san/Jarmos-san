@@ -34,6 +34,5 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 - [Jarmos-san/resume](https://github.com/Jarmos-san/resume) ([v2025.04.17](https://github.com/Jarmos-san/resume/releases/tag/v2025.04.17), 1 week ago) - My resume built with Typst!
 - [Weburz/crisp](https://github.com/Weburz/crisp) ([v0.1.6](https://github.com/Weburz/crisp/releases/tag/v0.1.6), 1 week ago) - A linter for Git commit messages
 - [Weburz/selfhosted-runners](https://github.com/Weburz/selfhosted-runners) ([v1.2.0](https://github.com/Weburz/selfhosted-runners/releases/tag/v1.2.0), 7 months ago) - This repository contains the IaC source code used to provision and setup our self-hosted GitHub Actions runners.
-- [Weburz/pr-lint-action](https://github.com/Weburz/pr-lint-action) ([v0.0.1](https://github.com/Weburz/pr-lint-action/releases/tag/v0.0.1), 2 years ago) - A GitHub Actions to lint PR titles using the CommitLint specifications
 
 This self-generating profile page was created with [readme-scribe](https://github.com/muesli/readme-scribe), a FOSS by the amazing [Christian Muehlhaeuser](https://github.com/muesli)!
