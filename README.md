@@ -6,8 +6,8 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/resets.css](https://github.com/Jarmos-san/resets.css) - An unopinionated and minimal CSS resets script for maximum cross-browser compatability! (1 day ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Jarmos-san/resets.css](https://github.com/Jarmos-san/resets.css) - An unopinionated and minimal CSS resets script for maximum cross-browser compatability! (2 days ago)
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer (1 week ago)
 - [Jarmos-san/resume](https://github.com/Jarmos-san/resume) - My resume built with Typst! (1 month ago)
 - [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (1 month ago)
@@ -33,6 +33,6 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.4.4](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.4.4), 2 months ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer
 - [Jarmos-san/resume](https://github.com/Jarmos-san/resume) ([v2025.04.17](https://github.com/Jarmos-san/resume/releases/tag/v2025.04.17), 2 months ago) - My resume built with Typst!
 - [Weburz/crisp](https://github.com/Weburz/crisp) ([v0.1.6](https://github.com/Weburz/crisp/releases/tag/v0.1.6), 2 months ago) - A linter for Git commit messages
-- [Weburz/selfhosted-runners](https://github.com/Weburz/selfhosted-runners) ([v1.2.0](https://github.com/Weburz/selfhosted-runners/releases/tag/v1.2.0), 8 months ago) - This repository contains the IaC source code used to provision and setup our self-hosted GitHub Actions runners.
+- [Weburz/selfhosted-runners](https://github.com/Weburz/selfhosted-runners) ([v1.2.0](https://github.com/Weburz/selfhosted-runners/releases/tag/v1.2.0), 9 months ago) - This repository contains the IaC source code used to provision and setup our self-hosted GitHub Actions runners.
 
 This self-generating profile page was created with [readme-scribe](https://github.com/muesli/readme-scribe), a FOSS by the amazing [Christian Muehlhaeuser](https://github.com/muesli)!
