@@ -6,23 +6,23 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 👷 Check out what I'm currently working on
 
-- [Weburz/burzcontent](https://github.com/Weburz/burzcontent) - A purposefully built CMS for blogging at any scale! (6 days ago)
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (6 days ago)
-- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (2 weeks ago)
-- [Jarmos-san/resume](https://github.com/Jarmos-san/resume) - My resume built with Typst! (3 weeks ago)
-- [Jarmos-san/resets.css](https://github.com/Jarmos-san/resets.css) - An unopinionated and minimal CSS resets script for maximum cross-browser compatability! (1 month ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
+- [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (3 weeks ago)
+- [Weburz/terox](https://github.com/Weburz/terox) - A CLI tool to scaffold project repositories from prebuilt templates (1 month ago)
+- [Jarmos-san/resume](https://github.com/Jarmos-san/resume) - My resume built with Typst! (2 months ago)
+- [Weburz/crisp](https://github.com/Weburz/crisp) - A linter for Git commit messages (2 months ago)
 
 #### 🌱 My latest projects
 
 - [Jarmos-san/dalal](https://github.com/Jarmos-san/dalal) - My personal investment hel
-- [Jarmos-san/nextjs-blog](https://github.com/Jarmos-san/nextjs-blog) - The archived version of my personal website built using Next.js
 - [Jarmos-san/resets.css](https://github.com/Jarmos-san/resets.css) - An unopinionated and minimal CSS resets script for maximum cross-browser compatability!
-- [Jarmos-san/playbooks](https://github.com/Jarmos-san/playbooks) - A collection of Ansible playbooks for provisioning the infrastructure of some of my personal projects
 - [Jarmos-san/resume](https://github.com/Jarmos-san/resume) - My resume built with Typst!
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer
+- [Jarmos-san/homelab](https://github.com/Jarmos-san/homelab) - 🧪 The repository containing management resources for my homelab
 
 #### 📜 My recent blog posts
 
-- [An Automated and Modern Workflow for Using LaTex](https://jarmos.dev/blog/automated-workflow-for-latex/) (3 years ago)
+- [An Automated and Modern Workflow for Using LaTex](https://jarmos.dev/blog/automated-workflow-for-latex/) (4 years ago)
 - [How to Create Custom Keymaps in Neovim With Lua](https://jarmos.dev/blog/create-custom-neovim-keybindings-using-lua/) (3 years ago)
 - [Create an Overpowered Hugo Blog (as an WordPress Alternative)](https://jarmos.dev/blog/create-hugo-blog-as-an-wordpress-alternative/) (4 years ago)
 - [Customising the New Windows Terminal: A Minimalist Approach](https://jarmos.dev/blog/customise-windows-terminal/) (4 years ago)
@@ -30,9 +30,9 @@ That said, please feel free to check out my work & contributions on GitHub. Take
 
 #### 🔭 Latest releases I've contributed to
 
-- [Weburz/crisp](https://github.com/Weburz/crisp) ([v1.0.0](https://github.com/Weburz/crisp/releases/tag/v1.0.0), 2 weeks ago) - A linter for Git commit messages
-- [Jarmos-san/resume](https://github.com/Jarmos-san/resume) ([v2025.07.01](https://github.com/Jarmos-san/resume/releases/tag/v2025.07.01), 1 month ago) - My resume built with Typst!
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.4.4](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.4.4), 3 months ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer
-- [Weburz/selfhosted-runners](https://github.com/Weburz/selfhosted-runners) ([v1.2.0](https://github.com/Weburz/selfhosted-runners/releases/tag/v1.2.0), 10 months ago) - This repository contains the IaC source code used to provision and setup our self-hosted GitHub Actions runners.
+- [Jarmos-san/resume](https://github.com/Jarmos-san/resume) ([v2025.10.01](https://github.com/Jarmos-san/resume/releases/tag/v2025.10.01), 2 weeks ago) - My resume built with Typst!
+- [Weburz/crisp](https://github.com/Weburz/crisp) ([v1.0.0](https://github.com/Weburz/crisp/releases/tag/v1.0.0), 2 months ago) - A linter for Git commit messages
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v1.4.4](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v1.4.4), 6 months ago) - 👨 The source code of my personal website where I share my knowledge &amp; experience as a Software Engineer
+- [Weburz/selfhosted-runners](https://github.com/Weburz/selfhosted-runners) ([v1.2.0](https://github.com/Weburz/selfhosted-runners/releases/tag/v1.2.0), 1 year ago) - This repository contains the IaC source code used to provision and setup our self-hosted GitHub Actions runners.
 
 This self-generating profile page was created with [readme-scribe](https://github.com/muesli/readme-scribe), a FOSS by the amazing [Christian Muehlhaeuser](https://github.com/muesli)!
