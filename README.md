@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Somraj, but you can call me Jarmos & I'm a Full-Stack Software Engineer. When not writing code, I share my experiences & thoughts on my [personal blog](https://jarmos.dev). Do check it out, leave a feedback over on Twitter or Email & you'll do me a massive favour.
-
-That said, please feel free to check out my work & contributions on GitHub. Take a look at what I've been working & if there's anything you might want to contribute to.
+I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as the Chief Technology Officer (CTO) at [Weburz](https://weburz.com). My day job involves writing architecting systems, mentoring junior developers and occassionally convincing servers to not misbehave. Outside of work, you will often see me tinkering with and contributing to Open-Source Software because who does not like giving back to the same ecosystem which makes our job both fun and frustrating at times. If you're curious about me, check out the ["About Me"](https://jarmos.dev/about-me) page on the website.
 
 #### 👷 Check out what I'm currently working on
 
