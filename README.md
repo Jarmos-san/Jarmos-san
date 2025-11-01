@@ -31,6 +31,5 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v2.0.0](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v2.0.0), 1 week ago) - The source code of my personal website (and digital garden)
 - [Jarmos-san/resume](https://github.com/Jarmos-san/resume) ([v2025.10.01](https://github.com/Jarmos-san/resume/releases/tag/v2025.10.01), 1 month ago) - My resume built with Typst!
 - [Weburz/crisp](https://github.com/Weburz/crisp) ([v1.0.0](https://github.com/Weburz/crisp/releases/tag/v1.0.0), 3 months ago) - A linter for Git commit messages
-- [Weburz/selfhosted-runners](https://github.com/Weburz/selfhosted-runners) ([v1.2.0](https://github.com/Weburz/selfhosted-runners/releases/tag/v1.2.0), 1 year ago) - This repository contains the IaC source code used to provision and setup our self-hosted GitHub Actions runners.
 
 This self-generating profile page was created with [readme-scribe](https://github.com/muesli/readme-scribe), a FOSS by the amazing [Christian Muehlhaeuser](https://github.com/muesli)!
