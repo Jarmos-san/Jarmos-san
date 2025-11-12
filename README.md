@@ -12,11 +12,11 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 🌱 My latest projects
 
-- [Jarmos-san/dalal](https://github.com/Jarmos-san/dalal) - My personal investment hel
 - [Jarmos-san/resets.css](https://github.com/Jarmos-san/resets.css) - An unopinionated and minimal CSS resets script for maximum cross-browser compatability!
 - [Jarmos-san/resume](https://github.com/Jarmos-san/resume) - My resume built with Typst!
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden)
 - [Jarmos-san/homelab](https://github.com/Jarmos-san/homelab) - 🧪 The repository containing management resources for my homelab
+- [Jarmos-san/shellcheck-precommit](https://github.com/Jarmos-san/shellcheck-precommit) - ✅ A better Pre-Commit hook to check your Shell scripts
 
 #### 📜 My recent blog posts
 
