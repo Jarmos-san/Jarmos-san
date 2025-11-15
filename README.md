@@ -20,11 +20,11 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 📜 My recent blog posts
 
+- [Building CLI applications with Python&#39;s argparse module.](https://jarmos.dev/blogs/building-cli-apps-with-argparse-from-the-standard-library) (3 days ago)
 - [Lessons Learned from Rebuilding my Personal Website](https://jarmos.dev/blogs/lessons-from-rebuilding-personal-website-from-scratch) (2 years ago)
 - [Should You Use Next.js?](https://jarmos.dev/blogs/should-you-use-nextjs) (3 years ago)
 - [How to Create Custom Keymaps in Neovim With Lua](https://jarmos.dev/blogs/create-custom-neovim-keybindings-using-lua) (4 years ago)
 - [An Automated and Modern Workflow for Using LaTex](https://jarmos.dev/blogs/automated-workflow-for-latex) (4 years ago)
-- [Vim or Neovim? Here is Why You Should Use the Latter!](https://jarmos.dev/blogs/vim-vs-neovim) (4 years ago)
 
 #### 🔭 Latest releases I've contributed to
 
