@@ -4,10 +4,10 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/resume](https://github.com/Jarmos-san/resume) - My resume built with Typst! (today)
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [Jarmos-san/rivu](https://github.com/Jarmos-san/rivu) - A modern and type-safe RSS feed generator for Node.js (2 days ago)
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (2 days ago)
+- [Jarmos-san/resume](https://github.com/Jarmos-san/resume) - My resume built with Typst! (1 day ago)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [Jarmos-san/rivu](https://github.com/Jarmos-san/rivu) - A modern and type-safe RSS feed generator for Node.js (3 days ago)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (3 days ago)
 - [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (1 week ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 📜 My recent blog posts
 
-- [Building CLI applications with Python&#39;s argparse module.](https://jarmos.dev/blogs/building-cli-apps-with-argparse-from-the-standard-library) (6 days ago)
+- [Building CLI applications with Python&#39;s argparse module.](https://jarmos.dev/blogs/building-cli-apps-with-argparse-from-the-standard-library) (1 week ago)
 - [Lessons Learned from Rebuilding my Personal Website](https://jarmos.dev/blogs/lessons-from-rebuilding-personal-website-from-scratch) (2 years ago)
 - [Should You Use Next.js?](https://jarmos.dev/blogs/should-you-use-nextjs) (3 years ago)
 - [How to Create Custom Keymaps in Neovim With Lua](https://jarmos.dev/blogs/create-custom-neovim-keybindings-using-lua) (4 years ago)
@@ -28,7 +28,7 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v2.0.0](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v2.0.0), 3 weeks ago) - The source code of my personal website (and digital garden)
+- [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v2.0.0](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v2.0.0), 4 weeks ago) - The source code of my personal website (and digital garden)
 - [Jarmos-san/resume](https://github.com/Jarmos-san/resume) ([v2025.10.01](https://github.com/Jarmos-san/resume/releases/tag/v2025.10.01), 1 month ago) - My resume built with Typst!
 - [Weburz/crisp](https://github.com/Weburz/crisp) ([v1.0.0](https://github.com/Weburz/crisp/releases/tag/v1.0.0), 4 months ago) - A linter for Git commit messages
 
