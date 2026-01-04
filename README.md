@@ -4,9 +4,9 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 👷 Check out what I'm currently working on
 
-- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
+- [Jarmos-san/dotfiles](https://github.com/Jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
 - [Jarmos-san/resume](https://github.com/Jarmos-san/resume) - My resume built with Typst! (3 weeks ago)
-- [Jarmos-san/rivu](https://github.com/Jarmos-san/rivu) - A modern and type-safe RSS feed generator for Node.js (3 weeks ago)
+- [Jarmos-san/rivu](https://github.com/Jarmos-san/rivu) - A modern and type-safe RSS feed generator for Node.js (4 weeks ago)
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (1 month ago)
 - [Weburz/burzpage](https://github.com/Weburz/burzpage) - A purposefully built CMS for blogging at any scale! (1 month ago)
 
@@ -28,7 +28,7 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 🔭 Latest releases I've contributed to
 
-- [Jarmos-san/resume](https://github.com/Jarmos-san/resume) ([v2026.01.01](https://github.com/Jarmos-san/resume/releases/tag/v2026.01.01), 2 days ago) - My resume built with Typst!
+- [Jarmos-san/resume](https://github.com/Jarmos-san/resume) ([v2026.01.01](https://github.com/Jarmos-san/resume/releases/tag/v2026.01.01), 3 days ago) - My resume built with Typst!
 - [Jarmos-san/rivu](https://github.com/Jarmos-san/rivu) ([v0.1.13](https://github.com/Jarmos-san/rivu/releases/tag/v0.1.13), 1 month ago) - A modern and type-safe RSS feed generator for Node.js
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v2.0.0](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v2.0.0), 2 months ago) - The source code of my personal website (and digital garden)
 - [Weburz/crisp](https://github.com/Weburz/crisp) ([v1.0.0](https://github.com/Weburz/crisp/releases/tag/v1.0.0), 5 months ago) - A linter for Git commit messages
