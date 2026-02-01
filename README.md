@@ -28,8 +28,8 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 🔭 Latest releases I've contributed to
 
+- [Jarmos-san/rivu](https://github.com/Jarmos-san/rivu) ([v1.0.0](https://github.com/Jarmos-san/rivu/releases/tag/v1.0.0), today) - A modern and type-safe RSS feed generator for Node.js
 - [Jarmos-san/resume](https://github.com/Jarmos-san/resume) ([v2026.01.01](https://github.com/Jarmos-san/resume/releases/tag/v2026.01.01), 1 month ago) - My resume built with Typst!
-- [Jarmos-san/rivu](https://github.com/Jarmos-san/rivu) ([v0.1.13](https://github.com/Jarmos-san/rivu/releases/tag/v0.1.13), 2 months ago) - A modern and type-safe RSS feed generator for Node.js
 - [Jarmos-san/jarmos.dev](https://github.com/Jarmos-san/jarmos.dev) ([v2.0.0](https://github.com/Jarmos-san/jarmos.dev/releases/tag/v2.0.0), 3 months ago) - The source code of my personal website (and digital garden)
 - [Weburz/crisp](https://github.com/Weburz/crisp) ([v1.0.0](https://github.com/Weburz/crisp/releases/tag/v1.0.0), 6 months ago) - A linter for Git commit messages
 
