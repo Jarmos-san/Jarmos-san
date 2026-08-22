@@ -4,8 +4,8 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 👷 Check out what I'm currently working on
 
-- [jarmos-san/dotfiles](https://github.com/jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [jarmos-san/arthika](https://github.com/jarmos-san/arthika) - An experimental web app to help me track my financial investments (4 days ago)
+- [jarmos-san/dotfiles](https://github.com/jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [jarmos-san/arthika](https://github.com/jarmos-san/arthika) - An experimental web app to help me track my financial investments (5 days ago)
 - [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (1 week ago)
 - [jarmos-san/jarmos.dev](https://github.com/jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (2 weeks ago)
 - [jarmos-san/blogposts](https://github.com/jarmos-san/blogposts) - A private repository containing individual blog posts I share on my personal website (1 month ago)
@@ -32,6 +32,6 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 - [jarmos-san/resume](https://github.com/jarmos-san/resume) ([v2026.07.01](https://github.com/jarmos-san/resume/releases/tag/v2026.07.01), 1 month ago) - My resume built with Typst!
 - [jarmos-san/rivu](https://github.com/jarmos-san/rivu) ([v1.2.1](https://github.com/jarmos-san/rivu/releases/tag/v1.2.1), 2 months ago) - A modern and type-safe RSS feed generator for Node.js
 - [weburz/terox](https://github.com/weburz/terox) ([v0.3.0](https://github.com/weburz/terox/releases/tag/v0.3.0), 2 months ago) - A CLI tool to scaffold project repositories from prebuilt templates
-- [jarmos-san/resume-template](https://github.com/jarmos-san/resume-template) ([v1.0.0](https://github.com/jarmos-san/resume-template/releases/tag/v1.0.0), 3 months ago) - A resume template built with Typst and meant for technical roles.
+- [jarmos-san/resume-template](https://github.com/jarmos-san/resume-template) ([v1.0.0](https://github.com/jarmos-san/resume-template/releases/tag/v1.0.0), 4 months ago) - A resume template built with Typst and meant for technical roles.
 
 This self-generating profile page was created with [readme-scribe](https://github.com/muesli/readme-scribe), a FOSS by the amazing [Christian Muehlhaeuser](https://github.com/muesli)!
