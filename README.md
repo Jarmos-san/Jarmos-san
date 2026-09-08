@@ -4,9 +4,9 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 
 #### 👷 Check out what I'm currently working on
 
-- [jarmos-san/dotfiles](https://github.com/jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (today)
-- [jarmos-san/jarmos.dev](https://github.com/jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (today)
-- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (4 days ago)
+- [jarmos-san/dotfiles](https://github.com/jarmos-san/dotfiles) - 👷🏗️ Collection of dotfiles for a Linux-based development environment! (1 day ago)
+- [jarmos-san/jarmos.dev](https://github.com/jarmos-san/jarmos.dev) - The source code of my personal website (and digital garden) (1 day ago)
+- [weburz/tech.weburz.com](https://github.com/weburz/tech.weburz.com) - The Weburz engineering site — long-form notes and open-source project docs. (5 days ago)
 - [jarmos-san/arthika](https://github.com/jarmos-san/arthika) - An experimental web app to help me track my financial investments (3 weeks ago)
 - [jarmos-san/blogposts](https://github.com/jarmos-san/blogposts) - A private repository containing individual blog posts I share on my personal website (2 months ago)
 
@@ -24,7 +24,7 @@ I'm Somraj "Jarmos" Saha, Ia m a Senior Software Engineer currently working as t
 - [Web Authentication Methods Explained: Pros, Cons, and Best Practices (2026 Guide)](https://jarmos.dev/blogs/a-comprehensive-guide-authentication-in-web-applications) (4 months ago)
 - [Understanding Pointers in Go: A Practical Guide](https://jarmos.dev/blogs/a-definitive-guide-to-pointers-in-go) (6 months ago)
 - [Why I&#39;m Never Buying an iPhone Again: A Switch to Android for Value and Freedom](https://jarmos.dev/blogs/why-i-m-never-buying-an-iphone-again) (8 months ago)
-- [Building CLI applications with Python&#39;s argparse module.](https://jarmos.dev/blogs/building-cli-apps-with-argparse-from-the-standard-library) (9 months ago)
+- [Building CLI applications with Python&#39;s argparse module.](https://jarmos.dev/blogs/building-cli-apps-with-argparse-from-the-standard-library) (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
